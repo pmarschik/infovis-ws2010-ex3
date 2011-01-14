@@ -1,6 +1,33 @@
 import json
 import csv
 
+f=open('countries.txt')
+continents = { 'AF': [], 'AS': [], 'EU': [], 'NA': [], 'SA': [], 'OC': [], 'AN': [] }
+
+for line in f:
+    continent = line[:2]
+    country = line[14:]
+    offset = country.find(',')
+    if offset >= 0: country = country[:offset]
+    offset = country.find('\n')
+    if offset >= 0: country = country[:offset]
+    continents[continent].append(country)
+
+
+f.close()
+
+def rename_key(dict, old, to):
+    dict[to] = dict[old]
+    del dict[old]
+
+rename_key(continents, 'AF', 'Africa')
+rename_key(continents, 'AS', 'Asia')
+rename_key(continents, 'EU', 'Europe')
+rename_key(continents, 'NA', 'North America')
+rename_key(continents, 'SA', 'South America')
+rename_key(continents, 'OC', 'Oceania')
+rename_key(continents, 'AN', 'Antarctica')
+
 f = open('alldata.csv','r')
 reader = csv.reader(f)
 out = []
@@ -49,11 +76,20 @@ for row in reader:
     total_sanitation_opendefecation = row[29]
     total_sanitation_otherunimproved = row[30]
     total_sanitation_unimproved = row[31]
+    this_continent = None
+
+    for continent, countries in continents.items():
+        for ctry in countries:
+            if ctry == country: this_continent = continent
+
+    if this_continent == None:
+        continue
 
     if country == "Total": continue
 
     out += [{
         "country": country,
+        "continent": this_continent,
         "year": int(year),
         "total_population": safeFloat(total),
         "urban_population": safeFloat(urban),

@@ -5,7 +5,6 @@
 
         <script type="text/javascript" src="protovis-3.2/protovis-d3.2.js"></script>
         <script type="text/javascript" src="data.js"></script>
-        <script type="text/javascript" src="countries.js"></script>
 
         <style type="text/css">
             #fig {
@@ -35,26 +34,6 @@
             <script type="text/javascript+protovis">
                 var width = 800;
                 var height = 480;
-
-                function getContinent(c) {
-                    function isInContinent(c, cs) {
-                        for(i in cs)
-                            if(c == cs[i]) return true
-                        return false
-                    }
-
-                    if(isInContinent(c, continents.AF)) return 'Africa';
-                    if(isInContinent(c, continents.AS)) return 'Asia';
-                    if(isInContinent(c, continents.EU)) return 'Europe';
-                    if(isInContinent(c, continents.NA)) return 'North America';
-                    if(isInContinent(c, continents.SA)) return 'South America';
-                    if(isInContinent(c, continents.OC)) return 'Oceania';
-                    if(isInContinent(c, continents.AN)) return 'Antarctica';
-
-                    console.log(c + ' has no continent');
-                }
-
-                data.forEach(function(d) d.continent = getContinent(d.country));
 
                 max = pv.max(data, function(d) d.water.total.improved.total);
 
