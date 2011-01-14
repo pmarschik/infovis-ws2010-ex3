@@ -15,16 +15,21 @@
     </head>
 
     <body>
+        <div style="text-align:right;padding-right:20;">
+            <strong>Population:</strong>
+            <select name="population" size="1">
+                <option>Total</option>
+                <option>Urban</option>
+                <option>Rural</option>
+            </select>
+            <strong>Attribute:</strong>
+            <select name="attribute" size="1">
+                <option>Water improved(totals)</option>
+                <option>Sanitation Unimproved(totals)</option>
+            </select>
+        </div>
         <div id="fig" style="align:center">
-		    <div style="text-align:right;padding-right:20;">
-      <b>Attribute:</b>
-    <select name="top5" size="1">
-      <option>Urban</option>
-      <option>Rural</option>
-      <option>Water improved(totals)</option>
-      <option>Sanitation Unimproved(totals)</option>
-    </select>
-    </div>
+
 
             <script type="text/javascript+protovis">
                 var width = 800;
