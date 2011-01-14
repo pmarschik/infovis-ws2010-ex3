@@ -48,11 +48,11 @@ AS CX CXR 162 Christmas Island
 AS CC CCK 166 Cocos (Keeling) Islands
 SA CO COL 170 Colombia, Republic of
 AF KM COM 174 Comoros, Union of the
-AF CD COD 180 Congo, Democratic Republic of the
+AF CD COD 180 Democratic Republic of the Congo
 AF CG COG 178 Congo, Republic of the
 OC CK COK 184 Cook Islands
 NA CR CRI 188 Costa Rica, Republic of
-AF CI CIV 384 Cote d'Ivoire, Republic of
+AF CI CIV 384 Côte d'Ivoire, Republic of
 EU HR HRV 191 Croatia, Republic of
 NA CU CUB 192 Cuba, Republic of
 AS CY CYP 196 Cyprus, Republic of
@@ -101,7 +101,7 @@ EU HU HUN 348 Hungary, Republic of
 EU IS ISL 352 Iceland, Republic of
 AS IN IND 356 India, Republic of
 AS ID IDN 360 Indonesia, Republic of
-AS IR IRN 364 Iran, Islamic Republic of
+AS IR IRN 364 Iran (Islamic Republic of)
 AS IQ IRQ 368 Iraq, Republic of
 EU IE IRL 372 Ireland
 EU IM IMN 833 Isle of Man
@@ -114,10 +114,10 @@ AS JO JOR 400 Jordan, Hashemite Kingdom of
 AS KZ KAZ 398 Kazakhstan, Republic of
 AF KE KEN 404 Kenya, Republic of
 OC KI KIR 296 Kiribati, Republic of
-AS KP PRK 408 Korea, Democratic People's Republic of
-AS KR KOR 410 Korea, Republic of
+AS KP PRK 408 Democratic People's Republic of Korea
+AS KR KOR 410 Republic of Korea
 AS KW KWT 414 Kuwait, State of
-AS KG KGZ 417 Kyrgyz Republic
+AS KG KGZ 417 Kyrgyzstan
 AS LA LAO 418 Lao People's Democratic Republic
 EU LV LVA 428 Latvia, Republic of
 AS LB LBN 422 Lebanon, Lebanese Republic
@@ -128,7 +128,7 @@ EU LI LIE 438 Liechtenstein, Principality of
 EU LT LTU 440 Lithuania, Republic of
 EU LU LUX 442 Luxembourg, Grand Duchy of
 AS MO MAC 446 Macao, Special Administrative Region of China
-EU MK MKD 807 Macedonia, Republic of
+EU MK MKD 807 TFYR Macedonia
 AF MG MDG 450 Madagascar, Republic of
 AF MW MWI 454 Malawi, Republic of
 AS MY MYS 458 Malaysia
@@ -141,8 +141,8 @@ AF MR MRT 478 Mauritania, Islamic Republic of
 AF MU MUS 480 Mauritius, Republic of
 AF YT MYT 175 Mayotte
 NA MX MEX 484 Mexico, United Mexican States
-OC FM FSM 583 Micronesia, Federated States of
-EU MD MDA 498 Moldova, Republic of
+OC FM FSM 583 Micronesia (Federated States of)
+EU MD MDA 498 Republic of Moldova
 EU MC MCO 492 Monaco, Principality of
 AS MN MNG 496 Mongolia
 EU ME MNE 499 Montenegro, Republic of
@@ -167,7 +167,7 @@ EU NO NOR 578 Norway, Kingdom of
 AS OM OMN 512 Oman, Sultanate of
 AS PK PAK 586 Pakistan, Islamic Republic of
 OC PW PLW 585 Palau, Republic of
-AS PS PSE 275 Palestinian Territory, Occupied
+AS PS PSE 275 Occupied Palestinian Territory, Occupied
 NA PA PAN 591 Panama, Republic of
 OC PG PNG 598 Papua New Guinea, Independent State of
 SA PY PRY 600 Paraguay, Republic of
@@ -198,7 +198,7 @@ EU RS SRB 688 Serbia, Republic of
 AF SC SYC 690 Seychelles, Republic of
 AF SL SLE 694 Sierra Leone, Republic of
 AS SG SGP 702 Singapore, Republic of
-EU SK SVK 703 Slovakia (Slovak Republic)
+EU SK SVK 703 Slovakia
 EU SI SVN 705 Slovenia, Republic of
 OC SB SLB 090 Solomon Islands
 AF SO SOM 706 Somalia, Somali Republic
@@ -215,7 +215,7 @@ EU CH CHE 756 Switzerland, Swiss Confederation
 AS SY SYR 760 Syrian Arab Republic
 AS TW TWN 158 Taiwan
 AS TJ TJK 762 Tajikistan, Republic of
-AF TZ TZA 834 Tanzania, United Republic of
+AF TZ TZA 834 United Republic of Tanzania
 AS TH THA 764 Thailand, Kingdom of
 AS TL TLS 626 Timor-Leste, Democratic Republic of
 AF TG TGO 768 Togo, Togolese Republic
@@ -230,7 +230,7 @@ OC TV TUV 798 Tuvalu
 AF UG UGA 800 Uganda, Republic of
 EU UA UKR 804 Ukraine
 AS AE ARE 784 United Arab Emirates
-EU GB GBR 826 United Kingdom of Great Britain & Northern Ireland
+EU GB GBR 826 United Kingdom
 NA US USA 840 United States of America
 OC UM UMI 581 United States Minor Outlying Islands
 NA VI VIR 850 United States Virgin Islands
@@ -238,8 +238,8 @@ SA UY URY 858 Uruguay, Eastern Republic of
 AS UZ UZB 860 Uzbekistan, Republic of
 OC VU VUT 548 Vanuatu, Republic of
 SA VE VEN 862 Venezuela, Bolivarian Republic of
-AS VN VNM 704 Vietnam, Socialist Republic of
-OC WF WLF 876 Wallis and Futuna
+AS VN VNM 704 Viet Nam, Socialist Republic of
+OC WF WLF 876 Wallis and Futuna Islands
 AF EH ESH 732 Western Sahara
 AS YE YEM 887 Yemen
 AF ZM ZMB 894 Zambia, Republic of

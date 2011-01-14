@@ -38,18 +38,20 @@
 
                 function getContinent(c) {
                     function isInContinent(c, cs) {
-                        for(x in cs)
-                            if(c == x) return true
+                        for(i in cs)
+                            if(c == cs[i]) return true
                         return false
                     }
 
-                    if(isInContinent(c, 'AF')) return 'Africa';
-                    if(isInContinent(c, 'AS')) return 'Asia';
-                    if(isInContinent(c, 'EU')) return 'Europe';
-                    if(isInContinent(c, 'NA')) return 'North America';
-                    if(isInContinent(c, 'SA')) return 'South America';
-                    if(isInContinent(c, 'OC')) return 'Oceania';
-                    if(isInContinent(c, 'AN')) return 'Antarctica';
+                    if(isInContinent(c, continents.AF)) return 'Africa';
+                    if(isInContinent(c, continents.AS)) return 'Asia';
+                    if(isInContinent(c, continents.EU)) return 'Europe';
+                    if(isInContinent(c, continents.NA)) return 'North America';
+                    if(isInContinent(c, continents.SA)) return 'South America';
+                    if(isInContinent(c, continents.OC)) return 'Oceania';
+                    if(isInContinent(c, continents.AN)) return 'Antarctica';
+
+                    console.log(c + ' has no continent');
                 }
 
                 data.forEach(function(d) d.continent = getContinent(d.country));
@@ -69,7 +71,7 @@
 
                 vis.add(pv.Layout.Stack)
                     .layers(function() pv.nest(data)
-                        .key(function(d) d.continent)
+                        .key(function(d) d.country)
                         .entries())
                     .values(function(d) d.values)
                     .x(function(d) x(d.year))

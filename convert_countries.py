@@ -6,7 +6,10 @@ countries = { 'AF': [], 'AS': [], 'EU': [], 'NA': [], 'SA': [], 'OC': [], 'AN': 
 for line in f:
     continent = line[:2]
     country = line[14:]
-    country = country[:country.find(',')]
+    offset = country.find(',')
+    if offset >= 0: country = country[:offset]
+    offset = country.find('\n')
+    if offset >= 0: country = country[:offset]
     countries[continent].append(country)
 
 

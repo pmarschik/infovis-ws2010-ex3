@@ -50,6 +50,8 @@ for row in reader:
     total_sanitation_otherunimproved = row[30]
     total_sanitation_unimproved = row[31]
 
+    if country == "Total": continue
+
     out += [{
         "country": country,
         "year": int(year),
