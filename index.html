@@ -35,8 +35,11 @@
                 var width = 800;
                 var height = 480;
 
+                data_austria = data.filter(function(d) d.country == "Austria")
+                max = pv.max(data, function(d) d.water.total.improved.total);
+
                 x = new pv.Scale.linear(pv.range(1990, 2010, 5)).range(0, width);
-                y = new pv.Scale.linear(0, pv.max(data, function(d) d.water.total.improved)).range(0, height);
+                y = new pv.Scale.linear(0, max).range(0, height);
 
                 var vis = new pv.Panel()
                     .width(width)
@@ -48,13 +51,12 @@
 
                 vis.add(pv.Layout.Stack)
                     .layers(function() pv.nest(data)
-                        .key(function(d) d.water.total.improved.total)
+                        .key(function(d) d.country)
                         .entries())
                     .values(function(d) d.values)
                     .x(function(d) x(d.year))
                     .y(function(d) y(d.water.total.improved.total))
-                    .layer.add(pv.Area)
-                    .bottom(10);
+                    .layer.add(pv.Area);
 
                 vis.add(pv.Rule)
                     .data(pv.range(1990, 2010, 5))

@@ -10,7 +10,7 @@ def safeFloat(s):
     try:
         return float(s)
     except ValueError:
-        return float("NaN")
+        return float("-1")
 
 for row in reader:
     if not skip_header:
@@ -115,5 +115,5 @@ for row in reader:
 
 f.close()
 
-print json.dumps(out, indent=2)
+print "var data = " + json.dumps(out, indent=2)
 

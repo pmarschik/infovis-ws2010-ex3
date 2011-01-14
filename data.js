@@ -4,30 +4,30 @@ var data = [
     "urban_population": 31.82,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -66,30 +66,30 @@ var data = [
     "urban_population": 39.18,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -128,30 +128,30 @@ var data = [
     "urban_population": 42.340000000000003,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -190,30 +190,30 @@ var data = [
     "urban_population": 47.079999999999998,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -252,30 +252,30 @@ var data = [
     "urban_population": 49.259999999999998,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -314,30 +314,30 @@ var data = [
     "urban_population": 2304.23,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -346,27 +346,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -379,7 +379,7 @@ var data = [
         "improved": 1286.21,
         "unimproved": {
           "open_defecation": 643.11000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1643.49,
           "total": 2286.5999999999999
         }
@@ -388,7 +388,7 @@ var data = [
         "improved": 5204.0,
         "unimproved": {
           "open_defecation": 6447.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 6432.0,
           "total": 12879.75
         }
@@ -397,7 +397,7 @@ var data = [
         "improved": 3917.9499999999998,
         "unimproved": {
           "open_defecation": 5804.3800000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 4788.6099999999997,
           "total": 10592.99
         }
@@ -441,7 +441,7 @@ var data = [
         "improved": 2010.4000000000001,
         "unimproved": {
           "open_defecation": 480.75,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1879.28,
           "total": 2360.0300000000002
         }
@@ -450,7 +450,7 @@ var data = [
         "improved": 6536.0,
         "unimproved": {
           "open_defecation": 5654.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 8345.0,
           "total": 13999.809999999999
         }
@@ -459,7 +459,7 @@ var data = [
         "improved": 4526.3100000000004,
         "unimproved": {
           "open_defecation": 5172.9200000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 6466.1499999999996,
           "total": 11639.07
         }
@@ -503,7 +503,7 @@ var data = [
         "improved": 3142.6199999999999,
         "unimproved": {
           "open_defecation": 224.47,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2244.73,
           "total": 2469.1999999999998
         }
@@ -512,7 +512,7 @@ var data = [
         "improved": 8623.0,
         "unimproved": {
           "open_defecation": 4759.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 11126.0,
           "total": 15883.84
         }
@@ -521,7 +521,7 @@ var data = [
         "improved": 5479.5600000000004,
         "unimproved": {
           "open_defecation": 4534.8000000000002,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 8880.6599999999999,
           "total": 13415.459999999999
         }
@@ -565,7 +565,7 @@ var data = [
         "improved": 3916.5300000000002,
         "unimproved": {
           "open_defecation": 130.55000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2480.4699999999998,
           "total": 2611.02
         }
@@ -574,7 +574,7 @@ var data = [
         "improved": 10121.0,
         "unimproved": {
           "open_defecation": 4267.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 12820.0,
           "total": 17087.330000000002
         }
@@ -583,7 +583,7 @@ var data = [
         "improved": 6204.2299999999996,
         "unimproved": {
           "open_defecation": 4136.1599999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 10340.389999999999,
           "total": 14476.549999999999
         }
@@ -627,7 +627,7 @@ var data = [
         "improved": 2296.8499999999999,
         "unimproved": {
           "open_defecation": 1386.03,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 277.20999999999998,
           "total": 1663.24
         }
@@ -636,7 +636,7 @@ var data = [
         "improved": 2699.0,
         "unimproved": {
           "open_defecation": 6546.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1416.0,
           "total": 7962.46
         }
@@ -645,7 +645,7 @@ var data = [
         "improved": 402.07999999999998,
         "unimproved": {
           "open_defecation": 5160.0500000000002,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1139.23,
           "total": 6299.29
         }
@@ -689,7 +689,7 @@ var data = [
         "improved": 3309.4299999999998,
         "unimproved": {
           "open_defecation": 1820.1900000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 386.10000000000002,
           "total": 2206.2800000000002
         }
@@ -698,7 +698,7 @@ var data = [
         "improved": 3801.0,
         "unimproved": {
           "open_defecation": 7088.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1650.0,
           "total": 8738.1299999999992
         }
@@ -707,7 +707,7 @@ var data = [
         "improved": 491.63999999999999,
         "unimproved": {
           "open_defecation": 5267.5600000000004,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1264.22,
           "total": 6531.7799999999997
         }
@@ -751,7 +751,7 @@ var data = [
         "improved": 4896.5699999999997,
         "unimproved": {
           "open_defecation": 1399.02,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 699.50999999999999,
           "total": 2098.54
         }
@@ -760,7 +760,7 @@ var data = [
         "improved": 5698.0,
         "unimproved": {
           "open_defecation": 6280.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2303.0,
           "total": 8581.5200000000004
         }
@@ -769,7 +769,7 @@ var data = [
         "improved": 801.28999999999996,
         "unimproved": {
           "open_defecation": 4880.5600000000004,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1602.5699999999999,
           "total": 6483.1199999999999
         }
@@ -813,7 +813,7 @@ var data = [
         "improved": 7172.9499999999998,
         "unimproved": {
           "open_defecation": 717.28999999999996,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1075.9400000000001,
           "total": 1793.24
         }
@@ -822,7 +822,7 @@ var data = [
         "improved": 8321.0,
         "unimproved": {
           "open_defecation": 5155.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 3142.0,
           "total": 8296.5900000000001
         }
@@ -831,7 +831,7 @@ var data = [
         "improved": 1147.71,
         "unimproved": {
           "open_defecation": 4437.8100000000004,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2065.8800000000001,
           "total": 6503.6899999999996
         }
@@ -875,7 +875,7 @@ var data = [
         "improved": 8794.2099999999991,
         "unimproved": {
           "open_defecation": 102.26000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1329.3599999999999,
           "total": 1431.6199999999999
         }
@@ -884,7 +884,7 @@ var data = [
         "improved": 10197.0,
         "unimproved": {
           "open_defecation": 4233.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 3590.0,
           "total": 7823.6700000000001
         }
@@ -893,7 +893,7 @@ var data = [
         "improved": 1403.0699999999999,
         "unimproved": {
           "open_defecation": 4131.2600000000002,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2260.5,
           "total": 6391.7700000000004
         }
@@ -936,28 +936,28 @@ var data = [
       "urban": {
         "improved": 8.3200000000000003,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.080000000000000002,
           "total": 0.080000000000000002
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -966,27 +966,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -998,28 +998,28 @@ var data = [
       "urban": {
         "improved": 9.7899999999999991,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.10000000000000001,
           "total": 0.10000000000000001
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -1036,19 +1036,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -1060,28 +1060,28 @@ var data = [
       "urban": {
         "improved": 11.050000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.11,
           "total": 0.11
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -1098,19 +1098,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -1122,28 +1122,28 @@ var data = [
       "urban": {
         "improved": 13.529999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.14000000000000001,
           "total": 0.14000000000000001
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -1152,27 +1152,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -1184,28 +1184,28 @@ var data = [
       "urban": {
         "improved": 14.68,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.14999999999999999,
           "total": 0.14999999999999999
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -1214,27 +1214,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -1244,30 +1244,30 @@ var data = [
     "urban_population": 1198.29,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -1284,19 +1284,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -1308,7 +1308,7 @@ var data = [
       "urban": {
         "improved": 1182.8,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 24.390000000000001,
           "other": 12.19,
           "total": 36.579999999999998
@@ -1317,7 +1317,7 @@ var data = [
       "total": {
         "improved": 2734.0,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 43.0,
           "other": 357.0,
           "total": 399.75999999999999
@@ -1326,7 +1326,7 @@ var data = [
       "rural": {
         "improved": 1550.6500000000001,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 19.140000000000001,
           "other": 344.58999999999997,
           "total": 363.73000000000002
@@ -1370,7 +1370,7 @@ var data = [
       "urban": {
         "improved": 1242.02,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 25.609999999999999,
           "other": 12.800000000000001,
           "total": 38.409999999999997
@@ -1379,7 +1379,7 @@ var data = [
       "total": {
         "improved": 2761.0,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 44.0,
           "other": 263.0,
           "total": 306.56
@@ -1388,7 +1388,7 @@ var data = [
       "rural": {
         "improved": 1519.0599999999999,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 17.870000000000001,
           "other": 250.19999999999999,
           "total": 268.06999999999999
@@ -1432,7 +1432,7 @@ var data = [
       "urban": {
         "improved": 1352.03,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 27.879999999999999,
           "other": 13.94,
           "total": 41.82
@@ -1441,7 +1441,7 @@ var data = [
       "total": {
         "improved": 3000.0,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 45.0,
           "other": 66.0,
           "total": 110.58
@@ -1450,7 +1450,7 @@ var data = [
       "rural": {
         "improved": 1648.0599999999999,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 17.170000000000002,
           "other": 51.5,
           "total": 68.670000000000002
@@ -1494,7 +1494,7 @@ var data = [
       "urban": {
         "improved": 1438.4400000000001,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 29.359999999999999,
           "other": 0.0,
           "total": 29.350000000000001
@@ -1503,7 +1503,7 @@ var data = [
       "total": {
         "improved": 3080.0,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 46.0,
           "other": 17.0,
           "total": 63.299999999999997
@@ -1512,7 +1512,7 @@ var data = [
       "rural": {
         "improved": 1641.99,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 16.760000000000002,
           "other": 16.760000000000002,
           "total": 33.520000000000003
@@ -1557,7 +1557,7 @@ var data = [
         "improved": 50.020000000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -1566,7 +1566,7 @@ var data = [
         "improved": 53.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.22
         }
@@ -1575,7 +1575,7 @@ var data = [
         "improved": 2.7599999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -1596,7 +1596,7 @@ var data = [
         "improved": {
           "other": 3.0,
           "total": 53.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -1604,7 +1604,7 @@ var data = [
         "improved": {
           "other": 3.0,
           "total": 3.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -1619,7 +1619,7 @@ var data = [
         "improved": 60.450000000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -1628,7 +1628,7 @@ var data = [
         "improved": 64.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.69999999999999996
         }
@@ -1637,7 +1637,7 @@ var data = [
         "improved": 4.25,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -1658,7 +1658,7 @@ var data = [
         "improved": {
           "other": 4.0,
           "total": 64.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -1666,7 +1666,7 @@ var data = [
         "improved": {
           "other": 4.0,
           "total": 4.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -1681,7 +1681,7 @@ var data = [
         "improved": 61.340000000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -1690,7 +1690,7 @@ var data = [
         "improved": 66.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.41999999999999998
         }
@@ -1699,7 +1699,7 @@ var data = [
         "improved": 5.0800000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -1720,7 +1720,7 @@ var data = [
         "improved": {
           "other": 5.0,
           "total": 66.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -1728,7 +1728,7 @@ var data = [
         "improved": {
           "other": 5.0,
           "total": 5.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -1743,7 +1743,7 @@ var data = [
         "improved": 72.290000000000006,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -1752,7 +1752,7 @@ var data = [
         "improved": 79.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.78000000000000003
         }
@@ -1761,7 +1761,7 @@ var data = [
         "improved": 7.4800000000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -1782,7 +1782,7 @@ var data = [
         "improved": {
           "other": 7.0,
           "total": 79.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -1790,7 +1790,7 @@ var data = [
         "improved": {
           "other": 7.0,
           "total": 7.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -1805,7 +1805,7 @@ var data = [
         "improved": 76.189999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -1814,7 +1814,7 @@ var data = [
         "improved": 84.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.40999999999999998
         }
@@ -1823,7 +1823,7 @@ var data = [
         "improved": 8.2200000000000006,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -1844,7 +1844,7 @@ var data = [
         "improved": {
           "other": 8.0,
           "total": 84.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -1852,7 +1852,7 @@ var data = [
         "improved": {
           "other": 8.0,
           "total": 8.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -1898,7 +1898,7 @@ var data = [
         "improved": {
           "other": 1476.0,
           "total": 1476.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -1906,7 +1906,7 @@ var data = [
         "improved": {
           "other": 1867.0,
           "total": 1867.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -1914,7 +1914,7 @@ var data = [
         "improved": {
           "other": 391.0,
           "total": 391.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -1960,7 +1960,7 @@ var data = [
         "improved": {
           "other": 1905.0,
           "total": 1905.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -1968,7 +1968,7 @@ var data = [
         "improved": {
           "other": 2431.0,
           "total": 2431.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -1976,7 +1976,7 @@ var data = [
         "improved": {
           "other": 526.0,
           "total": 526.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -2176,8 +2176,8 @@ var data = [
       "urban": {
         "improved": 26288.900000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1978.73,
           "total": 1978.73
         }
@@ -2185,8 +2185,8 @@ var data = [
       "total": {
         "improved": 29377.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3121.0,
           "total": 3120.5100000000002
         }
@@ -2194,8 +2194,8 @@ var data = [
       "rural": {
         "improved": 3087.8099999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1142.0699999999999,
           "total": 1142.0699999999999
         }
@@ -2238,8 +2238,8 @@ var data = [
       "urban": {
         "improved": 28668.959999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2157.8800000000001,
           "total": 2157.8800000000001
         }
@@ -2247,8 +2247,8 @@ var data = [
       "total": {
         "improved": 31628.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3144.0,
           "total": 3143.6900000000001
         }
@@ -2256,8 +2256,8 @@ var data = [
       "rural": {
         "improved": 2958.6399999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 986.21000000000004,
           "total": 986.21000000000004
         }
@@ -2300,8 +2300,8 @@ var data = [
       "urban": {
         "improved": 30627.75,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2663.2800000000002,
           "total": 2663.2800000000002
         }
@@ -2309,8 +2309,8 @@ var data = [
       "total": {
         "improved": 33437.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3502.0,
           "total": 3501.73
         }
@@ -2318,8 +2318,8 @@ var data = [
       "rural": {
         "improved": 2808.73,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 838.97000000000003,
           "total": 838.97000000000003
         }
@@ -2362,8 +2362,8 @@ var data = [
       "urban": {
         "improved": 32211.450000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3185.75,
           "total": 3185.75
         }
@@ -2371,8 +2371,8 @@ var data = [
       "total": {
         "improved": 34778.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3953.0,
           "total": 3953.5999999999999
         }
@@ -2380,8 +2380,8 @@ var data = [
       "rural": {
         "improved": 2567.4899999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 766.90999999999997,
           "total": 766.90999999999997
         }
@@ -2424,8 +2424,8 @@ var data = [
       "urban": {
         "improved": 33397.650000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3303.0599999999999,
           "total": 3303.0700000000002
         }
@@ -2433,8 +2433,8 @@ var data = [
       "total": {
         "improved": 35848.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 4035.0,
           "total": 4034.98
         }
@@ -2442,8 +2442,8 @@ var data = [
       "rural": {
         "improved": 2450.3400000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 731.91999999999996,
           "total": 731.91999999999996
         }
@@ -2493,21 +2493,21 @@ var data = [
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -2524,19 +2524,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2977.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 681.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -2796,28 +2796,28 @@ var data = [
       "urban": {
         "improved": 21.5,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.44,
           "total": 0.44
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -2828,25 +2828,25 @@ var data = [
         "improved": {
           "other": 21.0,
           "total": 21.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -2858,8 +2858,8 @@ var data = [
       "urban": {
         "improved": 24.09,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.48999999999999999,
           "total": 0.48999999999999999
         }
@@ -2867,8 +2867,8 @@ var data = [
       "total": {
         "improved": 65.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.0,
           "total": 3.1600000000000001
         }
@@ -2876,8 +2876,8 @@ var data = [
       "rural": {
         "improved": 40.969999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.6099999999999999,
           "total": 2.6099999999999999
         }
@@ -2920,8 +2920,8 @@ var data = [
       "urban": {
         "improved": 28.18,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.57999999999999996,
           "total": 0.57999999999999996
         }
@@ -2929,8 +2929,8 @@ var data = [
       "total": {
         "improved": 73.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 4.0,
           "total": 4.1299999999999999
         }
@@ -2938,8 +2938,8 @@ var data = [
       "rural": {
         "improved": 45.479999999999997,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.8999999999999999,
           "total": 2.8999999999999999
         }
@@ -2982,28 +2982,28 @@ var data = [
       "urban": {
         "improved": 32.020000000000003,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.65000000000000002,
           "total": 0.65000000000000002
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -3020,19 +3020,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 66.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 42.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -3044,28 +3044,28 @@ var data = [
       "urban": {
         "improved": 36.770000000000003,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.75,
           "total": 0.75
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -3076,25 +3076,25 @@ var data = [
         "improved": {
           "other": 36.0,
           "total": 36.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -3107,7 +3107,7 @@ var data = [
         "improved": 14595.93,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3116,7 +3116,7 @@ var data = [
         "improved": 17091.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.25
         }
@@ -3125,7 +3125,7 @@ var data = [
         "improved": 2495.3200000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3138,7 +3138,7 @@ var data = [
         "improved": {
           "other": 14596.0,
           "total": 14596.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -3146,7 +3146,7 @@ var data = [
         "improved": {
           "other": 17091.0,
           "total": 17091.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -3154,7 +3154,7 @@ var data = [
         "improved": {
           "other": 2495.0,
           "total": 2495.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -3169,7 +3169,7 @@ var data = [
         "improved": 15600.870000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3178,7 +3178,7 @@ var data = [
         "improved": 18118.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.20999999999999999
         }
@@ -3187,7 +3187,7 @@ var data = [
         "improved": 2517.3400000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3200,7 +3200,7 @@ var data = [
         "improved": {
           "other": 15601.0,
           "total": 15601.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -3208,7 +3208,7 @@ var data = [
         "improved": {
           "other": 18118.0,
           "total": 18118.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -3216,7 +3216,7 @@ var data = [
         "improved": {
           "other": 2517.0,
           "total": 2517.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -3231,7 +3231,7 @@ var data = [
         "improved": 16710.349999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3240,7 +3240,7 @@ var data = [
         "improved": 19171.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.059999999999999998
         }
@@ -3249,7 +3249,7 @@ var data = [
         "improved": 2460.5900000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3262,7 +3262,7 @@ var data = [
         "improved": {
           "other": 16710.0,
           "total": 16710.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -3270,7 +3270,7 @@ var data = [
         "improved": {
           "other": 19171.0,
           "total": 19171.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -3278,7 +3278,7 @@ var data = [
         "improved": {
           "other": 2461.0,
           "total": 2461.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -3293,7 +3293,7 @@ var data = [
         "improved": 17986.75,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3302,7 +3302,7 @@ var data = [
         "improved": 20395.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.25
         }
@@ -3311,7 +3311,7 @@ var data = [
         "improved": 2408.0100000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3324,7 +3324,7 @@ var data = [
         "improved": {
           "other": 17987.0,
           "total": 17987.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -3332,7 +3332,7 @@ var data = [
         "improved": {
           "other": 20395.0,
           "total": 20395.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -3340,7 +3340,7 @@ var data = [
         "improved": {
           "other": 2408.0,
           "total": 2408.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -3355,7 +3355,7 @@ var data = [
         "improved": 18704.57,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3364,7 +3364,7 @@ var data = [
         "improved": 21075.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.62
         }
@@ -3373,7 +3373,7 @@ var data = [
         "improved": 2369.8099999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3386,7 +3386,7 @@ var data = [
         "improved": {
           "other": 18705.0,
           "total": 18705.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -3394,7 +3394,7 @@ var data = [
         "improved": {
           "other": 21075.0,
           "total": 21075.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -3402,7 +3402,7 @@ var data = [
         "improved": {
           "other": 2370.0,
           "total": 2370.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -3417,7 +3417,7 @@ var data = [
         "improved": 5044.5100000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3426,7 +3426,7 @@ var data = [
         "improved": 7671.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.48999999999999999
         }
@@ -3435,7 +3435,7 @@ var data = [
         "improved": 2626.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3479,7 +3479,7 @@ var data = [
         "improved": 5221.6400000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3488,7 +3488,7 @@ var data = [
         "improved": 7936.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.38
         }
@@ -3497,7 +3497,7 @@ var data = [
         "improved": 2713.98,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3541,7 +3541,7 @@ var data = [
         "improved": 5267.1000000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3550,7 +3550,7 @@ var data = [
         "improved": 8005.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.28999999999999998
         }
@@ -3559,7 +3559,7 @@ var data = [
         "improved": 2737.6100000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3603,7 +3603,7 @@ var data = [
         "improved": 5474.3800000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3612,7 +3612,7 @@ var data = [
         "improved": 8232.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.28000000000000003
         }
@@ -3621,7 +3621,7 @@ var data = [
         "improved": 2757.9000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3665,7 +3665,7 @@ var data = [
         "improved": 5595.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3674,7 +3674,7 @@ var data = [
         "improved": 8337.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.29999999999999999
         }
@@ -3683,7 +3683,7 @@ var data = [
         "improved": 2742.3099999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -3724,30 +3724,30 @@ var data = [
     "urban_population": 3876.21,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -4347,7 +4347,7 @@ var data = [
         "improved": 9573.1800000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -4356,7 +4356,7 @@ var data = [
         "improved": 9933.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.059999999999999998
         }
@@ -4365,7 +4365,7 @@ var data = [
         "improved": 359.88,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -4409,7 +4409,7 @@ var data = [
         "improved": 9759.0599999999995,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -4418,7 +4418,7 @@ var data = [
         "improved": 10084.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.070000000000000007
         }
@@ -4427,7 +4427,7 @@ var data = [
         "improved": 325.00999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -4471,7 +4471,7 @@ var data = [
         "improved": 9899.2299999999996,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -4480,7 +4480,7 @@ var data = [
         "improved": 10193.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.089999999999999997
         }
@@ -4489,7 +4489,7 @@ var data = [
         "improved": 293.87,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -4533,7 +4533,7 @@ var data = [
         "improved": 10131.83,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -4542,7 +4542,7 @@ var data = [
         "improved": 10415.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.23000000000000001
         }
@@ -4551,7 +4551,7 @@ var data = [
         "improved": 283.39999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -4595,7 +4595,7 @@ var data = [
         "improved": 10312.059999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -4604,7 +4604,7 @@ var data = [
         "improved": 10590.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.38
         }
@@ -4613,7 +4613,7 @@ var data = [
         "improved": 278.31,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -5587,7 +5587,7 @@ var data = [
         "improved": 5853.7299999999996,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -5595,8 +5595,8 @@ var data = [
       "total": {
         "improved": 8760.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 59.0,
           "total": 58.920000000000002
         }
@@ -5604,8 +5604,8 @@ var data = [
       "rural": {
         "improved": 2905.8800000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 59.299999999999997,
           "total": 59.299999999999997
         }
@@ -5649,7 +5649,7 @@ var data = [
         "improved": 5663.1199999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -5657,8 +5657,8 @@ var data = [
       "total": {
         "improved": 8330.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 27.0,
           "total": 26.620000000000001
         }
@@ -5666,8 +5666,8 @@ var data = [
       "rural": {
         "improved": 2666.5700000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 26.940000000000001,
           "total": 26.940000000000001
         }
@@ -5711,7 +5711,7 @@ var data = [
         "improved": 5512.7399999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -5720,7 +5720,7 @@ var data = [
         "improved": 8006.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.070000000000000007
         }
@@ -5729,7 +5729,7 @@ var data = [
         "improved": 2493.3299999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -5773,7 +5773,7 @@ var data = [
         "improved": 5434.8100000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -5782,7 +5782,7 @@ var data = [
         "improved": 7740.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.64000000000000001
         }
@@ -5791,7 +5791,7 @@ var data = [
         "improved": 2304.5500000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -5812,7 +5812,7 @@ var data = [
         "improved": {
           "other": 2523.0,
           "total": 7740.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -5820,7 +5820,7 @@ var data = [
         "improved": {
           "other": 2305.0,
           "total": 2305.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -5835,7 +5835,7 @@ var data = [
         "improved": 5397.8999999999996,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -5844,7 +5844,7 @@ var data = [
         "improved": 7593.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.47999999999999998
         }
@@ -5853,7 +5853,7 @@ var data = [
         "improved": 2194.6199999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -5874,7 +5874,7 @@ var data = [
         "improved": {
           "other": 2411.0,
           "total": 7593.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -5882,7 +5882,7 @@ var data = [
         "improved": {
           "other": 2195.0,
           "total": 2195.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -5897,27 +5897,27 @@ var data = [
         "improved": 434.49000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -5934,19 +5934,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -5959,27 +5959,27 @@ var data = [
         "improved": 510.61000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -5996,19 +5996,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -6021,27 +6021,27 @@ var data = [
         "improved": 574.42999999999995,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -6058,19 +6058,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -6083,27 +6083,27 @@ var data = [
         "improved": 643.30999999999995,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -6120,19 +6120,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -6145,27 +6145,27 @@ var data = [
         "improved": 686.52999999999997,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -6182,19 +6182,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -6207,7 +6207,7 @@ var data = [
         "improved": 204.06999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -6216,7 +6216,7 @@ var data = [
         "improved": 256.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.40000000000000002
         }
@@ -6225,7 +6225,7 @@ var data = [
         "improved": 51.539999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -6238,25 +6238,25 @@ var data = [
         "improved": {
           "other": 200.0,
           "total": 200.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 4.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -6269,7 +6269,7 @@ var data = [
         "improved": 227.69999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -6278,7 +6278,7 @@ var data = [
         "improved": 282.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.76000000000000001
         }
@@ -6287,7 +6287,7 @@ var data = [
         "improved": 53.549999999999997,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -6331,7 +6331,7 @@ var data = [
         "improved": 250.05000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -6340,7 +6340,7 @@ var data = [
         "improved": 305.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.19
         }
@@ -6349,7 +6349,7 @@ var data = [
         "improved": 54.759999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -6393,7 +6393,7 @@ var data = [
         "improved": 270.42000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -6402,7 +6402,7 @@ var data = [
         "improved": 325.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.5
         }
@@ -6411,7 +6411,7 @@ var data = [
         "improved": 55.079999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -6424,25 +6424,25 @@ var data = [
         "improved": {
           "other": 265.0,
           "total": 265.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 5.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -6455,7 +6455,7 @@ var data = [
         "improved": 282.60000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -6464,7 +6464,7 @@ var data = [
         "improved": 338.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.33000000000000002
         }
@@ -6473,7 +6473,7 @@ var data = [
         "improved": 55.060000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -6486,25 +6486,25 @@ var data = [
         "improved": {
           "other": 277.0,
           "total": 277.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 6.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -6514,30 +6514,30 @@ var data = [
     "urban_population": 1690.9300000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -6546,27 +6546,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -6824,30 +6824,30 @@ var data = [
     "urban_population": 6769.4499999999998,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -6858,7 +6858,7 @@ var data = [
         "improved": {
           "other": 6769.0,
           "total": 6769.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -6866,7 +6866,7 @@ var data = [
         "improved": {
           "other": 10224.0,
           "total": 10224.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 35.0
       },
@@ -6874,7 +6874,7 @@ var data = [
         "improved": {
           "other": 3455.0,
           "total": 3455.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 35.0
       }
@@ -6888,7 +6888,7 @@ var data = [
       "urban": {
         "improved": 6347.8900000000003,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 558.05999999999995,
           "other": 69.760000000000005,
           "total": 627.80999999999995
@@ -6897,7 +6897,7 @@ var data = [
       "total": {
         "improved": 9510.0,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 624.0,
           "other": 136.0,
           "total": 759.55999999999995
@@ -6906,7 +6906,7 @@ var data = [
       "rural": {
         "improved": 3162.0999999999999,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 65.879999999999995,
           "other": 65.879999999999995,
           "total": 131.75999999999999
@@ -6950,7 +6950,7 @@ var data = [
       "urban": {
         "improved": 6397.5200000000004,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 562.41999999999996,
           "other": 70.299999999999997,
           "total": 632.72000000000003
@@ -6959,7 +6959,7 @@ var data = [
       "total": {
         "improved": 9300.0,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 622.0,
           "other": 130.0,
           "total": 753.54999999999995
@@ -6968,7 +6968,7 @@ var data = [
       "rural": {
         "improved": 2902.3699999999999,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 60.469999999999999,
           "other": 60.469999999999999,
           "total": 120.93000000000001
@@ -7012,7 +7012,7 @@ var data = [
       "urban": {
         "improved": 6445.25,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 566.62,
           "other": 70.829999999999998,
           "total": 637.45000000000005
@@ -7021,7 +7021,7 @@ var data = [
       "total": {
         "improved": 9097.0,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 622.0,
           "other": 98.0,
           "total": 719.35000000000002
@@ -7030,7 +7030,7 @@ var data = [
       "rural": {
         "improved": 2651.6500000000001,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 54.670000000000002,
           "other": 27.34,
           "total": 82.010000000000005
@@ -7074,7 +7074,7 @@ var data = [
       "urban": {
         "improved": 6468.0600000000004,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 568.62,
           "other": 71.079999999999998,
           "total": 639.70000000000005
@@ -7083,7 +7083,7 @@ var data = [
       "total": {
         "improved": 8962.0,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 620.0,
           "other": 97.0,
           "total": 716.85000000000002
@@ -7092,7 +7092,7 @@ var data = [
       "rural": {
         "improved": 2493.96,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 51.420000000000002,
           "other": 25.710000000000001,
           "total": 77.129999999999995
@@ -7757,7 +7757,7 @@ var data = [
         "improved": 90629.029999999999,
         "unimproved": {
           "open_defecation": 4475.5100000000002,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 16783.150000000001,
           "total": 21258.669999999998
         }
@@ -7766,7 +7766,7 @@ var data = [
         "improved": 103818.0,
         "unimproved": {
           "open_defecation": 19549.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 26204.0,
           "total": 45752.489999999998
         }
@@ -7775,7 +7775,7 @@ var data = [
         "improved": 13188.98,
         "unimproved": {
           "open_defecation": 15073.120000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 9420.7000000000007,
           "total": 24493.810000000001
         }
@@ -7819,7 +7819,7 @@ var data = [
         "improved": 103110.60000000001,
         "unimproved": {
           "open_defecation": 5029.79,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 17604.25,
           "total": 22634.029999999999
         }
@@ -7828,7 +7828,7 @@ var data = [
         "improved": 115693.0,
         "unimproved": {
           "open_defecation": 18331.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 27669.0,
           "total": 45998.989999999998
         }
@@ -7837,7 +7837,7 @@ var data = [
         "improved": 12581.58,
         "unimproved": {
           "open_defecation": 13300.52,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 10065.26,
           "total": 23365.779999999999
         }
@@ -7881,7 +7881,7 @@ var data = [
         "improved": 118789.2,
         "unimproved": {
           "open_defecation": 5656.6300000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 16969.889999999999,
           "total": 22626.52
         }
@@ -7890,7 +7890,7 @@ var data = [
         "improved": 130582.0,
         "unimproved": {
           "open_defecation": 16795.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 26798.0,
           "total": 43592.449999999997
         }
@@ -7899,7 +7899,7 @@ var data = [
         "improved": 11793.139999999999,
         "unimproved": {
           "open_defecation": 11137.969999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 9827.6200000000008,
           "total": 20965.59
         }
@@ -7943,7 +7943,7 @@ var data = [
         "improved": 134789.97,
         "unimproved": {
           "open_defecation": 4701.9799999999996,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 17240.580000000002,
           "total": 21942.560000000001
         }
@@ -7952,7 +7952,7 @@ var data = [
         "improved": 145647.0,
         "unimproved": {
           "open_defecation": 13798.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 26630.0,
           "total": 40427.629999999997
         }
@@ -7961,7 +7961,7 @@ var data = [
         "improved": 10856.58,
         "unimproved": {
           "open_defecation": 9096.0499999999993,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 9389.4699999999993,
           "total": 18485.529999999999
         }
@@ -8005,7 +8005,7 @@ var data = [
         "improved": 143111.98999999999,
         "unimproved": {
           "open_defecation": 4934.8999999999996,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 16449.650000000001,
           "total": 21384.549999999999
         }
@@ -8014,7 +8014,7 @@ var data = [
         "improved": 153278.0,
         "unimproved": {
           "open_defecation": 13177.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 25517.0,
           "total": 38693.510000000002
         }
@@ -8023,7 +8023,7 @@ var data = [
         "improved": 10165.74,
         "unimproved": {
           "open_defecation": 8242.4899999999998,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 9066.7399999999998,
           "total": 17309.23
         }
@@ -8067,7 +8067,7 @@ var data = [
         "improved": 84.879999999999995,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -8076,7 +8076,7 @@ var data = [
         "improved": 260.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.33000000000000002
         }
@@ -8085,7 +8085,7 @@ var data = [
         "improved": 174.78999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -8106,7 +8106,7 @@ var data = [
         "improved": {
           "other": 177.0,
           "total": 260.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -8114,7 +8114,7 @@ var data = [
         "improved": {
           "other": 175.0,
           "total": 175.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -8129,7 +8129,7 @@ var data = [
         "improved": 88.980000000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -8138,7 +8138,7 @@ var data = [
         "improved": 258.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.01
         }
@@ -8147,7 +8147,7 @@ var data = [
         "improved": 169.00999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -8168,7 +8168,7 @@ var data = [
         "improved": {
           "other": 170.0,
           "total": 258.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -8176,7 +8176,7 @@ var data = [
         "improved": {
           "other": 169.0,
           "total": 169.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -8191,7 +8191,7 @@ var data = [
         "improved": 91.439999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -8200,7 +8200,7 @@ var data = [
         "improved": 251.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.66000000000000003
         }
@@ -8209,7 +8209,7 @@ var data = [
         "improved": 160.22,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -8230,7 +8230,7 @@ var data = [
         "improved": {
           "other": 160.0,
           "total": 251.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -8238,7 +8238,7 @@ var data = [
         "improved": {
           "other": 160.0,
           "total": 160.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -8253,7 +8253,7 @@ var data = [
         "improved": 97.230000000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -8262,7 +8262,7 @@ var data = [
         "improved": 253.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.25
         }
@@ -8271,7 +8271,7 @@ var data = [
         "improved": 156.03,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -8292,7 +8292,7 @@ var data = [
         "improved": {
           "other": 156.0,
           "total": 253.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -8300,7 +8300,7 @@ var data = [
         "improved": {
           "other": 156.0,
           "total": 156.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -8315,7 +8315,7 @@ var data = [
         "improved": 101.53,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -8324,7 +8324,7 @@ var data = [
         "improved": 256.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.80000000000000004
         }
@@ -8333,7 +8333,7 @@ var data = [
         "improved": 153.66999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -8354,7 +8354,7 @@ var data = [
         "improved": {
           "other": 154.0,
           "total": 256.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -8362,7 +8362,7 @@ var data = [
         "improved": {
           "other": 154.0,
           "total": 154.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -8374,30 +8374,30 @@ var data = [
     "urban_population": 169.19,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -8406,27 +8406,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -8436,30 +8436,30 @@ var data = [
     "urban_population": 202.44999999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -8468,27 +8468,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -8498,30 +8498,30 @@ var data = [
     "urban_population": 237.25,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -8530,27 +8530,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -8560,30 +8560,30 @@ var data = [
     "urban_population": 272.02999999999997,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -8592,27 +8592,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -8622,30 +8622,30 @@ var data = [
     "urban_population": 293.50999999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -8654,27 +8654,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -8684,30 +8684,30 @@ var data = [
     "urban_population": 89.930000000000007,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -8716,27 +8716,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -8746,30 +8746,30 @@ var data = [
     "urban_population": 104.47,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -8778,27 +8778,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -8811,7 +8811,7 @@ var data = [
         "improved": 124.09999999999999,
         "unimproved": {
           "open_defecation": 5.71,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 12.84,
           "total": 18.539999999999999
         }
@@ -8820,7 +8820,7 @@ var data = [
         "improved": 350.0,
         "unimproved": {
           "open_defecation": 52.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 159.0,
           "total": 211.18000000000001
         }
@@ -8829,7 +8829,7 @@ var data = [
         "improved": 226.00999999999999,
         "unimproved": {
           "open_defecation": 46.039999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 146.49000000000001,
           "total": 192.53
         }
@@ -8873,7 +8873,7 @@ var data = [
         "improved": 175.28,
         "unimproved": {
           "open_defecation": 8.0600000000000005,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 18.129999999999999,
           "total": 26.199999999999999
         }
@@ -8882,7 +8882,7 @@ var data = [
         "improved": 417.0,
         "unimproved": {
           "open_defecation": 57.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 175.0,
           "total": 232.84
         }
@@ -8891,7 +8891,7 @@ var data = [
         "improved": 242.12,
         "unimproved": {
           "open_defecation": 49.32,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 156.93000000000001,
           "total": 206.24000000000001
         }
@@ -8935,7 +8935,7 @@ var data = [
         "improved": 206.25999999999999,
         "unimproved": {
           "open_defecation": 9.4800000000000004,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 21.34,
           "total": 30.82
         }
@@ -8944,7 +8944,7 @@ var data = [
         "improved": 449.0,
         "unimproved": {
           "open_defecation": 58.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 178.0,
           "total": 237.78999999999999
         }
@@ -8953,7 +8953,7 @@ var data = [
         "improved": 242.84,
         "unimproved": {
           "open_defecation": 49.469999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 157.40000000000001,
           "total": 206.87
         }
@@ -9617,7 +9617,7 @@ var data = [
         "improved": 21213.869999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -9625,8 +9625,8 @@ var data = [
       "total": {
         "improved": 27636.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 65.0,
           "total": 64.849999999999994
         }
@@ -9634,8 +9634,8 @@ var data = [
       "rural": {
         "improved": 6422.1199999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 64.870000000000005,
           "total": 64.870000000000005
         }
@@ -9656,7 +9656,7 @@ var data = [
         "improved": {
           "other": 6422.0,
           "total": 27636.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 65.0
       },
@@ -9664,7 +9664,7 @@ var data = [
         "improved": {
           "other": 6422.0,
           "total": 6422.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 65.0
       }
@@ -9679,7 +9679,7 @@ var data = [
         "improved": 22760.400000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -9687,8 +9687,8 @@ var data = [
       "total": {
         "improved": 29236.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 65.0,
           "total": 66.090000000000003
         }
@@ -9696,8 +9696,8 @@ var data = [
       "rural": {
         "improved": 6476.2799999999997,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 65.420000000000002,
           "total": 65.409999999999997
         }
@@ -9741,7 +9741,7 @@ var data = [
         "improved": 24389.27,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -9749,8 +9749,8 @@ var data = [
       "total": {
         "improved": 30624.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 63.0,
           "total": 62.82
         }
@@ -9758,8 +9758,8 @@ var data = [
       "rural": {
         "improved": 6234.5699999999997,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 62.979999999999997,
           "total": 62.979999999999997
         }
@@ -9803,7 +9803,7 @@ var data = [
         "improved": 25885.080000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -9811,8 +9811,8 @@ var data = [
       "total": {
         "improved": 32243.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 64.0,
           "total": 64.090000000000003
         }
@@ -9820,8 +9820,8 @@ var data = [
       "rural": {
         "improved": 6357.7799999999997,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 64.219999999999999,
           "total": 64.219999999999999
         }
@@ -9865,7 +9865,7 @@ var data = [
         "improved": 26732.869999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -9873,8 +9873,8 @@ var data = [
       "total": {
         "improved": 33194.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 65.0,
           "total": 65.349999999999994
         }
@@ -9882,8 +9882,8 @@ var data = [
       "rural": {
         "improved": 6461.21,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 65.260000000000005,
           "total": 65.269999999999996
         }
@@ -9904,7 +9904,7 @@ var data = [
         "improved": {
           "other": 6461.0,
           "total": 33194.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 65.0
       },
@@ -9912,7 +9912,7 @@ var data = [
         "improved": {
           "other": 6461.0,
           "total": 6461.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 65.0
       }
@@ -9927,7 +9927,7 @@ var data = [
         "improved": 4914.0299999999997,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -9936,7 +9936,7 @@ var data = [
         "improved": 6715.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.37
         }
@@ -9945,7 +9945,7 @@ var data = [
         "improved": 1800.5999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -9989,7 +9989,7 @@ var data = [
         "improved": 5178.6199999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -9998,7 +9998,7 @@ var data = [
         "improved": 7039.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.72999999999999998
         }
@@ -10007,7 +10007,7 @@ var data = [
         "improved": 1859.6500000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -10051,7 +10051,7 @@ var data = [
         "improved": 5267.5799999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -10060,7 +10060,7 @@ var data = [
         "improved": 7185.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.81999999999999995
         }
@@ -10069,7 +10069,7 @@ var data = [
         "improved": 1916.5999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -10113,7 +10113,7 @@ var data = [
         "improved": 5453.5100000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -10122,7 +10122,7 @@ var data = [
         "improved": 7441.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -10131,7 +10131,7 @@ var data = [
         "improved": 1987.49,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -10175,7 +10175,7 @@ var data = [
         "improved": 5538.9399999999996,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -10184,7 +10184,7 @@ var data = [
         "improved": 7541.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.29999999999999999
         }
@@ -10193,7 +10193,7 @@ var data = [
         "improved": 2002.3599999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -10237,7 +10237,7 @@ var data = [
         "improved": 9995.3299999999999,
         "unimproved": {
           "open_defecation": 549.19000000000005,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 439.35000000000002,
           "total": 988.53999999999996
         }
@@ -10246,7 +10246,7 @@ var data = [
         "improved": 11054.0,
         "unimproved": {
           "open_defecation": 703.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1432.0,
           "total": 2136.52
         }
@@ -10255,7 +10255,7 @@ var data = [
         "improved": 1059.1900000000001,
         "unimproved": {
           "open_defecation": 154.46000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 992.99000000000001,
           "total": 1147.45
         }
@@ -10299,7 +10299,7 @@ var data = [
         "improved": 11306.959999999999,
         "unimproved": {
           "open_defecation": 486.31999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 364.74000000000001,
           "total": 851.05999999999995
         }
@@ -10308,7 +10308,7 @@ var data = [
         "improved": 12636.0,
         "unimproved": {
           "open_defecation": 599.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1176.0,
           "total": 1774.02
         }
@@ -10317,7 +10317,7 @@ var data = [
         "improved": 1328.6800000000001,
         "unimproved": {
           "open_defecation": 112.59999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 810.72000000000003,
           "total": 923.32000000000005
         }
@@ -10361,7 +10361,7 @@ var data = [
         "improved": 12721.690000000001,
         "unimproved": {
           "open_defecation": 265.04000000000002,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 265.04000000000002,
           "total": 530.07000000000005
         }
@@ -10370,7 +10370,7 @@ var data = [
         "improved": 14261.0,
         "unimproved": {
           "open_defecation": 352.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 807.0,
           "total": 1157.7
         }
@@ -10379,7 +10379,7 @@ var data = [
         "improved": 1538.53,
         "unimproved": {
           "open_defecation": 86.680000000000007,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 541.74000000000001,
           "total": 628.41999999999996
         }
@@ -10423,7 +10423,7 @@ var data = [
         "improved": 13996.5,
         "unimproved": {
           "open_defecation": 142.81999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 142.81999999999999,
           "total": 285.64999999999998
         }
@@ -10432,7 +10432,7 @@ var data = [
         "improved": 15670.0,
         "unimproved": {
           "open_defecation": 183.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 445.0,
           "total": 627.49000000000001
         }
@@ -10441,7 +10441,7 @@ var data = [
         "improved": 1672.74,
         "unimproved": {
           "open_defecation": 40.310000000000002,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 302.30000000000001,
           "total": 342.61000000000001
         }
@@ -10485,7 +10485,7 @@ var data = [
         "improved": 14572.59,
         "unimproved": {
           "open_defecation": 148.69999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 148.69999999999999,
           "total": 297.39999999999998
         }
@@ -10494,7 +10494,7 @@ var data = [
         "improved": 16178.0,
         "unimproved": {
           "open_defecation": 188.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 439.0,
           "total": 625.95000000000005
         }
@@ -10503,7 +10503,7 @@ var data = [
         "improved": 1605.1900000000001,
         "unimproved": {
           "open_defecation": 38.68,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 290.10000000000002,
           "total": 328.77999999999997
         }
@@ -11784,30 +11784,30 @@ var data = [
     "urban_population": 1329.03,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -11816,27 +11816,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -11846,30 +11846,30 @@ var data = [
     "urban_population": 1569.6300000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -11878,27 +11878,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -12097,7 +12097,7 @@ var data = [
         "improved": 10.109999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -12105,8 +12105,8 @@ var data = [
       "total": {
         "improved": 17.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.0,
           "total": 0.77000000000000002
         }
@@ -12114,8 +12114,8 @@ var data = [
       "rural": {
         "improved": 6.9800000000000004,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.68999999999999995,
           "total": 0.68999999999999995
         }
@@ -12128,7 +12128,7 @@ var data = [
         "improved": {
           "other": 10.0,
           "total": 10.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -12136,7 +12136,7 @@ var data = [
         "improved": {
           "other": 17.0,
           "total": 17.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
@@ -12144,7 +12144,7 @@ var data = [
         "improved": {
           "other": 7.0,
           "total": 7.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       }
@@ -12159,7 +12159,7 @@ var data = [
         "improved": 10.869999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -12167,8 +12167,8 @@ var data = [
       "total": {
         "improved": 18.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.0,
           "total": 0.51000000000000001
         }
@@ -12176,8 +12176,8 @@ var data = [
       "rural": {
         "improved": 7.0300000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.60999999999999999,
           "total": 0.60999999999999999
         }
@@ -12190,7 +12190,7 @@ var data = [
         "improved": {
           "other": 11.0,
           "total": 11.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -12198,7 +12198,7 @@ var data = [
         "improved": {
           "other": 18.0,
           "total": 18.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
@@ -12206,7 +12206,7 @@ var data = [
         "improved": {
           "other": 7.0,
           "total": 7.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       }
@@ -12221,7 +12221,7 @@ var data = [
         "improved": 11.449999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -12229,8 +12229,8 @@ var data = [
       "total": {
         "improved": 17.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.56999999999999995
         }
@@ -12238,8 +12238,8 @@ var data = [
       "rural": {
         "improved": 6.0499999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.059999999999999998,
           "total": 0.059999999999999998
         }
@@ -12252,7 +12252,7 @@ var data = [
         "improved": {
           "other": 11.0,
           "total": 11.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -12260,7 +12260,7 @@ var data = [
         "improved": {
           "other": 16.0,
           "total": 16.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
@@ -12268,7 +12268,7 @@ var data = [
         "improved": {
           "other": 5.0,
           "total": 5.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       }
@@ -12283,7 +12283,7 @@ var data = [
         "improved": 13.43,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -12292,7 +12292,7 @@ var data = [
         "improved": 19.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.080000000000000002
         }
@@ -12301,7 +12301,7 @@ var data = [
         "improved": 5.6500000000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -12314,7 +12314,7 @@ var data = [
         "improved": {
           "other": 13.0,
           "total": 13.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -12322,7 +12322,7 @@ var data = [
         "improved": {
           "other": 18.0,
           "total": 18.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
@@ -12330,7 +12330,7 @@ var data = [
         "improved": {
           "other": 5.0,
           "total": 5.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       }
@@ -12345,7 +12345,7 @@ var data = [
         "improved": 13.91,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -12354,7 +12354,7 @@ var data = [
         "improved": 20.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.32000000000000001
         }
@@ -12363,7 +12363,7 @@ var data = [
         "improved": 5.7800000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -12376,25 +12376,25 @@ var data = [
         "improved": {
           "other": 14.0,
           "total": 14.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -13024,30 +13024,30 @@ var data = [
     "urban_population": 156.28,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -13056,27 +13056,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -13089,7 +13089,7 @@ var data = [
         "improved": 124.28,
         "unimproved": {
           "open_defecation": 69.909999999999997,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 69.909999999999997
         }
@@ -13098,7 +13098,7 @@ var data = [
         "improved": 159.0,
         "unimproved": {
           "open_defecation": 239.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 239.19999999999999
         }
@@ -13107,7 +13107,7 @@ var data = [
         "improved": 34.68,
         "unimproved": {
           "open_defecation": 169.31999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 169.33000000000001
         }
@@ -13151,7 +13151,7 @@ var data = [
         "improved": 150.12,
         "unimproved": {
           "open_defecation": 82.090000000000003,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2.3500000000000001,
           "total": 84.439999999999998
         }
@@ -13160,7 +13160,7 @@ var data = [
         "improved": 199.0,
         "unimproved": {
           "open_defecation": 233.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 6.0,
           "total": 239.97
         }
@@ -13169,7 +13169,7 @@ var data = [
         "improved": 49.060000000000002,
         "unimproved": {
           "open_defecation": 151.27000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 4.0899999999999999,
           "total": 155.36000000000001
         }
@@ -13213,7 +13213,7 @@ var data = [
         "improved": 178.15000000000001,
         "unimproved": {
           "open_defecation": 90.439999999999998,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 5.4800000000000004,
           "total": 95.920000000000002
         }
@@ -13222,7 +13222,7 @@ var data = [
         "improved": 247.0,
         "unimproved": {
           "open_defecation": 214.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 15.0,
           "total": 230.44
         }
@@ -13231,7 +13231,7 @@ var data = [
         "improved": 69.140000000000001,
         "unimproved": {
           "open_defecation": 124.05,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 10.17,
           "total": 134.22999999999999
         }
@@ -13275,7 +13275,7 @@ var data = [
         "improved": 193.36000000000001,
         "unimproved": {
           "open_defecation": 98.170000000000002,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 5.9500000000000002,
           "total": 104.12
         }
@@ -13284,7 +13284,7 @@ var data = [
         "improved": 269.0,
         "unimproved": {
           "open_defecation": 211.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 18.0,
           "total": 229.66999999999999
         }
@@ -13293,7 +13293,7 @@ var data = [
         "improved": 76.450000000000003,
         "unimproved": {
           "open_defecation": 112.67,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 12.07,
           "total": 124.73999999999999
         }
@@ -13956,28 +13956,28 @@ var data = [
       "urban": {
         "improved": 25.100000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.05,
           "total": 1.04
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -13986,27 +13986,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 10.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -14018,28 +14018,28 @@ var data = [
       "urban": {
         "improved": 31.600000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.3200000000000001,
           "total": 1.3200000000000001
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -14056,19 +14056,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -14080,28 +14080,28 @@ var data = [
       "urban": {
         "improved": 38.789999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.6200000000000001,
           "total": 1.6200000000000001
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -14118,19 +14118,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -14142,28 +14142,28 @@ var data = [
       "urban": {
         "improved": 50.479999999999997,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.1000000000000001,
           "total": 2.1000000000000001
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -14180,19 +14180,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -14204,28 +14204,28 @@ var data = [
       "urban": {
         "improved": 53.43,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.23,
           "total": 2.2200000000000002
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -14242,19 +14242,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -14267,7 +14267,7 @@ var data = [
         "improved": 454.47000000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -14276,7 +14276,7 @@ var data = [
         "improved": 680.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.59999999999999998
         }
@@ -14285,7 +14285,7 @@ var data = [
         "improved": 226.12,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -14329,7 +14329,7 @@ var data = [
         "improved": 497.69,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -14338,7 +14338,7 @@ var data = [
         "improved": 732.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.51000000000000001
         }
@@ -14347,7 +14347,7 @@ var data = [
         "improved": 233.80000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -14391,7 +14391,7 @@ var data = [
         "improved": 539.99000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -14400,7 +14400,7 @@ var data = [
         "improved": 787.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.39000000000000001
         }
@@ -14409,7 +14409,7 @@ var data = [
         "improved": 246.62,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -14453,7 +14453,7 @@ var data = [
         "improved": 579.54999999999995,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -14462,7 +14462,7 @@ var data = [
         "improved": 836.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -14471,7 +14471,7 @@ var data = [
         "improved": 256.44999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -14515,7 +14515,7 @@ var data = [
         "improved": 602.5,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -14524,7 +14524,7 @@ var data = [
         "improved": 862.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.42999999999999999
         }
@@ -14533,7 +14533,7 @@ var data = [
         "improved": 259.94,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -14616,7 +14616,7 @@ var data = [
         "improved": {
           "other": 2785.0,
           "total": 10303.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -14624,7 +14624,7 @@ var data = [
         "improved": {
           "other": 2553.0,
           "total": 2553.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -14678,7 +14678,7 @@ var data = [
         "improved": {
           "other": 2848.0,
           "total": 10320.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -14686,7 +14686,7 @@ var data = [
         "improved": {
           "other": 2617.0,
           "total": 2617.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -14887,7 +14887,7 @@ var data = [
         "improved": 58079.839999999997,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -14896,7 +14896,7 @@ var data = [
         "improved": 79433.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.02
         }
@@ -14905,7 +14905,7 @@ var data = [
         "improved": 21353.189999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -14949,7 +14949,7 @@ var data = [
         "improved": 59817.57,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -14958,7 +14958,7 @@ var data = [
         "improved": 81623.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.91000000000000003
         }
@@ -14967,7 +14967,7 @@ var data = [
         "improved": 21804.529999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -15011,7 +15011,7 @@ var data = [
         "improved": 59969.580000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -15020,7 +15020,7 @@ var data = [
         "improved": 82075.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.22
         }
@@ -15029,7 +15029,7 @@ var data = [
         "improved": 22105.200000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -15073,7 +15073,7 @@ var data = [
         "improved": 60450.889999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -15082,7 +15082,7 @@ var data = [
         "improved": 82409.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.31
         }
@@ -15091,7 +15091,7 @@ var data = [
         "improved": 21957.799999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -15135,7 +15135,7 @@ var data = [
         "improved": 60561.309999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -15144,7 +15144,7 @@ var data = [
         "improved": 82264.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.27000000000000002
         }
@@ -15153,7 +15153,7 @@ var data = [
         "improved": 21702.959999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -15504,30 +15504,30 @@ var data = [
     "urban_population": 46.600000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -15536,27 +15536,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -15569,7 +15569,7 @@ var data = [
         "improved": 38.130000000000003,
         "unimproved": {
           "open_defecation": 8.5800000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.94999999999999996,
           "total": 9.5299999999999994
         }
@@ -15578,7 +15578,7 @@ var data = [
         "improved": 56.0,
         "unimproved": {
           "open_defecation": 12.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1.0,
           "total": 12.699999999999999
         }
@@ -15587,7 +15587,7 @@ var data = [
         "improved": 17.670000000000002,
         "unimproved": {
           "open_defecation": 2.9500000000000002,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.41999999999999998,
           "total": 3.3700000000000001
         }
@@ -15631,7 +15631,7 @@ var data = [
         "improved": 38.719999999999999,
         "unimproved": {
           "open_defecation": 8.7100000000000009,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.96999999999999997,
           "total": 9.6799999999999997
         }
@@ -15640,7 +15640,7 @@ var data = [
         "improved": 56.0,
         "unimproved": {
           "open_defecation": 12.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1.0,
           "total": 12.07
         }
@@ -15649,7 +15649,7 @@ var data = [
         "improved": 16.52,
         "unimproved": {
           "open_defecation": 2.75,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.39000000000000001,
           "total": 3.1499999999999999
         }
@@ -15693,7 +15693,7 @@ var data = [
         "improved": 39.32,
         "unimproved": {
           "open_defecation": 8.8499999999999996,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.97999999999999998,
           "total": 9.8300000000000001
         }
@@ -15702,7 +15702,7 @@ var data = [
         "improved": 54.0,
         "unimproved": {
           "open_defecation": 12.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1.0,
           "total": 13.460000000000001
         }
@@ -15711,7 +15711,7 @@ var data = [
         "improved": 15.380000000000001,
         "unimproved": {
           "open_defecation": 2.5600000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.37,
           "total": 2.9300000000000002
         }
@@ -15752,30 +15752,30 @@ var data = [
     "urban_population": 48.93,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -15784,27 +15784,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -15817,7 +15817,7 @@ var data = [
         "improved": 4360.8900000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -15826,7 +15826,7 @@ var data = [
         "improved": 5140.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.050000000000000003
         }
@@ -15835,7 +15835,7 @@ var data = [
         "improved": 779.05999999999995,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -15879,7 +15879,7 @@ var data = [
         "improved": 4442.5799999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -15888,7 +15888,7 @@ var data = [
         "improved": 5228.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.14000000000000001
         }
@@ -15897,7 +15897,7 @@ var data = [
         "improved": 785.27999999999997,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -15941,7 +15941,7 @@ var data = [
         "improved": 4540.4099999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -15950,7 +15950,7 @@ var data = [
         "improved": 5335.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.39000000000000001
         }
@@ -15959,7 +15959,7 @@ var data = [
         "improved": 794.97000000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -15972,7 +15972,7 @@ var data = [
         "improved": {
           "other": 4540.0,
           "total": 4540.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -15980,7 +15980,7 @@ var data = [
         "improved": {
           "other": 4540.0,
           "total": 5335.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -16003,7 +16003,7 @@ var data = [
         "improved": 4650.9300000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -16012,7 +16012,7 @@ var data = [
         "improved": 5417.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.13
         }
@@ -16021,7 +16021,7 @@ var data = [
         "improved": 766.20000000000005,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -16034,7 +16034,7 @@ var data = [
         "improved": {
           "other": 4651.0,
           "total": 4651.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -16042,7 +16042,7 @@ var data = [
         "improved": {
           "other": 4651.0,
           "total": 5417.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -16065,7 +16065,7 @@ var data = [
         "improved": 4731.4499999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -16074,7 +16074,7 @@ var data = [
         "improved": 5458.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.20000000000000001
         }
@@ -16083,7 +16083,7 @@ var data = [
         "improved": 726.75999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -16096,7 +16096,7 @@ var data = [
         "improved": {
           "other": 4731.0,
           "total": 4731.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -16104,7 +16104,7 @@ var data = [
         "improved": {
           "other": 4731.0,
           "total": 5458.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -16437,7 +16437,7 @@ var data = [
         "improved": 13036.709999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 131.68000000000001,
           "total": 131.69
         }
@@ -16446,7 +16446,7 @@ var data = [
         "improved": 22365.0,
         "unimproved": {
           "open_defecation": 1817.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1101.0,
           "total": 2917.52
         }
@@ -16455,7 +16455,7 @@ var data = [
         "improved": 9327.8700000000008,
         "unimproved": {
           "open_defecation": 1817.1199999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 969.13,
           "total": 2786.25
         }
@@ -16499,7 +16499,7 @@ var data = [
         "improved": 15669.440000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 158.28,
           "total": 158.28
         }
@@ -16508,7 +16508,7 @@ var data = [
         "improved": 25370.0,
         "unimproved": {
           "open_defecation": 1866.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1029.0,
           "total": 2895.29
         }
@@ -16517,7 +16517,7 @@ var data = [
         "improved": 9701.3099999999995,
         "unimproved": {
           "open_defecation": 1865.6400000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 870.63,
           "total": 2736.27
         }
@@ -16561,7 +16561,7 @@ var data = [
         "improved": 18063.209999999999,
         "unimproved": {
           "open_defecation": 182.46000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 182.46000000000001
         }
@@ -16570,7 +16570,7 @@ var data = [
         "improved": 28117.0,
         "unimproved": {
           "open_defecation": 1898.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 490.0,
           "total": 2389.0500000000002
         }
@@ -16579,7 +16579,7 @@ var data = [
         "improved": 10053.51,
         "unimproved": {
           "open_defecation": 1716.45,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 490.42000000000002,
           "total": 2206.8699999999999
         }
@@ -16623,7 +16623,7 @@ var data = [
         "improved": 20388.389999999999,
         "unimproved": {
           "open_defecation": 208.03999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 208.03999999999999,
           "total": 416.08999999999997
         }
@@ -16632,7 +16632,7 @@ var data = [
         "improved": 30751.0,
         "unimproved": {
           "open_defecation": 1654.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 449.0,
           "total": 2103.54
         }
@@ -16641,7 +16641,7 @@ var data = [
         "improved": 10363.049999999999,
         "unimproved": {
           "open_defecation": 1446.01,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 241.0,
           "total": 1687.01
         }
@@ -16685,7 +16685,7 @@ var data = [
         "improved": 21986.150000000001,
         "unimproved": {
           "open_defecation": 224.34999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 224.34999999999999,
           "total": 448.69999999999999
         }
@@ -16694,7 +16694,7 @@ var data = [
         "improved": 32492.0,
         "unimproved": {
           "open_defecation": 1418.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 463.0,
           "total": 1881.4300000000001
         }
@@ -16703,7 +16703,7 @@ var data = [
         "improved": 10505.950000000001,
         "unimproved": {
           "open_defecation": 1193.8599999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 238.77000000000001,
           "total": 1432.6300000000001
         }
@@ -17367,7 +17367,7 @@ var data = [
         "improved": 289.38999999999999,
         "unimproved": {
           "open_defecation": 159.66,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 49.890000000000001,
           "total": 209.56
         }
@@ -17376,7 +17376,7 @@ var data = [
         "improved": 289.0,
         "unimproved": {
           "open_defecation": 2819.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 50.0,
           "total": 2868.9000000000001
         }
@@ -17385,7 +17385,7 @@ var data = [
         "improved": 0.0,
         "unimproved": {
           "open_defecation": 2658.96,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 2658.96
         }
@@ -17429,7 +17429,7 @@ var data = [
         "improved": 303.25,
         "unimproved": {
           "open_defecation": 180.88999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 47.880000000000003,
           "total": 228.77000000000001
         }
@@ -17438,7 +17438,7 @@ var data = [
         "improved": 330.0,
         "unimproved": {
           "open_defecation": 2828.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 48.0,
           "total": 2876.1100000000001
         }
@@ -17447,7 +17447,7 @@ var data = [
         "improved": 26.739999999999998,
         "unimproved": {
           "open_defecation": 2647.3499999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 2647.3499999999999
         }
@@ -17491,7 +17491,7 @@ var data = [
         "improved": 351.13,
         "unimproved": {
           "open_defecation": 247.09,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 52.020000000000003,
           "total": 299.11000000000001
         }
@@ -17500,7 +17500,7 @@ var data = [
         "improved": 411.0,
         "unimproved": {
           "open_defecation": 3164.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 82.0,
           "total": 3246.3299999999999
         }
@@ -17509,7 +17509,7 @@ var data = [
         "improved": 60.140000000000001,
         "unimproved": {
           "open_defecation": 2916.8800000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 30.07,
           "total": 2946.9499999999998
         }
@@ -17553,7 +17553,7 @@ var data = [
         "improved": 451.56999999999999,
         "unimproved": {
           "open_defecation": 356.05000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 60.789999999999999,
           "total": 416.83999999999997
         }
@@ -17562,7 +17562,7 @@ var data = [
         "improved": 596.0,
         "unimproved": {
           "open_defecation": 3817.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 61.0,
           "total": 3877.1199999999999
         }
@@ -17571,7 +17571,7 @@ var data = [
         "improved": 144.19,
         "unimproved": {
           "open_defecation": 3460.52,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 3460.52
         }
@@ -17615,7 +17615,7 @@ var data = [
         "improved": 528.84000000000003,
         "unimproved": {
           "open_defecation": 416.97000000000003,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 71.189999999999998,
           "total": 488.17000000000002
         }
@@ -17624,7 +17624,7 @@ var data = [
         "improved": 685.0,
         "unimproved": {
           "open_defecation": 4170.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 71.0,
           "total": 4241.8699999999999
         }
@@ -17633,7 +17633,7 @@ var data = [
         "improved": 156.38999999999999,
         "unimproved": {
           "open_defecation": 3753.4699999999998,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 3753.48
         }
@@ -17674,30 +17674,30 @@ var data = [
     "urban_population": 190.21000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -17706,27 +17706,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -17736,30 +17736,30 @@ var data = [
     "urban_population": 225.75,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -17768,27 +17768,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -17798,30 +17798,30 @@ var data = [
     "urban_population": 264.43000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -17830,27 +17830,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -17860,30 +17860,30 @@ var data = [
     "urban_population": 355.83999999999997,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -17892,27 +17892,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -17922,30 +17922,30 @@ var data = [
     "urban_population": 404.43000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -17954,27 +17954,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -17987,7 +17987,7 @@ var data = [
         "improved": 29265.790000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -17996,7 +17996,7 @@ var data = [
         "improved": 38839.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.28000000000000003
         }
@@ -18005,7 +18005,7 @@ var data = [
         "improved": 9573.5,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -18049,7 +18049,7 @@ var data = [
         "improved": 29880.200000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -18058,7 +18058,7 @@ var data = [
         "improved": 39390.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.68000000000000005
         }
@@ -18067,7 +18067,7 @@ var data = [
         "improved": 9510.4899999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -18111,7 +18111,7 @@ var data = [
         "improved": 30706.389999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -18120,7 +18120,7 @@ var data = [
         "improved": 40264.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.34000000000000002
         }
@@ -18129,7 +18129,7 @@ var data = [
         "improved": 9557.9500000000007,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -18173,7 +18173,7 @@ var data = [
         "improved": 33036.260000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -18182,7 +18182,7 @@ var data = [
         "improved": 43060.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.26000000000000001
         }
@@ -18191,7 +18191,7 @@ var data = [
         "improved": 10024.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -18235,7 +18235,7 @@ var data = [
         "improved": 34299.019999999997,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -18244,7 +18244,7 @@ var data = [
         "improved": 44486.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.40000000000000002
         }
@@ -18253,7 +18253,7 @@ var data = [
         "improved": 10187.389999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -18294,30 +18294,30 @@ var data = [
     "urban_population": 1114.9200000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -18917,7 +18917,7 @@ var data = [
         "improved": 3062.9200000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -18926,7 +18926,7 @@ var data = [
         "improved": 4987.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.56000000000000005
         }
@@ -18935,7 +18935,7 @@ var data = [
         "improved": 1923.52,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -18979,7 +18979,7 @@ var data = [
         "improved": 3134.9099999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -18988,7 +18988,7 @@ var data = [
         "improved": 5108.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.20000000000000001
         }
@@ -18997,7 +18997,7 @@ var data = [
         "improved": 1972.8900000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19041,7 +19041,7 @@ var data = [
         "improved": 3162.2199999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19050,7 +19050,7 @@ var data = [
         "improved": 5173.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.37
         }
@@ -19059,7 +19059,7 @@ var data = [
         "improved": 2011.1500000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19103,7 +19103,7 @@ var data = [
         "improved": 3270.7399999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19112,7 +19112,7 @@ var data = [
         "improved": 5245.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.66000000000000003
         }
@@ -19121,7 +19121,7 @@ var data = [
         "improved": 1973.5999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19165,7 +19165,7 @@ var data = [
         "improved": 3356.5100000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19174,7 +19174,7 @@ var data = [
         "improved": 5305.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.54000000000000004
         }
@@ -19183,7 +19183,7 @@ var data = [
         "improved": 1947.96,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19204,7 +19204,7 @@ var data = [
         "improved": {
           "other": 1948.0,
           "total": 5305.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -19212,7 +19212,7 @@ var data = [
         "improved": {
           "other": 1948.0,
           "total": 1948.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -19226,28 +19226,28 @@ var data = [
       "urban": {
         "improved": 276.99000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 24.09,
           "total": 24.09
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -19258,25 +19258,25 @@ var data = [
         "improved": {
           "other": 277.0,
           "total": 277.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 24.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -19288,28 +19288,28 @@ var data = [
       "urban": {
         "improved": 328.42000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 20.960000000000001,
           "total": 20.960000000000001
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -19326,19 +19326,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 141.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 29.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -19350,28 +19350,28 @@ var data = [
       "urban": {
         "improved": 371.92000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 15.5,
           "total": 15.49
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -19388,19 +19388,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 153.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 29.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -19410,30 +19410,30 @@ var data = [
     "urban_population": 420.89999999999998,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -19442,27 +19442,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 135.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 164.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 29.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -19472,30 +19472,30 @@ var data = [
     "urban_population": 441.93000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -19504,27 +19504,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -19537,7 +19537,7 @@ var data = [
         "improved": 42094.919999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19546,7 +19546,7 @@ var data = [
         "improved": 56842.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.02
         }
@@ -19555,7 +19555,7 @@ var data = [
         "improved": 14747.09,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19599,7 +19599,7 @@ var data = [
         "improved": 43448.529999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19608,7 +19608,7 @@ var data = [
         "improved": 58000.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.56999999999999995
         }
@@ -19617,7 +19617,7 @@ var data = [
         "improved": 14550.9,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19661,7 +19661,7 @@ var data = [
         "improved": 44793.660000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19670,7 +19670,7 @@ var data = [
         "improved": 59128.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.080000000000000002
         }
@@ -19679,7 +19679,7 @@ var data = [
         "improved": 14334.42,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19723,7 +19723,7 @@ var data = [
         "improved": 46798.339999999997,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19732,7 +19732,7 @@ var data = [
         "improved": 61013.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.20000000000000001
         }
@@ -19741,7 +19741,7 @@ var data = [
         "improved": 14214.85,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19785,7 +19785,7 @@ var data = [
         "improved": 47974.300000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19794,7 +19794,7 @@ var data = [
         "improved": 62036.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19803,7 +19803,7 @@ var data = [
         "improved": 14061.700000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -19846,8 +19846,8 @@ var data = [
       "urban": {
         "improved": 13.68,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 11.19,
           "total": 11.19
         }
@@ -19855,8 +19855,8 @@ var data = [
       "total": {
         "improved": 28.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 68.0,
           "total": 68.310000000000002
         }
@@ -19864,8 +19864,8 @@ var data = [
       "rural": {
         "improved": 14.289999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 57.159999999999997,
           "total": 57.149999999999999
         }
@@ -19878,7 +19878,7 @@ var data = [
         "improved": {
           "other": 23.0,
           "total": 23.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       },
@@ -19886,7 +19886,7 @@ var data = [
         "improved": {
           "other": 85.0,
           "total": 85.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 11.0
       },
@@ -19894,7 +19894,7 @@ var data = [
         "improved": {
           "other": 62.0,
           "total": 62.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 9.0
       }
@@ -19908,8 +19908,8 @@ var data = [
       "urban": {
         "improved": 15.050000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 11.83,
           "total": 11.83
         }
@@ -19917,8 +19917,8 @@ var data = [
       "total": {
         "improved": 29.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 78.0,
           "total": 78.0
         }
@@ -19926,8 +19926,8 @@ var data = [
       "rural": {
         "improved": 14.42,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 65.930000000000007,
           "total": 65.700000000000003
         }
@@ -19940,7 +19940,7 @@ var data = [
         "improved": {
           "other": 25.0,
           "total": 25.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       },
@@ -19948,7 +19948,7 @@ var data = [
         "improved": {
           "other": 97.0,
           "total": 97.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 10.0
       },
@@ -19956,7 +19956,7 @@ var data = [
         "improved": {
           "other": 72.0,
           "total": 72.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 8.0
       }
@@ -19970,8 +19970,8 @@ var data = [
       "urban": {
         "improved": 14.109999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 9.8100000000000005,
           "total": 9.8100000000000005
         }
@@ -19979,8 +19979,8 @@ var data = [
       "total": {
         "improved": 27.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 80.0,
           "total": 80.099999999999994
         }
@@ -19988,8 +19988,8 @@ var data = [
       "rural": {
         "improved": 13.31,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 69.870000000000005,
           "total": 69.870000000000005
         }
@@ -20002,7 +20002,7 @@ var data = [
         "improved": {
           "other": 22.0,
           "total": 22.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       },
@@ -20010,7 +20010,7 @@ var data = [
         "improved": {
           "other": 99.0,
           "total": 99.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 8.0
       },
@@ -20018,7 +20018,7 @@ var data = [
         "improved": {
           "other": 77.0,
           "total": 77.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 6.0
       }
@@ -20032,8 +20032,8 @@ var data = [
       "urban": {
         "improved": 14.9,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 9.5299999999999994,
           "total": 9.5299999999999994
         }
@@ -20041,8 +20041,8 @@ var data = [
       "total": {
         "improved": 28.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 82.0,
           "total": 81.420000000000002
         }
@@ -20050,8 +20050,8 @@ var data = [
       "rural": {
         "improved": 12.75,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 72.239999999999995,
           "total": 72.230000000000004
         }
@@ -20064,7 +20064,7 @@ var data = [
         "improved": {
           "other": 23.0,
           "total": 23.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
@@ -20072,7 +20072,7 @@ var data = [
         "improved": {
           "other": 103.0,
           "total": 103.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 6.0
       },
@@ -20080,7 +20080,7 @@ var data = [
         "improved": {
           "other": 80.0,
           "total": 80.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 5.0
       }
@@ -20092,30 +20092,30 @@ var data = [
     "urban_population": 24.800000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -20126,25 +20126,25 @@ var data = [
         "improved": {
           "other": 24.0,
           "total": 24.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -20154,30 +20154,30 @@ var data = [
     "urban_population": 640.53999999999996,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -20186,27 +20186,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -20466,8 +20466,8 @@ var data = [
       "urban": {
         "improved": 50765.080000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -20475,8 +20475,8 @@ var data = [
       "total": {
         "improved": 57237.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.5
         }
@@ -20484,8 +20484,8 @@ var data = [
       "rural": {
         "improved": 6472.4200000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -20528,8 +20528,8 @@ var data = [
       "urban": {
         "improved": 51658.839999999997,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -20537,8 +20537,8 @@ var data = [
       "total": {
         "improved": 58042.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.34000000000000002
         }
@@ -20546,8 +20546,8 @@ var data = [
       "rural": {
         "improved": 6383.5,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -20590,8 +20590,8 @@ var data = [
       "urban": {
         "improved": 52635.540000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -20599,8 +20599,8 @@ var data = [
       "total": {
         "improved": 58908.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.58999999999999997
         }
@@ -20608,8 +20608,8 @@ var data = [
       "rural": {
         "improved": 6271.8699999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -20652,8 +20652,8 @@ var data = [
       "urban": {
         "improved": 54065.809999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -20661,8 +20661,8 @@ var data = [
       "total": {
         "improved": 60261.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.40999999999999998
         }
@@ -20670,8 +20670,8 @@ var data = [
       "rural": {
         "improved": 6194.79,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -20714,8 +20714,8 @@ var data = [
       "urban": {
         "improved": 55086.389999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -20723,8 +20723,8 @@ var data = [
       "total": {
         "improved": 61231.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.089999999999999997
         }
@@ -20732,8 +20732,8 @@ var data = [
       "rural": {
         "improved": 6144.5200000000004,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -21704,30 +21704,30 @@ var data = [
     "urban_population": 380.91000000000003,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -21744,19 +21744,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -21768,28 +21768,28 @@ var data = [
       "urban": {
         "improved": 374.50999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 23.899999999999999,
           "total": 23.899999999999999
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -21830,28 +21830,28 @@ var data = [
       "urban": {
         "improved": 396.83999999999997,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 25.329999999999998,
           "total": 25.329999999999998
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -21892,28 +21892,28 @@ var data = [
       "urban": {
         "improved": 425.30000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 22.379999999999999,
           "total": 22.390000000000001
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -21930,19 +21930,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -21954,28 +21954,28 @@ var data = [
       "urban": {
         "improved": 432.69999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 22.77,
           "total": 22.780000000000001
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -21992,19 +21992,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -22014,30 +22014,30 @@ var data = [
     "urban_population": 343.10000000000002,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -22324,30 +22324,30 @@ var data = [
     "urban_population": 287.61000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -22356,19 +22356,19 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 17.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 17.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
@@ -22634,30 +22634,30 @@ var data = [
     "urban_population": 131.77000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -22666,27 +22666,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 16.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 16.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 0.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -22698,8 +22698,8 @@ var data = [
       "urban": {
         "improved": 105.31999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 70.209999999999994,
           "total": 70.209999999999994
         }
@@ -22707,8 +22707,8 @@ var data = [
       "total": {
         "improved": 232.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 219.0,
           "total": 219.99000000000001
         }
@@ -22716,8 +22716,8 @@ var data = [
       "rural": {
         "improved": 127.17,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 149.28999999999999,
           "total": 149.28999999999999
         }
@@ -22760,8 +22760,8 @@ var data = [
       "urban": {
         "improved": 123.14,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 82.099999999999994,
           "total": 82.099999999999994
         }
@@ -22769,8 +22769,8 @@ var data = [
       "total": {
         "improved": 272.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 257.0,
           "total": 256.88
         }
@@ -22778,8 +22778,8 @@ var data = [
       "rural": {
         "improved": 148.88,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 174.77000000000001,
           "total": 174.75999999999999
         }
@@ -22822,8 +22822,8 @@ var data = [
       "urban": {
         "improved": 142.22,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 94.819999999999993,
           "total": 94.819999999999993
         }
@@ -22831,8 +22831,8 @@ var data = [
       "total": {
         "improved": 313.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 296.0,
           "total": 295.81
         }
@@ -22840,8 +22840,8 @@ var data = [
       "rural": {
         "improved": 171.00999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 200.75,
           "total": 200.75999999999999
         }
@@ -22882,30 +22882,30 @@ var data = [
     "urban_population": 259.16000000000003,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -22914,27 +22914,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 0.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -22947,7 +22947,7 @@ var data = [
         "improved": 5978.7399999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -22956,7 +22956,7 @@ var data = [
         "improved": 9826.0,
         "unimproved": {
           "open_defecation": 335.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 334.5
         }
@@ -22965,7 +22965,7 @@ var data = [
         "improved": 3847.2199999999998,
         "unimproved": {
           "open_defecation": 334.54000000000002,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 334.54000000000002
         }
@@ -23009,7 +23009,7 @@ var data = [
         "improved": 6263.9099999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 63.270000000000003,
           "total": 63.270000000000003
         }
@@ -23018,7 +23018,7 @@ var data = [
         "improved": 10348.0,
         "unimproved": {
           "open_defecation": 261.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 63.0,
           "total": 324.12
         }
@@ -23027,7 +23027,7 @@ var data = [
         "improved": 4084.25,
         "unimproved": {
           "open_defecation": 260.69999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 260.69
         }
@@ -23071,7 +23071,7 @@ var data = [
         "improved": 6471.1300000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 65.359999999999999,
           "total": 65.370000000000005
         }
@@ -23080,7 +23080,7 @@ var data = [
         "improved": 10701.0,
         "unimproved": {
           "open_defecation": 176.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 65.0,
           "total": 241.31
         }
@@ -23089,7 +23089,7 @@ var data = [
         "improved": 4229.5799999999999,
         "unimproved": {
           "open_defecation": 176.22999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 176.22999999999999
         }
@@ -23133,7 +23133,7 @@ var data = [
         "improved": 6611.1400000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 66.780000000000001,
           "total": 66.780000000000001
         }
@@ -23142,7 +23142,7 @@ var data = [
         "improved": 10865.0,
         "unimproved": {
           "open_defecation": 88.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 111.0,
           "total": 198.66999999999999
         }
@@ -23151,7 +23151,7 @@ var data = [
         "improved": 4254.1800000000003,
         "unimproved": {
           "open_defecation": 87.709999999999994,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 43.859999999999999,
           "total": 131.56999999999999
         }
@@ -23195,7 +23195,7 @@ var data = [
         "improved": 6719.1499999999996,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 67.870000000000005,
           "total": 67.870000000000005
         }
@@ -23204,7 +23204,7 @@ var data = [
         "improved": 10939.0,
         "unimproved": {
           "open_defecation": 87.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 112.0,
           "total": 198.03
         }
@@ -23213,7 +23213,7 @@ var data = [
         "improved": 4219.5100000000002,
         "unimproved": {
           "open_defecation": 87.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 43.5,
           "total": 130.5
         }
@@ -23256,8 +23256,8 @@ var data = [
       "urban": {
         "improved": 29.760000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.24,
           "total": 1.24
         }
@@ -23265,8 +23265,8 @@ var data = [
       "total": {
         "improved": 93.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.0,
           "total": 3.1800000000000002
         }
@@ -23274,8 +23274,8 @@ var data = [
       "rural": {
         "improved": 63.229999999999997,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.96,
           "total": 1.95
         }
@@ -23288,25 +23288,25 @@ var data = [
         "improved": {
           "other": 30.0,
           "total": 30.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -23318,8 +23318,8 @@ var data = [
       "urban": {
         "improved": 30.399999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.27,
           "total": 1.26
         }
@@ -23327,8 +23327,8 @@ var data = [
       "total": {
         "improved": 96.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.0,
           "total": 4.1699999999999999
         }
@@ -23336,8 +23336,8 @@ var data = [
       "rural": {
         "improved": 66.450000000000003,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.0600000000000001,
           "total": 2.0499999999999998
         }
@@ -23380,8 +23380,8 @@ var data = [
       "urban": {
         "improved": 30.079999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.25,
           "total": 1.25
         }
@@ -23389,8 +23389,8 @@ var data = [
       "total": {
         "improved": 98.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.0,
           "total": 3.21
         }
@@ -23398,8 +23398,8 @@ var data = [
       "rural": {
         "improved": 67.780000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.1000000000000001,
           "total": 2.1000000000000001
         }
@@ -23442,8 +23442,8 @@ var data = [
       "urban": {
         "improved": 30.120000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.26,
           "total": 1.26
         }
@@ -23451,8 +23451,8 @@ var data = [
       "total": {
         "improved": 99.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.0,
           "total": 3.5
         }
@@ -23460,8 +23460,8 @@ var data = [
       "rural": {
         "improved": 68.989999999999995,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.1299999999999999,
           "total": 2.1299999999999999
         }
@@ -23474,25 +23474,25 @@ var data = [
         "improved": {
           "other": 30.0,
           "total": 30.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -23504,8 +23504,8 @@ var data = [
       "urban": {
         "improved": 30.579999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.27,
           "total": 1.28
         }
@@ -23513,8 +23513,8 @@ var data = [
       "total": {
         "improved": 101.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.0,
           "total": 2.54
         }
@@ -23522,8 +23522,8 @@ var data = [
       "rural": {
         "improved": 69.530000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.1499999999999999,
           "total": 2.1499999999999999
         }
@@ -23536,25 +23536,25 @@ var data = [
         "improved": {
           "other": 31.0,
           "total": 31.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -23874,30 +23874,30 @@ var data = [
     "urban_population": 86.719999999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -23906,27 +23906,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -23938,8 +23938,8 @@ var data = [
       "urban": {
         "improved": 88.189999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 15.56,
           "total": 15.57
         }
@@ -23947,8 +23947,8 @@ var data = [
       "total": {
         "improved": 108.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 31.0,
           "total": 30.719999999999999
         }
@@ -23956,8 +23956,8 @@ var data = [
       "rural": {
         "improved": 19.93,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 15.029999999999999,
           "total": 15.029999999999999
         }
@@ -24000,8 +24000,8 @@ var data = [
       "urban": {
         "improved": 105.41,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 18.600000000000001,
           "total": 18.600000000000001
         }
@@ -24009,8 +24009,8 @@ var data = [
       "total": {
         "improved": 128.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 37.0,
           "total": 37.159999999999997
         }
@@ -24018,8 +24018,8 @@ var data = [
       "rural": {
         "improved": 23.460000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 17.699999999999999,
           "total": 17.690000000000001
         }
@@ -24060,30 +24060,30 @@ var data = [
     "urban_population": 152.66999999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -24092,27 +24092,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -24122,30 +24122,30 @@ var data = [
     "urban_population": 167.30000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -24154,27 +24154,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -24186,8 +24186,8 @@ var data = [
       "urban": {
         "improved": 120.37,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.22,
           "total": 1.22
         }
@@ -24195,8 +24195,8 @@ var data = [
       "total": {
         "improved": 132.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.0,
           "total": 1.9099999999999999
         }
@@ -24204,8 +24204,8 @@ var data = [
       "rural": {
         "improved": 12.08,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.25,
           "total": 0.25
         }
@@ -24218,7 +24218,7 @@ var data = [
         "improved": {
           "other": 122.0,
           "total": 122.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -24226,7 +24226,7 @@ var data = [
         "improved": {
           "other": 134.0,
           "total": 134.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -24234,7 +24234,7 @@ var data = [
         "improved": {
           "other": 12.0,
           "total": 12.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -24248,8 +24248,8 @@ var data = [
       "urban": {
         "improved": 132.65000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.3400000000000001,
           "total": 1.3400000000000001
         }
@@ -24257,8 +24257,8 @@ var data = [
       "total": {
         "improved": 144.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.0,
           "total": 1.5600000000000001
         }
@@ -24266,8 +24266,8 @@ var data = [
       "rural": {
         "improved": 11.33,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.23000000000000001,
           "total": 0.23999999999999999
         }
@@ -24280,7 +24280,7 @@ var data = [
         "improved": {
           "other": 134.0,
           "total": 134.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -24288,7 +24288,7 @@ var data = [
         "improved": {
           "other": 146.0,
           "total": 146.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -24296,7 +24296,7 @@ var data = [
         "improved": {
           "other": 12.0,
           "total": 12.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -24310,8 +24310,8 @@ var data = [
       "urban": {
         "improved": 143.00999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.4399999999999999,
           "total": 1.4399999999999999
         }
@@ -24319,8 +24319,8 @@ var data = [
       "total": {
         "improved": 153.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.0,
           "total": 2.1499999999999999
         }
@@ -24328,8 +24328,8 @@ var data = [
       "rural": {
         "improved": 10.49,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.20999999999999999,
           "total": 0.20999999999999999
         }
@@ -24342,7 +24342,7 @@ var data = [
         "improved": {
           "other": 144.0,
           "total": 144.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -24350,7 +24350,7 @@ var data = [
         "improved": {
           "other": 155.0,
           "total": 155.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -24358,7 +24358,7 @@ var data = [
         "improved": {
           "other": 11.0,
           "total": 11.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -24372,8 +24372,8 @@ var data = [
       "urban": {
         "improved": 155.37,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.5700000000000001,
           "total": 1.5700000000000001
         }
@@ -24381,8 +24381,8 @@ var data = [
       "total": {
         "improved": 166.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.0,
           "total": 2.5699999999999998
         }
@@ -24390,8 +24390,8 @@ var data = [
       "rural": {
         "improved": 11.390000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.23000000000000001,
           "total": 0.23999999999999999
         }
@@ -24404,7 +24404,7 @@ var data = [
         "improved": {
           "other": 157.0,
           "total": 157.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -24412,7 +24412,7 @@ var data = [
         "improved": {
           "other": 169.0,
           "total": 169.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -24420,7 +24420,7 @@ var data = [
         "improved": {
           "other": 12.0,
           "total": 12.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -24434,8 +24434,8 @@ var data = [
       "urban": {
         "improved": 161.86000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.6299999999999999,
           "total": 1.6299999999999999
         }
@@ -24443,8 +24443,8 @@ var data = [
       "total": {
         "improved": 174.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.0,
           "total": 1.55
         }
@@ -24452,8 +24452,8 @@ var data = [
       "rural": {
         "improved": 11.82,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.23999999999999999,
           "total": 0.23999999999999999
         }
@@ -24466,7 +24466,7 @@ var data = [
         "improved": {
           "other": 163.0,
           "total": 163.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -24474,7 +24474,7 @@ var data = [
         "improved": {
           "other": 175.0,
           "total": 175.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -24482,7 +24482,7 @@ var data = [
         "improved": {
           "other": 12.0,
           "total": 12.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -24494,30 +24494,30 @@ var data = [
     "urban_population": 221.28999999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -24526,27 +24526,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -25114,30 +25114,30 @@ var data = [
     "urban_population": 2441.0500000000002,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -25146,27 +25146,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -25218,7 +25218,7 @@ var data = [
         "improved": {
           "other": 2145.0,
           "total": 4606.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 63.0
       },
@@ -25226,7 +25226,7 @@ var data = [
         "improved": {
           "other": 2043.0,
           "total": 2043.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 63.0
       }
@@ -25737,7 +25737,7 @@ var data = [
         "improved": 6824.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -25746,7 +25746,7 @@ var data = [
         "improved": 10365.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.16
         }
@@ -25755,7 +25755,7 @@ var data = [
         "improved": 3540.8400000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -25799,7 +25799,7 @@ var data = [
         "improved": 6737.6000000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -25808,7 +25808,7 @@ var data = [
         "improved": 10333.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.68000000000000005
         }
@@ -25817,7 +25817,7 @@ var data = [
         "improved": 3594.7199999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -25861,7 +25861,7 @@ var data = [
         "improved": 6596.1800000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -25870,7 +25870,7 @@ var data = [
         "improved": 10215.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.23999999999999999
         }
@@ -25879,7 +25879,7 @@ var data = [
         "improved": 3618.5799999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -25923,7 +25923,7 @@ var data = [
         "improved": 6681.3900000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -25932,7 +25932,7 @@ var data = [
         "improved": 10077.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.52000000000000002
         }
@@ -25941,7 +25941,7 @@ var data = [
         "improved": 3396.1199999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -25985,7 +25985,7 @@ var data = [
         "improved": 6759.3400000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -25994,7 +25994,7 @@ var data = [
         "improved": 10012.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.23999999999999999
         }
@@ -26003,7 +26003,7 @@ var data = [
         "improved": 3252.8899999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -26667,7 +26667,7 @@ var data = [
         "improved": 2000.04,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -26676,7 +26676,7 @@ var data = [
         "improved": 3484.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 30.0,
           "total": 30.640000000000001
         }
@@ -26685,7 +26685,7 @@ var data = [
         "improved": 1484.3099999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 30.289999999999999,
           "total": 30.289999999999999
         }
@@ -26729,7 +26729,7 @@ var data = [
         "improved": 2090.25,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -26738,7 +26738,7 @@ var data = [
         "improved": 3578.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 30.0,
           "total": 30.850000000000001
         }
@@ -26747,7 +26747,7 @@ var data = [
         "improved": 1488.23,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 30.370000000000001,
           "total": 30.370000000000001
         }
@@ -26791,7 +26791,7 @@ var data = [
         "improved": 2249.8099999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -26800,7 +26800,7 @@ var data = [
         "improved": 3773.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 31.0,
           "total": 30.82
         }
@@ -26809,7 +26809,7 @@ var data = [
         "improved": 1522.9300000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 31.079999999999998,
           "total": 31.079999999999998
         }
@@ -26853,7 +26853,7 @@ var data = [
         "improved": 2532.2399999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -26862,7 +26862,7 @@ var data = [
         "improved": 4154.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 33.0,
           "total": 33.109999999999999
         }
@@ -26871,7 +26871,7 @@ var data = [
         "improved": 1621.77,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 33.100000000000001,
           "total": 33.100000000000001
         }
@@ -26915,7 +26915,7 @@ var data = [
         "improved": 2721.1500000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -26924,7 +26924,7 @@ var data = [
         "improved": 4403.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 34.0,
           "total": 33.969999999999999
         }
@@ -26933,7 +26933,7 @@ var data = [
         "improved": 1681.5,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 34.32,
           "total": 34.32
         }
@@ -26976,8 +26976,8 @@ var data = [
       "urban": {
         "improved": 27483.709999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 4474.0900000000001,
           "total": 4474.0900000000001
         }
@@ -26985,8 +26985,8 @@ var data = [
       "total": {
         "improved": 46809.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 9925.0,
           "total": 9924.1800000000003
         }
@@ -26994,8 +26994,8 @@ var data = [
       "rural": {
         "improved": 19324.799999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 5450.5799999999999,
           "total": 5450.5799999999999
         }
@@ -27038,8 +27038,8 @@ var data = [
       "urban": {
         "improved": 32223.849999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 5245.7399999999998,
           "total": 5245.7399999999998
         }
@@ -27047,8 +27047,8 @@ var data = [
       "total": {
         "improved": 51517.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 10688.0,
           "total": 10687.639999999999
         }
@@ -27056,8 +27056,8 @@ var data = [
       "rural": {
         "improved": 19293.34,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 5441.71,
           "total": 5441.71
         }
@@ -27100,8 +27100,8 @@ var data = [
       "urban": {
         "improved": 36938.419999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 6013.2299999999996,
           "total": 6013.2299999999996
         }
@@ -27109,8 +27109,8 @@ var data = [
       "total": {
         "improved": 55620.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 11282.0,
           "total": 11282.879999999999
         }
@@ -27118,8 +27118,8 @@ var data = [
       "rural": {
         "improved": 18681.959999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 5269.2700000000004,
           "total": 5269.2700000000004
         }
@@ -27160,30 +27160,30 @@ var data = [
     "urban_population": 47366.480000000003,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -27200,19 +27200,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -27222,30 +27222,30 @@ var data = [
     "urban_population": 50215.650000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -27262,19 +27262,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -27284,30 +27284,30 @@ var data = [
     "urban_population": 12602.440000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -27318,7 +27318,7 @@ var data = [
         "improved": {
           "other": 12224.0,
           "total": 12224.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 378.0
       },
@@ -27326,7 +27326,7 @@ var data = [
         "improved": {
           "other": 14634.0,
           "total": 14634.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3445.0
       },
@@ -27334,7 +27334,7 @@ var data = [
         "improved": {
           "other": 2410.0,
           "total": 2410.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3067.0
       }
@@ -27597,7 +27597,7 @@ var data = [
         "improved": 231.22999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -27606,7 +27606,7 @@ var data = [
         "improved": 255.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.20999999999999999
         }
@@ -27615,7 +27615,7 @@ var data = [
         "improved": 23.57,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -27659,7 +27659,7 @@ var data = [
         "improved": 245.09,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -27668,7 +27668,7 @@ var data = [
         "improved": 267.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.47999999999999998
         }
@@ -27677,7 +27677,7 @@ var data = [
         "improved": 22.390000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -27721,7 +27721,7 @@ var data = [
         "improved": 259.19,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -27730,7 +27730,7 @@ var data = [
         "improved": 281.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.089999999999999997
         }
@@ -27739,7 +27739,7 @@ var data = [
         "improved": 21.899999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -27783,7 +27783,7 @@ var data = [
         "improved": 272.79000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -27792,7 +27792,7 @@ var data = [
         "improved": 296.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.27000000000000002
         }
@@ -27801,7 +27801,7 @@ var data = [
         "improved": 22.949999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -27845,7 +27845,7 @@ var data = [
         "improved": 291.06,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -27854,7 +27854,7 @@ var data = [
         "improved": 315.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.46999999999999997
         }
@@ -27863,7 +27863,7 @@ var data = [
         "improved": 24.41,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -27907,7 +27907,7 @@ var data = [
         "improved": 4078.5300000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -27916,7 +27916,7 @@ var data = [
         "improved": 4514.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.29999999999999999
         }
@@ -27925,7 +27925,7 @@ var data = [
         "improved": 435.17000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -27969,7 +27969,7 @@ var data = [
         "improved": 4883.0500000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -27978,7 +27978,7 @@ var data = [
         "improved": 5374.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.10000000000000001
         }
@@ -27987,7 +27987,7 @@ var data = [
         "improved": 490.85000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -28031,7 +28031,7 @@ var data = [
         "improved": 5563.0100000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -28040,7 +28040,7 @@ var data = [
         "improved": 6084.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.19
         }
@@ -28049,7 +28049,7 @@ var data = [
         "improved": 521.16999999999996,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -28093,7 +28093,7 @@ var data = [
         "improved": 6130.3599999999997,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -28102,7 +28102,7 @@ var data = [
         "improved": 6691.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.57999999999999996
         }
@@ -28111,7 +28111,7 @@ var data = [
         "improved": 561.22000000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -28155,7 +28155,7 @@ var data = [
         "improved": 6463.5100000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -28164,7 +28164,7 @@ var data = [
         "improved": 7052.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.62
         }
@@ -28173,7 +28173,7 @@ var data = [
         "improved": 587.87,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -28214,30 +28214,30 @@ var data = [
     "urban_population": 38032.300000000003,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -28276,30 +28276,30 @@ var data = [
     "urban_population": 38283.959999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -28338,30 +28338,30 @@ var data = [
     "urban_population": 38394.5,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -28400,30 +28400,30 @@ var data = [
     "urban_population": 39650.309999999998,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -28462,30 +28462,30 @@ var data = [
     "urban_population": 40540.650000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -28843,21 +28843,21 @@ var data = [
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -29147,7 +29147,7 @@ var data = [
         "improved": 77724.929999999993,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -29156,7 +29156,7 @@ var data = [
         "improved": 123191.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.050000000000000003
         }
@@ -29165,7 +29165,7 @@ var data = [
         "improved": 45466.120000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -29209,7 +29209,7 @@ var data = [
         "improved": 81079.399999999994,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -29218,7 +29218,7 @@ var data = [
         "improved": 125442.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.059999999999999998
         }
@@ -29227,7 +29227,7 @@ var data = [
         "improved": 44362.540000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -29271,7 +29271,7 @@ var data = [
         "improved": 82632.440000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -29280,7 +29280,7 @@ var data = [
         "improved": 126705.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.78000000000000003
         }
@@ -29289,7 +29289,7 @@ var data = [
         "improved": 44073.339999999997,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -29333,7 +29333,7 @@ var data = [
         "improved": 84067.679999999993,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -29342,7 +29342,7 @@ var data = [
         "improved": 127449.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.34000000000000002
         }
@@ -29351,7 +29351,7 @@ var data = [
         "improved": 43380.970000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -29395,7 +29395,7 @@ var data = [
         "improved": 84584.990000000005,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -29404,7 +29404,7 @@ var data = [
         "improved": 127293.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.089999999999999997
         }
@@ -29413,7 +29413,7 @@ var data = [
         "improved": 42708.099999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -30083,21 +30083,21 @@ var data = [
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -30114,19 +30114,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 1929.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 684.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -30942,30 +30942,30 @@ var data = [
     "urban_population": 47.979999999999997,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -30974,27 +30974,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -31006,8 +31006,8 @@ var data = [
       "urban": {
         "improved": 13.529999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.56000000000000005,
           "total": 0.56000000000000005
         }
@@ -31015,8 +31015,8 @@ var data = [
       "total": {
         "improved": 40.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.0,
           "total": 0.70999999999999996
         }
@@ -31024,8 +31024,8 @@ var data = [
       "rural": {
         "improved": 25.559999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.0600000000000001,
           "total": 1.0600000000000001
         }
@@ -31038,7 +31038,7 @@ var data = [
         "improved": {
           "other": 14.0,
           "total": 14.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -31046,7 +31046,7 @@ var data = [
         "improved": {
           "other": 40.0,
           "total": 40.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
@@ -31054,7 +31054,7 @@ var data = [
         "improved": {
           "other": 26.0,
           "total": 26.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       }
@@ -31068,8 +31068,8 @@ var data = [
       "urban": {
         "improved": 13.949999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.57999999999999996,
           "total": 0.57999999999999996
         }
@@ -31077,8 +31077,8 @@ var data = [
       "total": {
         "improved": 41.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.0,
           "total": 2.1000000000000001
         }
@@ -31086,8 +31086,8 @@ var data = [
       "rural": {
         "improved": 27.420000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.1399999999999999,
           "total": 1.1399999999999999
         }
@@ -31130,8 +31130,8 @@ var data = [
       "urban": {
         "improved": 14.49,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.59999999999999998,
           "total": 0.60999999999999999
         }
@@ -31139,8 +31139,8 @@ var data = [
       "total": {
         "improved": 44.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.0,
           "total": 2.0499999999999998
         }
@@ -31148,8 +31148,8 @@ var data = [
       "rural": {
         "improved": 29.719999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.24,
           "total": 1.24
         }
@@ -31192,8 +31192,8 @@ var data = [
       "urban": {
         "improved": 15.18,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.63,
           "total": 0.63
         }
@@ -31201,8 +31201,8 @@ var data = [
       "total": {
         "improved": 47.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.0,
           "total": 2.1400000000000001
         }
@@ -31210,8 +31210,8 @@ var data = [
       "rural": {
         "improved": 31.989999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.3300000000000001,
           "total": 1.3400000000000001
         }
@@ -31224,7 +31224,7 @@ var data = [
         "improved": {
           "other": 16.0,
           "total": 16.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -31232,7 +31232,7 @@ var data = [
         "improved": {
           "other": 49.0,
           "total": 49.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -31240,7 +31240,7 @@ var data = [
         "improved": {
           "other": 33.0,
           "total": 33.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -31254,8 +31254,8 @@ var data = [
       "urban": {
         "improved": 17.359999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.71999999999999997,
           "total": 0.71999999999999997
         }
@@ -31263,8 +31263,8 @@ var data = [
       "total": {
         "improved": 49.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.0,
           "total": 2.0699999999999998
         }
@@ -31272,8 +31272,8 @@ var data = [
       "rural": {
         "improved": 31.66,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.3200000000000001,
           "total": 1.3200000000000001
         }
@@ -31286,7 +31286,7 @@ var data = [
         "improved": {
           "other": 18.0,
           "total": 18.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -31294,7 +31294,7 @@ var data = [
         "improved": {
           "other": 51.0,
           "total": 51.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -31302,7 +31302,7 @@ var data = [
         "improved": {
           "other": 33.0,
           "total": 33.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -31317,7 +31317,7 @@ var data = [
         "improved": 31740.259999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31326,7 +31326,7 @@ var data = [
         "improved": 42983.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.14999999999999999
         }
@@ -31335,7 +31335,7 @@ var data = [
         "improved": 11242.6,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31354,19 +31354,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -31379,7 +31379,7 @@ var data = [
         "improved": 34934.660000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31388,7 +31388,7 @@ var data = [
         "improved": 44652.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.79000000000000004
         }
@@ -31397,7 +31397,7 @@ var data = [
         "improved": 9716.5499999999993,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31441,7 +31441,7 @@ var data = [
         "improved": 36967.489999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31450,7 +31450,7 @@ var data = [
         "improved": 46429.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.32000000000000001
         }
@@ -31459,7 +31459,7 @@ var data = [
         "improved": 9461.8299999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31503,7 +31503,7 @@ var data = [
         "improved": 38427.970000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31512,7 +31512,7 @@ var data = [
         "improved": 47566.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.42999999999999999
         }
@@ -31521,7 +31521,7 @@ var data = [
         "improved": 9138.4599999999991,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31565,7 +31565,7 @@ var data = [
         "improved": 39234.489999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31574,7 +31574,7 @@ var data = [
         "improved": 48152.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.29999999999999999
         }
@@ -31583,7 +31583,7 @@ var data = [
         "improved": 8917.8099999999995,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31627,7 +31627,7 @@ var data = [
         "improved": 2100.3000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31636,7 +31636,7 @@ var data = [
         "improved": 2143.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.01
         }
@@ -31645,7 +31645,7 @@ var data = [
         "improved": 42.710000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31658,7 +31658,7 @@ var data = [
         "improved": {
           "other": 2079.0,
           "total": 2079.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 21.0
       },
@@ -31666,7 +31666,7 @@ var data = [
         "improved": {
           "other": 2121.0,
           "total": 2121.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 22.0
       },
@@ -31674,7 +31674,7 @@ var data = [
         "improved": {
           "other": 42.0,
           "total": 42.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       }
@@ -31689,7 +31689,7 @@ var data = [
         "improved": 1692.3,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31698,7 +31698,7 @@ var data = [
         "improved": 1725.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31707,7 +31707,7 @@ var data = [
         "improved": 32.710000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31720,7 +31720,7 @@ var data = [
         "improved": {
           "other": 1675.0,
           "total": 1675.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 17.0
       },
@@ -31728,7 +31728,7 @@ var data = [
         "improved": {
           "other": 1707.0,
           "total": 1707.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 18.0
       },
@@ -31736,7 +31736,7 @@ var data = [
         "improved": {
           "other": 32.0,
           "total": 32.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       }
@@ -31751,7 +31751,7 @@ var data = [
         "improved": 2188.23,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31760,7 +31760,7 @@ var data = [
         "improved": 2228.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.35999999999999999
         }
@@ -31769,7 +31769,7 @@ var data = [
         "improved": 40.130000000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31782,7 +31782,7 @@ var data = [
         "improved": {
           "other": 2166.0,
           "total": 2166.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 22.0
       },
@@ -31790,7 +31790,7 @@ var data = [
         "improved": {
           "other": 2206.0,
           "total": 2206.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 22.0
       },
@@ -31798,7 +31798,7 @@ var data = [
         "improved": {
           "other": 40.0,
           "total": 40.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -31813,7 +31813,7 @@ var data = [
         "improved": 2653.8699999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31822,7 +31822,7 @@ var data = [
         "improved": 2700.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.02
         }
@@ -31831,7 +31831,7 @@ var data = [
         "improved": 46.119999999999997,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31844,7 +31844,7 @@ var data = [
         "improved": {
           "other": 2627.0,
           "total": 2627.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 27.0
       },
@@ -31852,7 +31852,7 @@ var data = [
         "improved": {
           "other": 2673.0,
           "total": 2673.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 27.0
       },
@@ -31860,7 +31860,7 @@ var data = [
         "improved": {
           "other": 46.0,
           "total": 46.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -31875,7 +31875,7 @@ var data = [
         "improved": 2870.8899999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31884,7 +31884,7 @@ var data = [
         "improved": 2919.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.11
         }
@@ -31893,7 +31893,7 @@ var data = [
         "improved": 48.219999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -31906,7 +31906,7 @@ var data = [
         "improved": {
           "other": 2842.0,
           "total": 2842.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 29.0
       },
@@ -31914,7 +31914,7 @@ var data = [
         "improved": {
           "other": 2890.0,
           "total": 2890.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 29.0
       },
@@ -31922,7 +31922,7 @@ var data = [
         "improved": {
           "other": 48.0,
           "total": 48.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -31934,30 +31934,30 @@ var data = [
     "urban_population": 649.37,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -31966,27 +31966,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -32247,27 +32247,27 @@ var data = [
         "improved": 2472.2600000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -32286,7 +32286,7 @@ var data = [
         "improved": {
           "other": 502.0,
           "total": 2974.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -32294,7 +32294,7 @@ var data = [
         "improved": {
           "other": 502.0,
           "total": 502.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -32309,7 +32309,7 @@ var data = [
         "improved": 2960.8499999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -32317,8 +32317,8 @@ var data = [
       "total": {
         "improved": 3422.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 69.0,
           "total": 68.739999999999995
         }
@@ -32326,8 +32326,8 @@ var data = [
       "rural": {
         "improved": 461.00999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 68.890000000000001,
           "total": 68.890000000000001
         }
@@ -32371,7 +32371,7 @@ var data = [
         "improved": 3244.1599999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -32379,8 +32379,8 @@ var data = [
       "total": {
         "improved": 3703.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 69.0,
           "total": 69.280000000000001
         }
@@ -32388,8 +32388,8 @@ var data = [
       "rural": {
         "improved": 459.45999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 68.659999999999997,
           "total": 68.659999999999997
         }
@@ -32433,7 +32433,7 @@ var data = [
         "improved": 3534.6999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -32441,8 +32441,8 @@ var data = [
       "total": {
         "improved": 4011.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 71.0,
           "total": 70.590000000000003
         }
@@ -32450,8 +32450,8 @@ var data = [
       "rural": {
         "improved": 475.80000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 71.099999999999994,
           "total": 71.090000000000003
         }
@@ -32495,27 +32495,27 @@ var data = [
         "improved": 3647.8200000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -32534,7 +32534,7 @@ var data = [
         "improved": {
           "other": 546.0,
           "total": 4194.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -32542,7 +32542,7 @@ var data = [
         "improved": {
           "other": 546.0,
           "total": 546.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -32866,8 +32866,8 @@ var data = [
       "urban": {
         "improved": 3205.8499999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 99.150000000000006,
           "total": 99.150000000000006
         }
@@ -32875,8 +32875,8 @@ var data = [
       "total": {
         "improved": 4223.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 141.0,
           "total": 141.59
         }
@@ -32884,8 +32884,8 @@ var data = [
       "rural": {
         "improved": 1017.21,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 42.380000000000003,
           "total": 42.380000000000003
         }
@@ -32898,7 +32898,7 @@ var data = [
         "improved": {
           "other": 1785.0,
           "total": 1785.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1520.0
       },
@@ -32906,7 +32906,7 @@ var data = [
         "improved": {
           "other": 2368.0,
           "total": 2368.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1997.0
       },
@@ -32914,7 +32914,7 @@ var data = [
         "improved": {
           "other": 583.0,
           "total": 583.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 477.0
       }
@@ -32928,8 +32928,8 @@ var data = [
       "urban": {
         "improved": 3563.46,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 110.20999999999999,
           "total": 110.20999999999999
         }
@@ -32937,8 +32937,8 @@ var data = [
       "total": {
         "improved": 4677.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 156.0,
           "total": 157.16
         }
@@ -32946,8 +32946,8 @@ var data = [
       "rural": {
         "improved": 1114.0699999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 46.420000000000002,
           "total": 46.420000000000002
         }
@@ -32960,7 +32960,7 @@ var data = [
         "improved": {
           "other": 1984.0,
           "total": 1984.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1690.0
       },
@@ -32968,7 +32968,7 @@ var data = [
         "improved": {
           "other": 2622.0,
           "total": 2622.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2212.0
       },
@@ -32976,7 +32976,7 @@ var data = [
         "improved": {
           "other": 638.0,
           "total": 638.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 522.0
       }
@@ -32990,8 +32990,8 @@ var data = [
       "urban": {
         "improved": 3960.54,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 122.48999999999999,
           "total": 122.48999999999999
         }
@@ -32999,8 +32999,8 @@ var data = [
       "total": {
         "improved": 5174.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 173.0,
           "total": 172.38
         }
@@ -33008,8 +33008,8 @@ var data = [
       "rural": {
         "improved": 1212.8099999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 50.530000000000001,
           "total": 50.539999999999999
         }
@@ -33022,7 +33022,7 @@ var data = [
         "improved": {
           "other": 2205.0,
           "total": 2205.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1878.0
       },
@@ -33030,7 +33030,7 @@ var data = [
         "improved": {
           "other": 2900.0,
           "total": 2900.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2446.0
       },
@@ -33038,7 +33038,7 @@ var data = [
         "improved": {
           "other": 695.0,
           "total": 695.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 568.0
       }
@@ -33052,8 +33052,8 @@ var data = [
       "urban": {
         "improved": 4424.1099999999997,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 136.83000000000001,
           "total": 136.83000000000001
         }
@@ -33061,8 +33061,8 @@ var data = [
       "total": {
         "improved": 5731.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 191.0,
           "total": 191.83000000000001
         }
@@ -33070,8 +33070,8 @@ var data = [
       "rural": {
         "improved": 1307.4200000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 54.479999999999997,
           "total": 54.479999999999997
         }
@@ -33082,27 +33082,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -33114,8 +33114,8 @@ var data = [
       "urban": {
         "improved": 4732.0799999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 146.34999999999999,
           "total": 146.34999999999999
         }
@@ -33123,8 +33123,8 @@ var data = [
       "total": {
         "improved": 6091.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 203.0,
           "total": 203.18000000000001
         }
@@ -33132,8 +33132,8 @@ var data = [
       "rural": {
         "improved": 1359.1199999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 56.630000000000003,
           "total": 56.630000000000003
         }
@@ -33144,27 +33144,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -33174,30 +33174,30 @@ var data = [
     "urban_population": 40.619999999999997,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -33208,7 +33208,7 @@ var data = [
         "improved": {
           "other": 40.0,
           "total": 40.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
@@ -33216,7 +33216,7 @@ var data = [
         "improved": {
           "other": 136.0,
           "total": 136.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3.0
       },
@@ -33224,7 +33224,7 @@ var data = [
         "improved": {
           "other": 96.0,
           "total": 96.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       }
@@ -33238,8 +33238,8 @@ var data = [
       "urban": {
         "improved": 38.780000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 4.79,
           "total": 4.7999999999999998
         }
@@ -33247,8 +33247,8 @@ var data = [
       "total": {
         "improved": 131.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 16.0,
           "total": 16.219999999999999
         }
@@ -33256,8 +33256,8 @@ var data = [
       "rural": {
         "improved": 92.239999999999995,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 11.4,
           "total": 11.41
         }
@@ -33300,8 +33300,8 @@ var data = [
       "urban": {
         "improved": 39.100000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 4.8300000000000001,
           "total": 4.8399999999999999
         }
@@ -33309,8 +33309,8 @@ var data = [
       "total": {
         "improved": 140.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 17.0,
           "total": 17.16
         }
@@ -33318,8 +33318,8 @@ var data = [
       "rural": {
         "improved": 100.77,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 12.449999999999999,
           "total": 12.449999999999999
         }
@@ -33360,30 +33360,30 @@ var data = [
     "urban_population": 45.590000000000003,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -33394,7 +33394,7 @@ var data = [
         "improved": {
           "other": 45.0,
           "total": 45.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
@@ -33402,7 +33402,7 @@ var data = [
         "improved": {
           "other": 162.0,
           "total": 162.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 4.0
       },
@@ -33410,7 +33410,7 @@ var data = [
         "improved": {
           "other": 117.0,
           "total": 117.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3.0
       }
@@ -33422,30 +33422,30 @@ var data = [
     "urban_population": 47.280000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -33456,7 +33456,7 @@ var data = [
         "improved": {
           "other": 46.0,
           "total": 46.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
@@ -33464,7 +33464,7 @@ var data = [
         "improved": {
           "other": 167.0,
           "total": 167.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3.0
       },
@@ -33472,7 +33472,7 @@ var data = [
         "improved": {
           "other": 121.0,
           "total": 121.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       }
@@ -34104,30 +34104,30 @@ var data = [
     "urban_population": 2499.1199999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -34136,27 +34136,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2224.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2811.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 587.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -34166,30 +34166,30 @@ var data = [
     "urban_population": 2442.5799999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -34198,27 +34198,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2198.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2816.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 618.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -34228,30 +34228,30 @@ var data = [
     "urban_population": 2345.0599999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -34260,27 +34260,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2157.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2793.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 636.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -34290,30 +34290,30 @@ var data = [
     "urban_population": 2276.6799999999998,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -34322,27 +34322,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2117.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2767.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 650.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -34352,30 +34352,30 @@ var data = [
     "urban_population": 2222.1300000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -34384,27 +34384,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -34417,7 +34417,7 @@ var data = [
         "improved": 309.10000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -34426,7 +34426,7 @@ var data = [
         "improved": 382.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.14000000000000001
         }
@@ -34435,7 +34435,7 @@ var data = [
         "improved": 72.760000000000005,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -34479,7 +34479,7 @@ var data = [
         "improved": 338.67000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -34488,7 +34488,7 @@ var data = [
         "improved": 409.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.44
         }
@@ -34497,7 +34497,7 @@ var data = [
         "improved": 69.890000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -34541,7 +34541,7 @@ var data = [
         "improved": 365.93000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -34550,7 +34550,7 @@ var data = [
         "improved": 437.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.080000000000000002
         }
@@ -34559,7 +34559,7 @@ var data = [
         "improved": 70.989999999999995,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -34603,7 +34603,7 @@ var data = [
         "improved": 384.31999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -34612,7 +34612,7 @@ var data = [
         "improved": 464.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.029999999999999999
         }
@@ -34621,7 +34621,7 @@ var data = [
         "improved": 79.709999999999994,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -34665,7 +34665,7 @@ var data = [
         "improved": 396.12,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -34674,7 +34674,7 @@ var data = [
         "improved": 480.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.59999999999999998
         }
@@ -34683,7 +34683,7 @@ var data = [
         "improved": 84.489999999999995,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -34724,30 +34724,30 @@ var data = [
     "urban_population": 1844.24,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -34758,7 +34758,7 @@ var data = [
         "improved": {
           "other": 1844.0,
           "total": 1844.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -34766,7 +34766,7 @@ var data = [
         "improved": {
           "other": 2630.0,
           "total": 2630.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 33.0
       },
@@ -34774,7 +34774,7 @@ var data = [
         "improved": {
           "other": 786.0,
           "total": 786.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 33.0
       }
@@ -34786,30 +34786,30 @@ var data = [
     "urban_population": 1713.26,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -34828,7 +34828,7 @@ var data = [
         "improved": {
           "other": 868.0,
           "total": 2461.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 31.0
       },
@@ -34836,7 +34836,7 @@ var data = [
         "improved": {
           "other": 748.0,
           "total": 748.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 31.0
       }
@@ -35347,27 +35347,27 @@ var data = [
         "improved": 29.23,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -35384,19 +35384,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -35409,27 +35409,27 @@ var data = [
         "improved": 30.620000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -35446,19 +35446,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -35471,27 +35471,27 @@ var data = [
         "improved": 32.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -35508,19 +35508,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -35533,27 +35533,27 @@ var data = [
         "improved": 32.450000000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -35570,19 +35570,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -35595,27 +35595,27 @@ var data = [
         "improved": 32.719999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -35632,19 +35632,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -35654,30 +35654,30 @@ var data = [
     "urban_population": 2040.6700000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -35686,27 +35686,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -35716,30 +35716,30 @@ var data = [
     "urban_population": 2008.5799999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -36277,7 +36277,7 @@ var data = [
         "improved": 55.689999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -36286,7 +36286,7 @@ var data = [
         "improved": 149.0,
         "unimproved": {
           "open_defecation": 48.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 19.0,
           "total": 66.519999999999996
         }
@@ -36295,7 +36295,7 @@ var data = [
         "improved": 92.700000000000003,
         "unimproved": {
           "open_defecation": 47.950000000000003,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 19.18,
           "total": 67.129999999999995
         }
@@ -36339,7 +36339,7 @@ var data = [
         "improved": 63.539999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -36348,7 +36348,7 @@ var data = [
         "improved": 175.0,
         "unimproved": {
           "open_defecation": 52.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 22.0,
           "total": 72.840000000000003
         }
@@ -36357,7 +36357,7 @@ var data = [
         "improved": 110.58,
         "unimproved": {
           "open_defecation": 51.600000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 22.120000000000001,
           "total": 73.719999999999999
         }
@@ -36401,7 +36401,7 @@ var data = [
         "improved": 75.450000000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -36410,7 +36410,7 @@ var data = [
         "improved": 221.0,
         "unimproved": {
           "open_defecation": 37.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 14.0,
           "total": 51.25
         }
@@ -36419,7 +36419,7 @@ var data = [
         "improved": 145.63,
         "unimproved": {
           "open_defecation": 37.390000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 13.779999999999999,
           "total": 51.170000000000002
         }
@@ -36463,7 +36463,7 @@ var data = [
         "improved": 99.230000000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -36472,7 +36472,7 @@ var data = [
         "improved": 269.0,
         "unimproved": {
           "open_defecation": 21.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2.0,
           "total": 23.399999999999999
         }
@@ -36481,7 +36481,7 @@ var data = [
         "improved": 169.99000000000001,
         "unimproved": {
           "open_defecation": 21.25,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1.9299999999999999,
           "total": 23.18
         }
@@ -36525,7 +36525,7 @@ var data = [
         "improved": 115.58,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -36534,7 +36534,7 @@ var data = [
         "improved": 298.0,
         "unimproved": {
           "open_defecation": 8.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 7.0300000000000002
         }
@@ -36543,7 +36543,7 @@ var data = [
         "improved": 181.86000000000001,
         "unimproved": {
           "open_defecation": 7.5800000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 7.5800000000000001
         }
@@ -36896,7 +36896,7 @@ var data = [
       "urban": {
         "improved": 23.559999999999999,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 3.3700000000000001,
           "other": 3.6699999999999999,
           "total": 7.0300000000000002
@@ -36905,7 +36905,7 @@ var data = [
       "total": {
         "improved": 31.0,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 5.0,
           "other": 12.0,
           "total": 16.289999999999999
@@ -36914,7 +36914,7 @@ var data = [
       "rural": {
         "improved": 6.8499999999999996,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 1.5,
           "other": 8.3499999999999996,
           "total": 9.8499999999999996
@@ -36928,7 +36928,7 @@ var data = [
         "improved": {
           "other": 29.0,
           "total": 29.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       },
@@ -36936,7 +36936,7 @@ var data = [
         "improved": {
           "other": 45.0,
           "total": 45.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3.0
       },
@@ -36944,7 +36944,7 @@ var data = [
         "improved": {
           "other": 16.0,
           "total": 16.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       }
@@ -36958,7 +36958,7 @@ var data = [
       "urban": {
         "improved": 26.300000000000001,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 3.6600000000000001,
           "other": 3.3300000000000001,
           "total": 6.9900000000000002
@@ -36967,7 +36967,7 @@ var data = [
       "total": {
         "improved": 34.0,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 6.0,
           "other": 11.0,
           "total": 17.010000000000002
@@ -36976,7 +36976,7 @@ var data = [
       "rural": {
         "improved": 7.7999999999999998,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 1.77,
           "other": 8.1500000000000004,
           "total": 9.9199999999999999
@@ -36990,7 +36990,7 @@ var data = [
         "improved": {
           "other": 31.0,
           "total": 31.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       },
@@ -36998,7 +36998,7 @@ var data = [
         "improved": {
           "other": 48.0,
           "total": 48.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3.0
       },
@@ -37006,7 +37006,7 @@ var data = [
         "improved": {
           "other": 17.0,
           "total": 17.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       }
@@ -37020,7 +37020,7 @@ var data = [
       "urban": {
         "improved": 27.460000000000001,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 4.1200000000000001,
           "other": 2.75,
           "total": 6.8700000000000001
@@ -37029,7 +37029,7 @@ var data = [
       "total": {
         "improved": 36.0,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 6.0,
           "other": 10.0,
           "total": 16.140000000000001
@@ -37038,7 +37038,7 @@ var data = [
       "rural": {
         "improved": 8.5500000000000007,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 1.96,
           "other": 7.2999999999999998,
           "total": 9.2599999999999998
@@ -37052,7 +37052,7 @@ var data = [
         "improved": {
           "other": 32.0,
           "total": 32.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       },
@@ -37060,7 +37060,7 @@ var data = [
         "improved": {
           "other": 49.0,
           "total": 49.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3.0
       },
@@ -37068,7 +37068,7 @@ var data = [
         "improved": {
           "other": 17.0,
           "total": 17.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       }
@@ -37204,30 +37204,30 @@ var data = [
     "urban_population": 1103.3900000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -37236,27 +37236,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -37266,30 +37266,30 @@ var data = [
     "urban_population": 1184.75,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -37298,27 +37298,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -37827,7 +37827,7 @@ var data = [
         "improved": 325.49000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -37836,7 +37836,7 @@ var data = [
         "improved": 360.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.13
         }
@@ -37845,7 +37845,7 @@ var data = [
         "improved": 34.640000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -37889,7 +37889,7 @@ var data = [
         "improved": 343.57999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -37898,7 +37898,7 @@ var data = [
         "improved": 378.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.20999999999999999
         }
@@ -37907,7 +37907,7 @@ var data = [
         "improved": 34.210000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -37951,7 +37951,7 @@ var data = [
         "improved": 359.23000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -37960,7 +37960,7 @@ var data = [
         "improved": 389.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.089999999999999997
         }
@@ -37969,7 +37969,7 @@ var data = [
         "improved": 29.68,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -38013,7 +38013,7 @@ var data = [
         "improved": 376.98000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -38022,7 +38022,7 @@ var data = [
         "improved": 403.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.42999999999999999
         }
@@ -38031,7 +38031,7 @@ var data = [
         "improved": 25.579999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -38075,7 +38075,7 @@ var data = [
         "improved": 384.22000000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -38084,7 +38084,7 @@ var data = [
         "improved": 407.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.46000000000000002
         }
@@ -38093,7 +38093,7 @@ var data = [
         "improved": 23.239999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -38134,30 +38134,30 @@ var data = [
     "urban_population": 10159.25,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -38444,30 +38444,30 @@ var data = [
     "urban_population": 281.95999999999998,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -38476,27 +38476,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -38506,30 +38506,30 @@ var data = [
     "urban_population": 332.86000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -38538,27 +38538,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -38754,30 +38754,30 @@ var data = [
     "urban_population": 1263.9000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -39066,8 +39066,8 @@ var data = [
       "urban": {
         "improved": 33.420000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 5.9000000000000004,
           "total": 5.9000000000000004
         }
@@ -39075,8 +39075,8 @@ var data = [
       "total": {
         "improved": 36.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 7.0,
           "total": 7.7800000000000002
         }
@@ -39084,8 +39084,8 @@ var data = [
       "rural": {
         "improved": 3.48,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.97999999999999998,
           "total": 0.98999999999999999
         }
@@ -39098,7 +39098,7 @@ var data = [
         "improved": {
           "other": 39.0,
           "total": 39.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -39106,7 +39106,7 @@ var data = [
         "improved": {
           "other": 43.0,
           "total": 43.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -39114,7 +39114,7 @@ var data = [
         "improved": {
           "other": 4.0,
           "total": 4.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -39128,8 +39128,8 @@ var data = [
       "urban": {
         "improved": 47.100000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 5.8200000000000003,
           "total": 5.8200000000000003
         }
@@ -39137,8 +39137,8 @@ var data = [
       "total": {
         "improved": 51.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 7.0,
           "total": 6.71
         }
@@ -39146,8 +39146,8 @@ var data = [
       "rural": {
         "improved": 4.1100000000000003,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.67000000000000004,
           "total": 0.67000000000000004
         }
@@ -39160,7 +39160,7 @@ var data = [
         "improved": {
           "other": 52.0,
           "total": 52.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
@@ -39168,7 +39168,7 @@ var data = [
         "improved": {
           "other": 57.0,
           "total": 57.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
@@ -39176,7 +39176,7 @@ var data = [
         "improved": {
           "other": 5.0,
           "total": 5.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -39190,8 +39190,8 @@ var data = [
       "urban": {
         "improved": 59.219999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 5.1500000000000004,
           "total": 5.1500000000000004
         }
@@ -39199,8 +39199,8 @@ var data = [
       "total": {
         "improved": 63.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 5.0,
           "total": 6.0
         }
@@ -39208,8 +39208,8 @@ var data = [
       "rural": {
         "improved": 4.3099999999999996,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.32000000000000001,
           "total": 0.33000000000000002
         }
@@ -39222,7 +39222,7 @@ var data = [
         "improved": {
           "other": 63.0,
           "total": 63.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
@@ -39230,7 +39230,7 @@ var data = [
         "improved": {
           "other": 67.0,
           "total": 67.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       },
@@ -39238,7 +39238,7 @@ var data = [
         "improved": {
           "other": 4.0,
           "total": 4.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       }
@@ -39252,8 +39252,8 @@ var data = [
       "urban": {
         "improved": 71.219999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 4.5499999999999998,
           "total": 4.5499999999999998
         }
@@ -39261,8 +39261,8 @@ var data = [
       "total": {
         "improved": 75.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 5.0,
           "total": 5.2000000000000002
         }
@@ -39270,8 +39270,8 @@ var data = [
       "rural": {
         "improved": 4.2599999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.17999999999999999,
           "total": 0.17999999999999999
         }
@@ -39284,7 +39284,7 @@ var data = [
         "improved": {
           "other": 74.0,
           "total": 74.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       },
@@ -39292,7 +39292,7 @@ var data = [
         "improved": {
           "other": 78.0,
           "total": 78.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       },
@@ -39300,7 +39300,7 @@ var data = [
         "improved": {
           "other": 4.0,
           "total": 4.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -39312,28 +39312,28 @@ var data = [
     "urban_population": 79.599999999999994,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 5.5300000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.23000000000000001,
           "total": 0.23000000000000001
         }
@@ -39346,7 +39346,7 @@ var data = [
         "improved": {
           "other": 78.0,
           "total": 78.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       },
@@ -39354,7 +39354,7 @@ var data = [
         "improved": {
           "other": 84.0,
           "total": 84.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       },
@@ -39362,7 +39362,7 @@ var data = [
         "improved": {
           "other": 6.0,
           "total": 6.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -39996,8 +39996,8 @@ var data = [
       "urban": {
         "improved": 1.29,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.050000000000000003,
           "total": 0.059999999999999998
         }
@@ -40005,8 +40005,8 @@ var data = [
       "total": {
         "improved": 10.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.72999999999999998
         }
@@ -40014,8 +40014,8 @@ var data = [
       "rural": {
         "improved": 9.0099999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.38,
           "total": 0.38
         }
@@ -40058,8 +40058,8 @@ var data = [
       "urban": {
         "improved": 1.26,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.050000000000000003,
           "total": 0.050000000000000003
         }
@@ -40067,8 +40067,8 @@ var data = [
       "total": {
         "improved": 10.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.23000000000000001
         }
@@ -40076,8 +40076,8 @@ var data = [
       "rural": {
         "improved": 8.5600000000000005,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.35999999999999999,
           "total": 0.35999999999999999
         }
@@ -40120,8 +40120,8 @@ var data = [
       "urban": {
         "improved": 0.52000000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.02,
           "total": 0.029999999999999999
         }
@@ -40129,8 +40129,8 @@ var data = [
       "total": {
         "improved": 5.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.040000000000000001
         }
@@ -40138,8 +40138,8 @@ var data = [
       "rural": {
         "improved": 4.2400000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.17999999999999999,
           "total": 0.17000000000000001
         }
@@ -40182,8 +40182,8 @@ var data = [
       "urban": {
         "improved": 0.72999999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.029999999999999999,
           "total": 0.029999999999999999
         }
@@ -40191,8 +40191,8 @@ var data = [
       "total": {
         "improved": 6.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.37
         }
@@ -40200,8 +40200,8 @@ var data = [
       "rural": {
         "improved": 4.6699999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.19,
           "total": 0.20000000000000001
         }
@@ -40244,8 +40244,8 @@ var data = [
       "urban": {
         "improved": 0.87,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.040000000000000001,
           "total": 0.040000000000000001
         }
@@ -40253,8 +40253,8 @@ var data = [
       "total": {
         "improved": 6.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.089999999999999997
         }
@@ -40262,8 +40262,8 @@ var data = [
       "rural": {
         "improved": 4.7999999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.20000000000000001,
           "total": 0.20000000000000001
         }
@@ -40304,30 +40304,30 @@ var data = [
     "urban_population": 350.50999999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -40344,19 +40344,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -40368,28 +40368,28 @@ var data = [
       "urban": {
         "improved": 336.23000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 25.309999999999999,
           "total": 25.309999999999999
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -40406,19 +40406,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -40430,28 +40430,28 @@ var data = [
       "urban": {
         "improved": 354.10000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 22.600000000000001,
           "total": 22.600000000000001
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -40468,19 +40468,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -40492,28 +40492,28 @@ var data = [
       "urban": {
         "improved": 370.41000000000003,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 19.5,
           "total": 19.5
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -40530,19 +40530,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -40554,28 +40554,28 @@ var data = [
       "urban": {
         "improved": 375.50999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 19.760000000000002,
           "total": 19.760000000000002
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -40592,19 +40592,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -42787,7 +42787,7 @@ var data = [
         "improved": 0.70999999999999996,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -42796,7 +42796,7 @@ var data = [
         "improved": 2.2999999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -42805,7 +42805,7 @@ var data = [
         "improved": 1.5900000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -42818,7 +42818,7 @@ var data = [
         "improved": {
           "other": 0.70999999999999996,
           "total": 0.70999999999999996,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -42826,7 +42826,7 @@ var data = [
         "improved": {
           "other": 2.2999999999999998,
           "total": 2.2999999999999998,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -42834,7 +42834,7 @@ var data = [
         "improved": {
           "other": 1.5900000000000001,
           "total": 1.5900000000000001,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -42849,7 +42849,7 @@ var data = [
         "improved": 0.67000000000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -42858,7 +42858,7 @@ var data = [
         "improved": 2.1200000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -42867,7 +42867,7 @@ var data = [
         "improved": 1.45,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -42880,7 +42880,7 @@ var data = [
         "improved": {
           "other": 0.67000000000000004,
           "total": 0.67000000000000004,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -42888,7 +42888,7 @@ var data = [
         "improved": {
           "other": 2.1200000000000001,
           "total": 2.1200000000000001,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -42911,7 +42911,7 @@ var data = [
         "improved": 0.64000000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -42920,7 +42920,7 @@ var data = [
         "improved": 1.8899999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -42929,7 +42929,7 @@ var data = [
         "improved": 1.25,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -42942,7 +42942,7 @@ var data = [
         "improved": {
           "other": 0.64000000000000001,
           "total": 0.64000000000000001,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -42950,7 +42950,7 @@ var data = [
         "improved": {
           "other": 0.89000000000000001,
           "total": 1.8899999999999999,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -42973,7 +42973,7 @@ var data = [
         "improved": 0.59999999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -42982,7 +42982,7 @@ var data = [
         "improved": 1.6399999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -42991,7 +42991,7 @@ var data = [
         "improved": 1.04,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43004,7 +43004,7 @@ var data = [
         "improved": {
           "other": 0.59999999999999998,
           "total": 0.59999999999999998,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -43012,7 +43012,7 @@ var data = [
         "improved": {
           "other": 1.6399999999999999,
           "total": 1.6399999999999999,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -43035,7 +43035,7 @@ var data = [
         "improved": 0.60999999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43044,7 +43044,7 @@ var data = [
         "improved": 1.52,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43053,7 +43053,7 @@ var data = [
         "improved": 0.91000000000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43066,7 +43066,7 @@ var data = [
         "improved": {
           "other": 0.60999999999999999,
           "total": 0.60999999999999999,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -43074,7 +43074,7 @@ var data = [
         "improved": {
           "other": 1.52,
           "total": 1.52,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -43082,7 +43082,7 @@ var data = [
         "improved": {
           "other": 0.91000000000000003,
           "total": 0.91000000000000003,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -43097,7 +43097,7 @@ var data = [
         "improved": 10270.139999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43106,7 +43106,7 @@ var data = [
         "improved": 14953.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.26000000000000001
         }
@@ -43115,7 +43115,7 @@ var data = [
         "improved": 4682.6000000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43159,7 +43159,7 @@ var data = [
         "improved": 11248.139999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43168,7 +43168,7 @@ var data = [
         "improved": 15448.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.40999999999999998
         }
@@ -43177,7 +43177,7 @@ var data = [
         "improved": 4200.2700000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43221,7 +43221,7 @@ var data = [
         "improved": 12222.370000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43230,7 +43230,7 @@ var data = [
         "improved": 15914.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.75
         }
@@ -43239,7 +43239,7 @@ var data = [
         "improved": 3692.3800000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43283,7 +43283,7 @@ var data = [
         "improved": 13085.690000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43292,7 +43292,7 @@ var data = [
         "improved": 16317.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.67000000000000004
         }
@@ -43301,7 +43301,7 @@ var data = [
         "improved": 3230.6300000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43345,7 +43345,7 @@ var data = [
         "improved": 13532.33,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43354,7 +43354,7 @@ var data = [
         "improved": 16527.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.63
         }
@@ -43363,7 +43363,7 @@ var data = [
         "improved": 2995.3000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43407,7 +43407,7 @@ var data = [
         "improved": 3052.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43416,7 +43416,7 @@ var data = [
         "improved": 4241.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.48999999999999999
         }
@@ -43425,7 +43425,7 @@ var data = [
         "improved": 1189.48,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43469,7 +43469,7 @@ var data = [
         "improved": 3215.5100000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43478,7 +43478,7 @@ var data = [
         "improved": 4360.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.81999999999999995
         }
@@ -43487,7 +43487,7 @@ var data = [
         "improved": 1143.6800000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43531,7 +43531,7 @@ var data = [
         "improved": 3411.4400000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43540,7 +43540,7 @@ var data = [
         "improved": 4484.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.040000000000000001
         }
@@ -43549,7 +43549,7 @@ var data = [
         "improved": 1072.52,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43593,7 +43593,7 @@ var data = [
         "improved": 3583.46,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43602,7 +43602,7 @@ var data = [
         "improved": 4635.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.47999999999999998
         }
@@ -43611,7 +43611,7 @@ var data = [
         "improved": 1052.02,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43655,7 +43655,7 @@ var data = [
         "improved": 3692.2399999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -43664,7 +43664,7 @@ var data = [
         "improved": 4766.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.57999999999999996
         }
@@ -43673,7 +43673,7 @@ var data = [
         "improved": 1074.3399999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -44024,30 +44024,30 @@ var data = [
     "urban_population": 9.1500000000000004,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -44056,27 +44056,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -44086,30 +44086,30 @@ var data = [
     "urban_population": 9.9700000000000006,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -44118,27 +44118,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -44148,30 +44148,30 @@ var data = [
     "urban_population": 10.039999999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -44180,27 +44180,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -44219,21 +44219,21 @@ var data = [
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -44244,25 +44244,25 @@ var data = [
         "improved": {
           "other": 9.0,
           "total": 9.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -44281,21 +44281,21 @@ var data = [
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -44306,25 +44306,25 @@ var data = [
         "improved": {
           "other": 9.0,
           "total": 9.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -44334,28 +44334,28 @@ var data = [
     "urban_population": 2869.0300000000002,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 454.58999999999997,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 61.990000000000002,
           "total": 61.990000000000002
         }
@@ -44396,28 +44396,28 @@ var data = [
     "urban_population": 3144.8000000000002,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 475.66000000000003,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 64.859999999999999,
           "total": 64.870000000000005
         }
@@ -44458,30 +44458,30 @@ var data = [
     "urban_population": 3314.1599999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -44520,30 +44520,30 @@ var data = [
     "urban_population": 3543.6500000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -44582,30 +44582,30 @@ var data = [
     "urban_population": 3660.6500000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -44647,7 +44647,7 @@ var data = [
         "improved": 1181.71,
         "unimproved": {
           "open_defecation": 24.370000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 12.18,
           "total": 36.549999999999997
         }
@@ -44656,7 +44656,7 @@ var data = [
         "improved": 1563.0,
         "unimproved": {
           "open_defecation": 224.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 56.0,
           "total": 280.0
         }
@@ -44665,7 +44665,7 @@ var data = [
         "improved": 381.08999999999997,
         "unimproved": {
           "open_defecation": 199.91999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 43.729999999999997,
           "total": 243.65000000000001
         }
@@ -44709,7 +44709,7 @@ var data = [
         "improved": 1509.8299999999999,
         "unimproved": {
           "open_defecation": 31.129999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 15.57,
           "total": 46.700000000000003
         }
@@ -44718,7 +44718,7 @@ var data = [
         "improved": 1885.0,
         "unimproved": {
           "open_defecation": 228.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 59.0,
           "total": 286.82999999999998
         }
@@ -44727,7 +44727,7 @@ var data = [
         "improved": 375.32999999999998,
         "unimproved": {
           "open_defecation": 196.90000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 43.07,
           "total": 239.97
         }
@@ -44771,7 +44771,7 @@ var data = [
         "improved": 1667.6400000000001,
         "unimproved": {
           "open_defecation": 34.380000000000003,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 17.190000000000001,
           "total": 51.579999999999998
         }
@@ -44780,7 +44780,7 @@ var data = [
         "improved": 2085.0,
         "unimproved": {
           "open_defecation": 253.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 65.0,
           "total": 317.18000000000001
         }
@@ -44789,7 +44789,7 @@ var data = [
         "improved": 416.61000000000001,
         "unimproved": {
           "open_defecation": 218.55000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 47.810000000000002,
           "total": 266.36000000000001
         }
@@ -44832,28 +44832,28 @@ var data = [
       "urban": {
         "improved": 1815.22,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 56.140000000000001,
           "total": 56.140000000000001
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -44894,28 +44894,28 @@ var data = [
       "urban": {
         "improved": 1933.73,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 59.810000000000002,
           "total": 59.810000000000002
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -46196,8 +46196,8 @@ var data = [
       "urban": {
         "improved": 7.9000000000000004,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.4900000000000002,
           "total": 2.4900000000000002
         }
@@ -46205,8 +46205,8 @@ var data = [
       "total": {
         "improved": 10.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 4.0,
           "total": 4.9299999999999997
         }
@@ -46214,8 +46214,8 @@ var data = [
       "rural": {
         "improved": 2.4500000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.0899999999999999,
           "total": 2.0899999999999999
         }
@@ -46228,7 +46228,7 @@ var data = [
         "improved": {
           "other": 8.0,
           "total": 8.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 2.0
       },
@@ -46236,7 +46236,7 @@ var data = [
         "improved": {
           "other": 12.0,
           "total": 12.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3.0
       },
@@ -46244,7 +46244,7 @@ var data = [
         "improved": {
           "other": 4.0,
           "total": 4.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       }
@@ -46258,8 +46258,8 @@ var data = [
       "urban": {
         "improved": 9.8699999999999992,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.3100000000000001,
           "total": 2.3100000000000001
         }
@@ -46267,8 +46267,8 @@ var data = [
       "total": {
         "improved": 13.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 4.0,
           "total": 4.0599999999999996
         }
@@ -46276,8 +46276,8 @@ var data = [
       "rural": {
         "improved": 2.5800000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.29,
           "total": 2.29
         }
@@ -46290,7 +46290,7 @@ var data = [
         "improved": {
           "other": 9.0,
           "total": 9.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3.0
       },
@@ -46298,7 +46298,7 @@ var data = [
         "improved": {
           "other": 14.0,
           "total": 14.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3.0
       },
@@ -46306,7 +46306,7 @@ var data = [
         "improved": {
           "other": 5.0,
           "total": 5.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -46320,8 +46320,8 @@ var data = [
       "urban": {
         "improved": 12.34,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.0700000000000001,
           "total": 1.0800000000000001
         }
@@ -46329,8 +46329,8 @@ var data = [
       "total": {
         "improved": 15.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 4.0,
           "total": 4.2800000000000002
         }
@@ -46338,8 +46338,8 @@ var data = [
       "rural": {
         "improved": 3.0499999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.8100000000000001,
           "total": 2.8100000000000001
         }
@@ -46352,7 +46352,7 @@ var data = [
         "improved": {
           "other": 10.0,
           "total": 10.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3.0
       },
@@ -46360,7 +46360,7 @@ var data = [
         "improved": {
           "other": 16.0,
           "total": 16.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3.0
       },
@@ -46368,7 +46368,7 @@ var data = [
         "improved": {
           "other": 6.0,
           "total": 6.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -46382,8 +46382,8 @@ var data = [
       "urban": {
         "improved": 13.460000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.56000000000000005,
           "total": 0.56000000000000005
         }
@@ -46391,8 +46391,8 @@ var data = [
       "total": {
         "improved": 16.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 4.0,
           "total": 4.1299999999999999
         }
@@ -46400,8 +46400,8 @@ var data = [
       "rural": {
         "improved": 3.1800000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.9300000000000002,
           "total": 2.9300000000000002
         }
@@ -46414,7 +46414,7 @@ var data = [
         "improved": {
           "other": 11.0,
           "total": 11.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3.0
       },
@@ -46422,7 +46422,7 @@ var data = [
         "improved": {
           "other": 17.0,
           "total": 17.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 3.0
       },
@@ -46430,7 +46430,7 @@ var data = [
         "improved": {
           "other": 6.0,
           "total": 6.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -46444,28 +46444,28 @@ var data = [
       "urban": {
         "improved": 13.789999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.56999999999999995,
           "total": 0.57999999999999996
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -46474,27 +46474,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -46507,7 +46507,7 @@ var data = [
         "improved": 483.13999999999999,
         "unimproved": {
           "open_defecation": 18.579999999999998,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 117.69,
           "total": 136.27000000000001
         }
@@ -46516,7 +46516,7 @@ var data = [
         "improved": 1958.0,
         "unimproved": {
           "open_defecation": 581.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1593.0,
           "total": 2173.0700000000002
         }
@@ -46525,7 +46525,7 @@ var data = [
         "improved": 1474.9000000000001,
         "unimproved": {
           "open_defecation": 561.87,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1474.9000000000001,
           "total": 2036.76
         }
@@ -46569,7 +46569,7 @@ var data = [
         "improved": 517.24000000000001,
         "unimproved": {
           "open_defecation": 19.890000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 125.98999999999999,
           "total": 145.88
         }
@@ -46578,7 +46578,7 @@ var data = [
         "improved": 2216.0,
         "unimproved": {
           "open_defecation": 667.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1825.0,
           "total": 2493.3499999999999
         }
@@ -46587,7 +46587,7 @@ var data = [
         "improved": 1699.4100000000001,
         "unimproved": {
           "open_defecation": 647.39999999999998,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1699.4100000000001,
           "total": 2346.8200000000002
         }
@@ -46631,7 +46631,7 @@ var data = [
         "improved": 533.53999999999996,
         "unimproved": {
           "open_defecation": 28.460000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 149.38999999999999,
           "total": 177.84
         }
@@ -46640,7 +46640,7 @@ var data = [
         "improved": 2498.0,
         "unimproved": {
           "open_defecation": 823.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2066.0,
           "total": 2889.6100000000001
         }
@@ -46649,7 +46649,7 @@ var data = [
         "improved": 1964.02,
         "unimproved": {
           "open_defecation": 794.96000000000004,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1917.26,
           "total": 2712.21
         }
@@ -46693,7 +46693,7 @@ var data = [
         "improved": 562.25999999999999,
         "unimproved": {
           "open_defecation": 38.509999999999998,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 169.44999999999999,
           "total": 207.96000000000001
         }
@@ -46702,7 +46702,7 @@ var data = [
         "improved": 2808.0,
         "unimproved": {
           "open_defecation": 1002.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2308.0,
           "total": 3310.1999999999998
         }
@@ -46711,7 +46711,7 @@ var data = [
         "improved": 2246.1500000000001,
         "unimproved": {
           "open_defecation": 962.63999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2139.1900000000001,
           "total": 3101.8299999999999
         }
@@ -46755,7 +46755,7 @@ var data = [
         "improved": 583.09000000000003,
         "unimproved": {
           "open_defecation": 41.060000000000002,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 197.09999999999999,
           "total": 238.16
         }
@@ -46764,7 +46764,7 @@ var data = [
         "improved": 2943.0,
         "unimproved": {
           "open_defecation": 1077.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2557.0,
           "total": 3633.8200000000002
         }
@@ -46773,7 +46773,7 @@ var data = [
         "improved": 2359.7800000000002,
         "unimproved": {
           "open_defecation": 1036.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2359.7800000000002,
           "total": 3395.79
         }
@@ -46816,28 +46816,28 @@ var data = [
       "urban": {
         "improved": 22416.459999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 934.01999999999998,
           "total": 934.01999999999998
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -46878,28 +46878,28 @@ var data = [
       "urban": {
         "improved": 22783.889999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 949.33000000000004,
           "total": 949.33000000000004
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -46940,8 +46940,8 @@ var data = [
       "urban": {
         "improved": 22770.470000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 948.76999999999998,
           "total": 948.76999999999998
         }
@@ -46949,8 +46949,8 @@ var data = [
       "total": {
         "improved": 34541.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3892.0,
           "total": 3891.8800000000001
         }
@@ -46958,8 +46958,8 @@ var data = [
       "rural": {
         "improved": 11770.91,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2942.73,
           "total": 2942.73
         }
@@ -47002,8 +47002,8 @@ var data = [
       "urban": {
         "improved": 22536.200000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 939.00999999999999,
           "total": 939.00999999999999
         }
@@ -47011,8 +47011,8 @@ var data = [
       "total": {
         "improved": 34315.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3884.0,
           "total": 3883.4000000000001
         }
@@ -47020,8 +47020,8 @@ var data = [
       "rural": {
         "improved": 11778.549999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2944.6399999999999,
           "total": 2944.6399999999999
         }
@@ -47064,8 +47064,8 @@ var data = [
       "urban": {
         "improved": 22386.139999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 932.75999999999999,
           "total": 932.75999999999999
         }
@@ -47073,8 +47073,8 @@ var data = [
       "total": {
         "improved": 34214.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3890.0,
           "total": 3890.02
         }
@@ -47082,8 +47082,8 @@ var data = [
       "rural": {
         "improved": 11828.1,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2957.02,
           "total": 2957.02
         }
@@ -47124,30 +47124,30 @@ var data = [
     "urban_population": 2546.0500000000002,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -47156,27 +47156,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -47186,30 +47186,30 @@ var data = [
     "urban_population": 3224.6199999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -47218,27 +47218,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -47248,30 +47248,30 @@ var data = [
     "urban_population": 3614.3299999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -47280,27 +47280,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -47310,30 +47310,30 @@ var data = [
     "urban_population": 3820.6999999999998,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -47342,27 +47342,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -47372,30 +47372,30 @@ var data = [
     "urban_population": 3903.29,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -47404,27 +47404,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -47434,30 +47434,30 @@ var data = [
     "urban_population": 11760.41,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -47468,7 +47468,7 @@ var data = [
         "improved": {
           "other": 11760.0,
           "total": 11760.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -47476,7 +47476,7 @@ var data = [
         "improved": {
           "other": 20143.0,
           "total": 20143.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -47484,7 +47484,7 @@ var data = [
         "improved": {
           "other": 8383.0,
           "total": 8383.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -47498,8 +47498,8 @@ var data = [
       "urban": {
         "improved": 7448.8299999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 5393.9799999999996,
           "total": 5393.9799999999996
         }
@@ -47507,8 +47507,8 @@ var data = [
       "total": {
         "improved": 12774.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 8944.0,
           "total": 8943.4200000000001
         }
@@ -47516,8 +47516,8 @@ var data = [
       "rural": {
         "improved": 5324.7600000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3549.8400000000001,
           "total": 3549.8499999999999
         }
@@ -47560,8 +47560,8 @@ var data = [
       "urban": {
         "improved": 7978.5600000000004,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 5777.5799999999999,
           "total": 5777.5799999999999
         }
@@ -47569,8 +47569,8 @@ var data = [
       "total": {
         "improved": 13441.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 9419.0,
           "total": 9417.7099999999991
         }
@@ -47578,8 +47578,8 @@ var data = [
       "rural": {
         "improved": 5461.54,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3641.0300000000002,
           "total": 3641.0300000000002
         }
@@ -47620,30 +47620,30 @@ var data = [
     "urban_population": 14493.209999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -47682,30 +47682,30 @@ var data = [
     "urban_population": 14915.299999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -47716,7 +47716,7 @@ var data = [
         "improved": {
           "other": 14915.0,
           "total": 14915.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -47724,7 +47724,7 @@ var data = [
         "improved": {
           "other": 23818.0,
           "total": 23818.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -47732,7 +47732,7 @@ var data = [
         "improved": {
           "other": 8903.0,
           "total": 8903.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -47747,7 +47747,7 @@ var data = [
         "improved": 4638.1400000000003,
         "unimproved": {
           "open_defecation": 95.629999999999995,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 47.82,
           "total": 143.44999999999999
         }
@@ -47756,7 +47756,7 @@ var data = [
         "improved": 9160.0,
         "unimproved": {
           "open_defecation": 720.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 100.0,
           "total": 819.30999999999995
         }
@@ -47765,7 +47765,7 @@ var data = [
         "improved": 4522.0200000000004,
         "unimproved": {
           "open_defecation": 623.73000000000002,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 51.979999999999997,
           "total": 675.71000000000004
         }
@@ -47809,7 +47809,7 @@ var data = [
         "improved": 5027.6700000000001,
         "unimproved": {
           "open_defecation": 51.299999999999997,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 51.299999999999997,
           "total": 102.61
         }
@@ -47818,7 +47818,7 @@ var data = [
         "improved": 9543.0,
         "unimproved": {
           "open_defecation": 444.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 51.0,
           "total": 494.91000000000003
         }
@@ -47827,7 +47827,7 @@ var data = [
         "improved": 4515.0299999999997,
         "unimproved": {
           "open_defecation": 392.61000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 392.61000000000001
         }
@@ -47871,7 +47871,7 @@ var data = [
         "improved": 5507.2799999999997,
         "unimproved": {
           "open_defecation": 55.630000000000003,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 55.630000000000003
         }
@@ -47880,7 +47880,7 @@ var data = [
         "improved": 9984.0,
         "unimproved": {
           "open_defecation": 243.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 242.12
         }
@@ -47889,7 +47889,7 @@ var data = [
         "improved": 4476.6899999999996,
         "unimproved": {
           "open_defecation": 186.53,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 186.53
         }
@@ -47933,7 +47933,7 @@ var data = [
         "improved": 6076.9700000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -47942,7 +47942,7 @@ var data = [
         "improved": 10457.0,
         "unimproved": {
           "open_defecation": 89.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 89.629999999999995
         }
@@ -47951,7 +47951,7 @@ var data = [
         "improved": 4380.2700000000004,
         "unimproved": {
           "open_defecation": 89.390000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 89.390000000000001
         }
@@ -47995,7 +47995,7 @@ var data = [
         "improved": 6351.4499999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -48004,7 +48004,7 @@ var data = [
         "improved": 10677.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.040000000000000001
         }
@@ -48013,7 +48013,7 @@ var data = [
         "improved": 4325.5900000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -48364,30 +48364,30 @@ var data = [
     "urban_population": 1462.1099999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -48398,25 +48398,25 @@ var data = [
         "improved": {
           "other": 1462.0,
           "total": 1462.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -48429,7 +48429,7 @@ var data = [
         "improved": 1676.99,
         "unimproved": {
           "open_defecation": 36.859999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 129.0,
           "total": 165.86000000000001
         }
@@ -48438,7 +48438,7 @@ var data = [
         "improved": 2327.0,
         "unimproved": {
           "open_defecation": 91.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 199.0,
           "total": 290.16000000000003
         }
@@ -48447,7 +48447,7 @@ var data = [
         "improved": 650.41999999999996,
         "unimproved": {
           "open_defecation": 54.200000000000003,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 69.689999999999998,
           "total": 123.89
         }
@@ -48491,7 +48491,7 @@ var data = [
         "improved": 2048.3899999999999,
         "unimproved": {
           "open_defecation": 22.510000000000002,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 180.08000000000001,
           "total": 202.58000000000001
         }
@@ -48500,7 +48500,7 @@ var data = [
         "improved": 2803.0,
         "unimproved": {
           "open_defecation": 41.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 306.0,
           "total": 346.44999999999999
         }
@@ -48509,7 +48509,7 @@ var data = [
         "improved": 754.72000000000003,
         "unimproved": {
           "open_defecation": 17.969999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 125.79000000000001,
           "total": 143.75
         }
@@ -48553,7 +48553,7 @@ var data = [
         "improved": 2450.9299999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 242.40000000000001,
           "total": 242.40000000000001
         }
@@ -48562,7 +48562,7 @@ var data = [
         "improved": 3349.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 413.0,
           "total": 413.00999999999999
         }
@@ -48571,7 +48571,7 @@ var data = [
         "improved": 897.69000000000005,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 170.99000000000001,
           "total": 170.97999999999999
         }
@@ -48615,7 +48615,7 @@ var data = [
         "improved": 2710.3299999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 268.05000000000001,
           "total": 268.06
         }
@@ -48624,7 +48624,7 @@ var data = [
         "improved": 3691.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 455.0,
           "total": 455.77999999999997
         }
@@ -48633,7 +48633,7 @@ var data = [
         "improved": 981.45000000000005,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 186.94,
           "total": 186.94999999999999
         }
@@ -48676,8 +48676,8 @@ var data = [
       "urban": {
         "improved": 108.06,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.0900000000000001,
           "total": 1.0900000000000001
         }
@@ -48685,8 +48685,8 @@ var data = [
       "total": {
         "improved": 192.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 4.0,
           "total": 3.3900000000000001
         }
@@ -48694,8 +48694,8 @@ var data = [
       "rural": {
         "improved": 83.650000000000006,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.5899999999999999,
           "total": 2.5899999999999999
         }
@@ -48738,8 +48738,8 @@ var data = [
       "urban": {
         "improved": 114.40000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.1599999999999999,
           "total": 1.1499999999999999
         }
@@ -48747,8 +48747,8 @@ var data = [
       "total": {
         "improved": 211.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 4.0,
           "total": 4.7999999999999998
         }
@@ -48756,8 +48756,8 @@ var data = [
       "rural": {
         "improved": 97.230000000000004,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.0099999999999998,
           "total": 3.0099999999999998
         }
@@ -48800,8 +48800,8 @@ var data = [
       "urban": {
         "improved": 122.36,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.24,
           "total": 1.24
         }
@@ -48809,8 +48809,8 @@ var data = [
       "total": {
         "improved": 231.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 4.0,
           "total": 4.96
         }
@@ -48818,8 +48818,8 @@ var data = [
       "rural": {
         "improved": 108.98999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.3700000000000001,
           "total": 3.3700000000000001
         }
@@ -48862,8 +48862,8 @@ var data = [
       "urban": {
         "improved": 130.58000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.3200000000000001,
           "total": 1.3200000000000001
         }
@@ -48871,8 +48871,8 @@ var data = [
       "total": {
         "improved": 251.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 5.0,
           "total": 4.3099999999999996
         }
@@ -48880,8 +48880,8 @@ var data = [
       "rural": {
         "improved": 119.70999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.7000000000000002,
           "total": 3.7000000000000002
         }
@@ -48924,8 +48924,8 @@ var data = [
       "urban": {
         "improved": 135.58000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.3700000000000001,
           "total": 1.3700000000000001
         }
@@ -48933,8 +48933,8 @@ var data = [
       "total": {
         "improved": 261.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 5.0,
           "total": 4.7000000000000002
         }
@@ -48942,8 +48942,8 @@ var data = [
       "rural": {
         "improved": 124.89,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.8599999999999999,
           "total": 3.8599999999999999
         }
@@ -48987,7 +48987,7 @@ var data = [
         "improved": 431.02999999999997,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -48996,7 +48996,7 @@ var data = [
         "improved": 467.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.42999999999999999
         }
@@ -49005,7 +49005,7 @@ var data = [
         "improved": 36.390000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -49018,7 +49018,7 @@ var data = [
         "improved": {
           "other": 431.0,
           "total": 431.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -49026,7 +49026,7 @@ var data = [
         "improved": {
           "other": 467.0,
           "total": 467.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -49034,7 +49034,7 @@ var data = [
         "improved": {
           "other": 36.0,
           "total": 36.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -49049,7 +49049,7 @@ var data = [
         "improved": 494.60000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -49058,7 +49058,7 @@ var data = [
         "improved": 526.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.26000000000000001
         }
@@ -49067,7 +49067,7 @@ var data = [
         "improved": 31.129999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -49080,7 +49080,7 @@ var data = [
         "improved": {
           "other": 495.0,
           "total": 495.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -49088,7 +49088,7 @@ var data = [
         "improved": {
           "other": 526.0,
           "total": 526.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -49096,7 +49096,7 @@ var data = [
         "improved": {
           "other": 31.0,
           "total": 31.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -49111,7 +49111,7 @@ var data = [
         "improved": 585.63999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -49120,7 +49120,7 @@ var data = [
         "improved": 617.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.17999999999999999
         }
@@ -49129,7 +49129,7 @@ var data = [
         "improved": 31.18,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -49142,7 +49142,7 @@ var data = [
         "improved": {
           "other": 586.0,
           "total": 586.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -49150,7 +49150,7 @@ var data = [
         "improved": {
           "other": 617.0,
           "total": 617.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -49158,7 +49158,7 @@ var data = [
         "improved": {
           "other": 31.0,
           "total": 31.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -49173,7 +49173,7 @@ var data = [
         "improved": 844.89999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -49182,7 +49182,7 @@ var data = [
         "improved": 886.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.56000000000000005
         }
@@ -49191,7 +49191,7 @@ var data = [
         "improved": 40.539999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -49204,7 +49204,7 @@ var data = [
         "improved": {
           "other": 845.0,
           "total": 845.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -49212,7 +49212,7 @@ var data = [
         "improved": {
           "other": 886.0,
           "total": 886.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -49220,7 +49220,7 @@ var data = [
         "improved": {
           "other": 41.0,
           "total": 41.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -49235,7 +49235,7 @@ var data = [
         "improved": 1225.48,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -49244,7 +49244,7 @@ var data = [
         "improved": 1280.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.85999999999999999
         }
@@ -49253,7 +49253,7 @@ var data = [
         "improved": 55.390000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -49266,7 +49266,7 @@ var data = [
         "improved": {
           "other": 1225.0,
           "total": 1225.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -49274,7 +49274,7 @@ var data = [
         "improved": {
           "other": 1280.0,
           "total": 1280.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -49282,7 +49282,7 @@ var data = [
         "improved": {
           "other": 55.0,
           "total": 55.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -49326,27 +49326,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 10497.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 10823.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 326.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -49388,27 +49388,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 10649.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 11589.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 940.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -49450,27 +49450,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 10421.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 12068.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 1647.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -49512,27 +49512,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 10448.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 12654.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2206.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -49574,27 +49574,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 10534.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 13078.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2544.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -49606,8 +49606,8 @@ var data = [
       "urban": {
         "improved": 101064.00999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 7606.9700000000003,
           "total": 7606.9700000000003
         }
@@ -49615,8 +49615,8 @@ var data = [
       "total": {
         "improved": 128640.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 19425.0,
           "total": 19425.209999999999
         }
@@ -49624,8 +49624,8 @@ var data = [
       "rural": {
         "improved": 27575.959999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 11818.27,
           "total": 11818.27
         }
@@ -49668,8 +49668,8 @@ var data = [
       "urban": {
         "improved": 101328.42,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 7626.8699999999999,
           "total": 7626.8699999999999
         }
@@ -49677,8 +49677,8 @@ var data = [
       "total": {
         "improved": 129007.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 19490.0,
           "total": 19490.099999999999
         }
@@ -49686,8 +49686,8 @@ var data = [
       "rural": {
         "improved": 27679.27,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 11862.540000000001,
           "total": 11862.540000000001
         }
@@ -49730,8 +49730,8 @@ var data = [
       "urban": {
         "improved": 100051.56,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 7530.7600000000002,
           "total": 7530.7600000000002
         }
@@ -49739,8 +49739,8 @@ var data = [
       "total": {
         "improved": 127413.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 19257.0,
           "total": 19256.830000000002
         }
@@ -49748,8 +49748,8 @@ var data = [
       "rural": {
         "improved": 27361.259999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 11726.25,
           "total": 11726.25
         }
@@ -49792,8 +49792,8 @@ var data = [
       "urban": {
         "improved": 97104.779999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 7308.96,
           "total": 7308.9700000000003
         }
@@ -49801,8 +49801,8 @@ var data = [
       "total": {
         "improved": 124234.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 18936.0,
           "total": 18935.82
         }
@@ -49810,8 +49810,8 @@ var data = [
       "rural": {
         "improved": 27129.25,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 11626.82,
           "total": 11626.82
         }
@@ -49854,8 +49854,8 @@ var data = [
       "urban": {
         "improved": 95730.910000000003,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 7205.5500000000002,
           "total": 7205.5600000000004
         }
@@ -49863,8 +49863,8 @@ var data = [
       "total": {
         "improved": 122651.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 18743.0,
           "total": 18743.299999999999
         }
@@ -49872,8 +49872,8 @@ var data = [
       "rural": {
         "improved": 26920.48,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 11537.35,
           "total": 11537.360000000001
         }
@@ -50227,27 +50227,27 @@ var data = [
         "improved": 12451.530000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -50289,27 +50289,27 @@ var data = [
         "improved": 14360.91,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -50351,27 +50351,27 @@ var data = [
         "improved": 16614.75,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -50388,19 +50388,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -50413,27 +50413,27 @@ var data = [
         "improved": 19120.369999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -50450,19 +50450,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -50475,27 +50475,27 @@ var data = [
         "improved": 20572.689999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -50512,19 +50512,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -50537,7 +50537,7 @@ var data = [
         "improved": 4543.0500000000002,
         "unimproved": {
           "open_defecation": 721.12,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1947.02,
           "total": 2668.1300000000001
         }
@@ -50546,7 +50546,7 @@ var data = [
         "improved": 9115.0,
         "unimproved": {
           "open_defecation": 10263.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 7712.0,
           "total": 17976.380000000001
         }
@@ -50555,7 +50555,7 @@ var data = [
         "improved": 4572.4499999999998,
         "unimproved": {
           "open_defecation": 9542.4899999999998,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 5765.2600000000002,
           "total": 15307.75
         }
@@ -50599,7 +50599,7 @@ var data = [
         "improved": 5793.2799999999997,
         "unimproved": {
           "open_defecation": 1255.21,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2606.98,
           "total": 3862.1900000000001
         }
@@ -50608,7 +50608,7 @@ var data = [
         "improved": 10242.0,
         "unimproved": {
           "open_defecation": 12060.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 8539.0,
           "total": 20599.259999999998
         }
@@ -50617,7 +50617,7 @@ var data = [
         "improved": 4449.0200000000004,
         "unimproved": {
           "open_defecation": 10804.75,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 5932.0200000000004,
           "total": 16736.77
         }
@@ -50661,7 +50661,7 @@ var data = [
         "improved": 7305.1599999999999,
         "unimproved": {
           "open_defecation": 1889.26,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 3400.6799999999998,
           "total": 5289.9399999999996
         }
@@ -50670,7 +50670,7 @@ var data = [
         "improved": 11767.0,
         "unimproved": {
           "open_defecation": 13936.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 9201.0,
           "total": 23136.970000000001
         }
@@ -50679,7 +50679,7 @@ var data = [
         "improved": 4461.7700000000004,
         "unimproved": {
           "open_defecation": 12046.790000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 5800.3100000000004,
           "total": 17847.099999999999
         }
@@ -50723,7 +50723,7 @@ var data = [
         "improved": 8834.6800000000003,
         "unimproved": {
           "open_defecation": 2839.7199999999998,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 4101.8100000000004,
           "total": 6941.5299999999997
         }
@@ -50732,7 +50732,7 @@ var data = [
         "improved": 13190.0,
         "unimproved": {
           "open_defecation": 15676.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 9833.0,
           "total": 25508.470000000001
         }
@@ -50741,7 +50741,7 @@ var data = [
         "improved": 4355.2299999999996,
         "unimproved": {
           "open_defecation": 12836.469999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 5730.5699999999997,
           "total": 18567.040000000001
         }
@@ -50785,7 +50785,7 @@ var data = [
         "improved": 9886.7600000000002,
         "unimproved": {
           "open_defecation": 3595.1799999999998,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 4493.9799999999996,
           "total": 8089.1599999999999
         }
@@ -50794,7 +50794,7 @@ var data = [
         "improved": 14094.0,
         "unimproved": {
           "open_defecation": 17151.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 10103.0,
           "total": 27253.720000000001
         }
@@ -50803,7 +50803,7 @@ var data = [
         "improved": 4206.9200000000001,
         "unimproved": {
           "open_defecation": 13555.639999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 5609.2299999999996,
           "total": 19164.880000000001
         }
@@ -51156,28 +51156,28 @@ var data = [
       "urban": {
         "improved": 2986.2199999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 30.16,
           "total": 30.16
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -51194,19 +51194,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -51218,28 +51218,28 @@ var data = [
       "urban": {
         "improved": 3445.3699999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 34.799999999999997,
           "total": 34.810000000000002
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -51256,19 +51256,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -51281,27 +51281,27 @@ var data = [
         "improved": 4018.3400000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -51318,19 +51318,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -51343,27 +51343,27 @@ var data = [
         "improved": 4266.96,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -51380,19 +51380,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -51405,27 +51405,27 @@ var data = [
         "improved": 4615.0200000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -51442,19 +51442,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -51466,28 +51466,28 @@ var data = [
       "urban": {
         "improved": 42.039999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.85999999999999999,
           "total": 0.85999999999999999
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -51496,27 +51496,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 33.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -51528,8 +51528,8 @@ var data = [
       "urban": {
         "improved": 52.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.0600000000000001,
           "total": 1.0600000000000001
         }
@@ -51537,8 +51537,8 @@ var data = [
       "total": {
         "improved": 108.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 254.0,
           "total": 253.84999999999999
         }
@@ -51546,8 +51546,8 @@ var data = [
       "rural": {
         "improved": 55.579999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 253.21000000000001,
           "total": 253.21000000000001
         }
@@ -51590,8 +51590,8 @@ var data = [
       "urban": {
         "improved": 63.979999999999997,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.3100000000000001,
           "total": 1.3100000000000001
         }
@@ -51599,8 +51599,8 @@ var data = [
       "total": {
         "improved": 127.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 288.0,
           "total": 288.54000000000002
         }
@@ -51608,8 +51608,8 @@ var data = [
       "rural": {
         "improved": 63.049999999999997,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 287.20999999999998,
           "total": 287.20999999999998
         }
@@ -51652,8 +51652,8 @@ var data = [
       "urban": {
         "improved": 78.75,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.6100000000000001,
           "total": 1.6100000000000001
         }
@@ -51661,8 +51661,8 @@ var data = [
       "total": {
         "improved": 150.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 325.0,
           "total": 323.75999999999999
         }
@@ -51670,8 +51670,8 @@ var data = [
       "rural": {
         "improved": 70.810000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 322.58999999999997,
           "total": 322.58999999999997
         }
@@ -51714,28 +51714,28 @@ var data = [
       "urban": {
         "improved": 89.439999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.8300000000000001,
           "total": 1.8300000000000001
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -51744,27 +51744,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -51774,30 +51774,30 @@ var data = [
     "urban_population": 1344.9000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -51806,27 +51806,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -52394,30 +52394,30 @@ var data = [
     "urban_population": 21.77,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -52426,27 +52426,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -52456,30 +52456,30 @@ var data = [
     "urban_population": 23.030000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -52488,27 +52488,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -52518,30 +52518,30 @@ var data = [
     "urban_population": 25.190000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -52550,27 +52550,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -52580,30 +52580,30 @@ var data = [
     "urban_population": 29.390000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -52612,27 +52612,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -52642,30 +52642,30 @@ var data = [
     "urban_population": 29.41,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -52674,27 +52674,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -52704,30 +52704,30 @@ var data = [
     "urban_population": 1956.24,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -52736,27 +52736,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -53014,30 +53014,30 @@ var data = [
     "urban_population": 4821.9799999999996,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -53046,27 +53046,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -53076,30 +53076,30 @@ var data = [
     "urban_population": 5193.2799999999997,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -53108,27 +53108,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -53324,30 +53324,30 @@ var data = [
     "urban_population": 50.68,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -53356,27 +53356,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -53643,21 +53643,21 @@ var data = [
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -53674,19 +53674,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -53976,27 +53976,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2969.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 5004.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2035.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -54038,27 +54038,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2966.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 5059.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
+          "other": -1.0,
+          "total": -1.0,
           "piped": 2093.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -54257,7 +54257,7 @@ var data = [
         "improved": 970.66999999999996,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54266,7 +54266,7 @@ var data = [
         "improved": 1927.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.29999999999999999
         }
@@ -54275,7 +54275,7 @@ var data = [
         "improved": 956.02999999999997,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54319,7 +54319,7 @@ var data = [
         "improved": 995.21000000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54328,7 +54328,7 @@ var data = [
         "improved": 1966.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.20999999999999999
         }
@@ -54337,7 +54337,7 @@ var data = [
         "improved": 970.99000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54381,7 +54381,7 @@ var data = [
         "improved": 1007.63,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54390,7 +54390,7 @@ var data = [
         "improved": 1986.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.58999999999999997
         }
@@ -54399,7 +54399,7 @@ var data = [
         "improved": 977.76999999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54443,7 +54443,7 @@ var data = [
         "improved": 990.96000000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54452,7 +54452,7 @@ var data = [
         "improved": 2001.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.17000000000000001
         }
@@ -54461,7 +54461,7 @@ var data = [
         "improved": 1010.21,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54505,7 +54505,7 @@ var data = [
         "improved": 976.50999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54514,7 +54514,7 @@ var data = [
         "improved": 2016.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.88
         }
@@ -54523,7 +54523,7 @@ var data = [
         "improved": 1038.6199999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54567,7 +54567,7 @@ var data = [
         "improved": 7112.3900000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54576,7 +54576,7 @@ var data = [
         "improved": 8558.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.82999999999999996
         }
@@ -54585,7 +54585,7 @@ var data = [
         "improved": 1446.4400000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54629,7 +54629,7 @@ var data = [
         "improved": 7399.1000000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54638,7 +54638,7 @@ var data = [
         "improved": 8827.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.050000000000000003
         }
@@ -54647,7 +54647,7 @@ var data = [
         "improved": 1427.8499999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54691,7 +54691,7 @@ var data = [
         "improved": 7444.8400000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54700,7 +54700,7 @@ var data = [
         "improved": 8860.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.16
         }
@@ -54709,7 +54709,7 @@ var data = [
         "improved": 1415.3199999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54753,7 +54753,7 @@ var data = [
         "improved": 7644.7299999999996,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54762,7 +54762,7 @@ var data = [
         "improved": 9067.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.56000000000000005
         }
@@ -54771,7 +54771,7 @@ var data = [
         "improved": 1421.71,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54815,7 +54815,7 @@ var data = [
         "improved": 7779.7299999999996,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54824,7 +54824,7 @@ var data = [
         "improved": 9205.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.40000000000000002
         }
@@ -54833,7 +54833,7 @@ var data = [
         "improved": 1424.8699999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -54874,30 +54874,30 @@ var data = [
     "urban_population": 198.00999999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -54906,27 +54906,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -55184,30 +55184,30 @@ var data = [
     "urban_population": 35.490000000000002,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -55216,27 +55216,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -55246,30 +55246,30 @@ var data = [
     "urban_population": 37.729999999999997,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -55278,27 +55278,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -55311,27 +55311,27 @@ var data = [
         "improved": 38.93,
         "unimproved": {
           "open_defecation": 0.40999999999999998,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2.0699999999999998,
           "total": 2.4900000000000002
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -55348,19 +55348,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2000
@@ -55373,27 +55373,27 @@ var data = [
         "improved": 41.950000000000003,
         "unimproved": {
           "open_defecation": 0.44,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1.3100000000000001,
           "total": 1.75
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -55410,19 +55410,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -55435,27 +55435,27 @@ var data = [
         "improved": 45.689999999999998,
         "unimproved": {
           "open_defecation": 0.46999999999999997,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.93999999999999995,
           "total": 1.4099999999999999
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -55472,19 +55472,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -55806,28 +55806,28 @@ var data = [
       "urban": {
         "improved": 4.8200000000000003,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.10000000000000001,
           "total": 0.10000000000000001
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -55838,7 +55838,7 @@ var data = [
         "improved": {
           "other": 5.0,
           "total": 5.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -55846,7 +55846,7 @@ var data = [
         "improved": {
           "other": 12.0,
           "total": 12.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -55854,7 +55854,7 @@ var data = [
         "improved": {
           "other": 7.0,
           "total": 7.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -55868,8 +55868,8 @@ var data = [
       "urban": {
         "improved": 6.4699999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.13,
           "total": 0.13
         }
@@ -55877,8 +55877,8 @@ var data = [
       "total": {
         "improved": 14.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.0,
           "total": 1.3300000000000001
         }
@@ -55886,8 +55886,8 @@ var data = [
       "rural": {
         "improved": 8.1999999999999993,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.52000000000000002,
           "total": 0.53000000000000003
         }
@@ -55930,8 +55930,8 @@ var data = [
       "urban": {
         "improved": 8.0399999999999991,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.16,
           "total": 0.17000000000000001
         }
@@ -55939,8 +55939,8 @@ var data = [
       "total": {
         "improved": 18.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.0,
           "total": 0.87
         }
@@ -55948,8 +55948,8 @@ var data = [
       "rural": {
         "improved": 10.02,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.64000000000000001,
           "total": 0.64000000000000001
         }
@@ -55992,28 +55992,28 @@ var data = [
       "urban": {
         "improved": 13.19,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.27000000000000002,
           "total": 0.27000000000000002
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -56024,7 +56024,7 @@ var data = [
         "improved": {
           "other": 13.0,
           "total": 13.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -56032,7 +56032,7 @@ var data = [
         "improved": {
           "other": 30.0,
           "total": 30.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -56040,7 +56040,7 @@ var data = [
         "improved": {
           "other": 17.0,
           "total": 17.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -56054,28 +56054,28 @@ var data = [
       "urban": {
         "improved": 15.01,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.31,
           "total": 0.31
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -56086,7 +56086,7 @@ var data = [
         "improved": {
           "other": 15.0,
           "total": 15.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -56094,7 +56094,7 @@ var data = [
         "improved": {
           "other": 32.0,
           "total": 32.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -56102,7 +56102,7 @@ var data = [
         "improved": {
           "other": 17.0,
           "total": 17.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -57053,21 +57053,21 @@ var data = [
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -57076,27 +57076,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -57354,28 +57354,28 @@ var data = [
     "urban_population": 0.0,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 0.66000000000000003,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.94999999999999996,
           "total": 0.94999999999999996
         }
@@ -57386,25 +57386,25 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
           "other": 1.0,
           "total": 1.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       }
@@ -57416,28 +57416,28 @@ var data = [
     "urban_population": 0.0,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 0.67000000000000004,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.81999999999999995,
           "total": 0.82999999999999996
         }
@@ -57448,25 +57448,25 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
           "other": 1.0,
           "total": 1.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -57478,28 +57478,28 @@ var data = [
     "urban_population": 0.0,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 0.96999999999999997,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.56999999999999995,
           "total": 0.56000000000000005
         }
@@ -57510,25 +57510,25 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
           "other": 1.0,
           "total": 1.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       }
@@ -57540,28 +57540,28 @@ var data = [
     "urban_population": 0.0,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 0.98999999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.22,
           "total": 0.22
         }
@@ -57572,25 +57572,25 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
           "other": 1.0,
           "total": 1.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -57602,28 +57602,28 @@ var data = [
     "urban_population": 0.0,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 1.1000000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.080000000000000002,
           "total": 0.089999999999999997
         }
@@ -57634,25 +57634,25 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
           "other": 1.0,
           "total": 1.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -57667,7 +57667,7 @@ var data = [
         "improved": 1635.98,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 16.530000000000001,
           "total": 16.530000000000001
         }
@@ -57676,7 +57676,7 @@ var data = [
         "improved": 3591.0,
         "unimproved": {
           "open_defecation": 20.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 57.0,
           "total": 77.0
         }
@@ -57685,7 +57685,7 @@ var data = [
         "improved": 1955.03,
         "unimproved": {
           "open_defecation": 20.149999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 40.310000000000002,
           "total": 60.460000000000001
         }
@@ -57698,25 +57698,25 @@ var data = [
         "improved": {
           "other": 1603.0,
           "total": 1603.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 50.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -57729,7 +57729,7 @@ var data = [
         "improved": 1877.4300000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 18.960000000000001,
           "total": 18.969999999999999
         }
@@ -57738,7 +57738,7 @@ var data = [
         "improved": 4099.0,
         "unimproved": {
           "open_defecation": 23.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 65.0,
           "total": 88.420000000000002
         }
@@ -57747,7 +57747,7 @@ var data = [
         "improved": 2222.29,
         "unimproved": {
           "open_defecation": 22.91,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 45.82,
           "total": 68.730000000000004
         }
@@ -57791,7 +57791,7 @@ var data = [
         "improved": 2043.1300000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 20.640000000000001,
           "total": 20.640000000000001
         }
@@ -57800,7 +57800,7 @@ var data = [
         "improved": 4408.0,
         "unimproved": {
           "open_defecation": 24.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 70.0,
           "total": 93.730000000000004
         }
@@ -57809,7 +57809,7 @@ var data = [
         "improved": 2364.8200000000002,
         "unimproved": {
           "open_defecation": 24.379999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 48.759999999999998,
           "total": 73.140000000000001
         }
@@ -57853,7 +57853,7 @@ var data = [
         "improved": 2268.3000000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 22.91,
           "total": 22.920000000000002
         }
@@ -57862,7 +57862,7 @@ var data = [
         "improved": 4743.0,
         "unimproved": {
           "open_defecation": 26.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 74.0,
           "total": 100.19
         }
@@ -57871,7 +57871,7 @@ var data = [
         "improved": 2475.4099999999999,
         "unimproved": {
           "open_defecation": 25.52,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 51.039999999999999,
           "total": 76.560000000000002
         }
@@ -57915,7 +57915,7 @@ var data = [
         "improved": 2426.4899999999998,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 24.510000000000002,
           "total": 24.510000000000002
         }
@@ -57924,7 +57924,7 @@ var data = [
         "improved": 4941.0,
         "unimproved": {
           "open_defecation": 26.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 77.0,
           "total": 102.62
         }
@@ -57933,7 +57933,7 @@ var data = [
         "improved": 2514.8400000000001,
         "unimproved": {
           "open_defecation": 25.93,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 51.850000000000001,
           "total": 77.780000000000001
         }
@@ -57946,25 +57946,25 @@ var data = [
         "improved": {
           "other": 2377.0,
           "total": 2377.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 74.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -57974,30 +57974,30 @@ var data = [
     "urban_population": 154.27000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -58006,27 +58006,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -58036,30 +58036,30 @@ var data = [
     "urban_population": 191.22,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -58068,27 +58068,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1995
@@ -58286,8 +58286,8 @@ var data = [
       "urban": {
         "improved": 21.039999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.42999999999999999,
           "total": 0.42999999999999999
         }
@@ -58295,8 +58295,8 @@ var data = [
       "total": {
         "improved": 91.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.0,
           "total": 3.5699999999999998
         }
@@ -58304,8 +58304,8 @@ var data = [
       "rural": {
         "improved": 70.180000000000007,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.9199999999999999,
           "total": 2.9199999999999999
         }
@@ -58316,27 +58316,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -58348,8 +58348,8 @@ var data = [
       "urban": {
         "improved": 21.82,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.45000000000000001,
           "total": 0.45000000000000001
         }
@@ -58357,8 +58357,8 @@ var data = [
       "total": {
         "improved": 94.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.0,
           "total": 3.3799999999999999
         }
@@ -58366,8 +58366,8 @@ var data = [
       "rural": {
         "improved": 72.109999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.0,
           "total": 3.0
         }
@@ -58410,8 +58410,8 @@ var data = [
       "urban": {
         "improved": 22.370000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.46000000000000002,
           "total": 0.46000000000000002
         }
@@ -58419,8 +58419,8 @@ var data = [
       "total": {
         "improved": 95.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.0,
           "total": 3.5899999999999999
         }
@@ -58428,8 +58428,8 @@ var data = [
       "rural": {
         "improved": 72.730000000000004,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.0299999999999998,
           "total": 3.0299999999999998
         }
@@ -58472,8 +58472,8 @@ var data = [
       "urban": {
         "improved": 23.920000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.48999999999999999,
           "total": 0.48999999999999999
         }
@@ -58481,8 +58481,8 @@ var data = [
       "total": {
         "improved": 98.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.0,
           "total": 3.8799999999999999
         }
@@ -58490,8 +58490,8 @@ var data = [
       "rural": {
         "improved": 74.370000000000005,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.1000000000000001,
           "total": 3.1000000000000001
         }
@@ -58534,8 +58534,8 @@ var data = [
       "urban": {
         "improved": 25.09,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.51000000000000001,
           "total": 0.51000000000000001
         }
@@ -58543,8 +58543,8 @@ var data = [
       "total": {
         "improved": 100.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 4.0,
           "total": 3.5699999999999998
         }
@@ -58552,8 +58552,8 @@ var data = [
       "rural": {
         "improved": 74.840000000000003,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.1200000000000001,
           "total": 3.1200000000000001
         }
@@ -58566,7 +58566,7 @@ var data = [
         "improved": {
           "other": 26.0,
           "total": 26.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -58574,7 +58574,7 @@ var data = [
         "improved": {
           "other": 104.0,
           "total": 104.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -58582,7 +58582,7 @@ var data = [
         "improved": {
           "other": 78.0,
           "total": 78.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -59526,8 +59526,8 @@ var data = [
       "urban": {
         "improved": 3.1099999999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.51000000000000001,
           "total": 0.51000000000000001
         }
@@ -59535,8 +59535,8 @@ var data = [
       "total": {
         "improved": 7.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.0,
           "total": 1.8999999999999999
         }
@@ -59544,8 +59544,8 @@ var data = [
       "rural": {
         "improved": 4.0099999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.27,
           "total": 1.27
         }
@@ -59558,7 +59558,7 @@ var data = [
         "improved": {
           "other": 3.0,
           "total": 3.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
@@ -59566,7 +59566,7 @@ var data = [
         "improved": {
           "other": 8.0,
           "total": 8.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 1.0
       },
@@ -59574,7 +59574,7 @@ var data = [
         "improved": {
           "other": 5.0,
           "total": 5.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -59588,8 +59588,8 @@ var data = [
       "urban": {
         "improved": 3.4900000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.56999999999999995,
           "total": 0.56000000000000005
         }
@@ -59597,8 +59597,8 @@ var data = [
       "total": {
         "improved": 7.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.0,
           "total": 2.2200000000000002
         }
@@ -59606,8 +59606,8 @@ var data = [
       "rural": {
         "improved": 4.0300000000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.1399999999999999,
           "total": 1.1299999999999999
         }
@@ -59620,7 +59620,7 @@ var data = [
         "improved": {
           "other": 4.0,
           "total": 4.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -59628,7 +59628,7 @@ var data = [
         "improved": {
           "other": 9.0,
           "total": 9.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -59636,7 +59636,7 @@ var data = [
         "improved": {
           "other": 5.0,
           "total": 5.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -59650,8 +59650,8 @@ var data = [
       "urban": {
         "improved": 3.8199999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 0.56999999999999995,
           "total": 0.56999999999999995
         }
@@ -59659,8 +59659,8 @@ var data = [
       "total": {
         "improved": 8.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.0,
           "total": 1.54
         }
@@ -59668,8 +59668,8 @@ var data = [
       "rural": {
         "improved": 4.0700000000000003,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.0800000000000001,
           "total": 1.0800000000000001
         }
@@ -59682,7 +59682,7 @@ var data = [
         "improved": {
           "other": 4.0,
           "total": 4.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -59690,7 +59690,7 @@ var data = [
         "improved": {
           "other": 9.0,
           "total": 9.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -59698,7 +59698,7 @@ var data = [
         "improved": {
           "other": 5.0,
           "total": 5.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -59713,7 +59713,7 @@ var data = [
         "improved": 4.0899999999999999,
         "unimproved": {
           "open_defecation": 0.089999999999999997,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.52000000000000002,
           "total": 0.60999999999999999
         }
@@ -59722,7 +59722,7 @@ var data = [
         "improved": 8.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2.0,
           "total": 1.76
         }
@@ -59731,7 +59731,7 @@ var data = [
         "improved": 4.0499999999999998,
         "unimproved": {
           "open_defecation": 0.34999999999999998,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.66000000000000003,
           "total": 1.01
         }
@@ -59752,7 +59752,7 @@ var data = [
         "improved": {
           "other": 5.0,
           "total": 10.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -59760,7 +59760,7 @@ var data = [
         "improved": {
           "other": 5.0,
           "total": 5.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       }
@@ -59775,7 +59775,7 @@ var data = [
         "improved": 4.2599999999999998,
         "unimproved": {
           "open_defecation": 0.10000000000000001,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.47999999999999998,
           "total": 0.57999999999999996
         }
@@ -59784,7 +59784,7 @@ var data = [
         "improved": 8.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1.0,
           "total": 1.8899999999999999
         }
@@ -59793,7 +59793,7 @@ var data = [
         "improved": 4.0899999999999999,
         "unimproved": {
           "open_defecation": 0.34999999999999998,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.60999999999999999,
           "total": 0.95999999999999996
         }
@@ -60494,19 +60494,19 @@ var data = [
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -61077,7 +61077,7 @@ var data = [
         "improved": 191913.51000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -61085,8 +61085,8 @@ var data = [
       "total": {
         "improved": 254236.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 630.0,
           "total": 629.22000000000003
         }
@@ -61094,8 +61094,8 @@ var data = [
       "rural": {
         "improved": 62322.190000000002,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 629.51999999999998,
           "total": 629.51999999999998
         }
@@ -61139,7 +61139,7 @@ var data = [
         "improved": 209089.16,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -61147,8 +61147,8 @@ var data = [
       "total": {
         "improved": 270032.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 616.0,
           "total": 616.05999999999995
         }
@@ -61156,8 +61156,8 @@ var data = [
       "rural": {
         "improved": 60943.309999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 615.59000000000003,
           "total": 615.59000000000003
         }
@@ -61201,7 +61201,7 @@ var data = [
         "improved": 227680.28,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -61209,8 +61209,8 @@ var data = [
       "total": {
         "improved": 287240.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 602.0,
           "total": 602.17999999999995
         }
@@ -61218,8 +61218,8 @@ var data = [
       "rural": {
         "improved": 59560.279999999999,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 601.62,
           "total": 601.61000000000001
         }
@@ -61263,7 +61263,7 @@ var data = [
         "improved": 244575.06,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -61271,8 +61271,8 @@ var data = [
       "total": {
         "improved": 302159.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 582.0,
           "total": 581.61000000000001
         }
@@ -61280,8 +61280,8 @@ var data = [
       "rural": {
         "improved": 57583.900000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 581.65999999999997,
           "total": 581.64999999999998
         }
@@ -61325,7 +61325,7 @@ var data = [
         "improved": 254680.98999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -61333,8 +61333,8 @@ var data = [
       "total": {
         "improved": 311096.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 570.0,
           "total": 570.0
         }
@@ -61342,8 +61342,8 @@ var data = [
       "rural": {
         "improved": 56415.160000000003,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 569.85000000000002,
           "total": 569.85000000000002
         }
@@ -61387,7 +61387,7 @@ var data = [
         "improved": 7818.21,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 411.48000000000002,
           "total": 411.48000000000002
         }
@@ -61396,7 +61396,7 @@ var data = [
         "improved": 17155.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 3360.0,
           "total": 3360.25
         }
@@ -61405,7 +61405,7 @@ var data = [
         "improved": 9337.0200000000004,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2948.5300000000002,
           "total": 2948.54
         }
@@ -61449,7 +61449,7 @@ var data = [
         "improved": 8457.7900000000009,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 352.41000000000003,
           "total": 352.41000000000003
         }
@@ -61458,7 +61458,7 @@ var data = [
         "improved": 19463.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 3456.0,
           "total": 3456.3600000000001
         }
@@ -61467,7 +61467,7 @@ var data = [
         "improved": 11005.139999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 3104.0100000000002,
           "total": 3104.02
         }
@@ -61511,7 +61511,7 @@ var data = [
         "improved": 8954.2099999999991,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 276.93000000000001,
           "total": 276.94
         }
@@ -61520,7 +61520,7 @@ var data = [
         "improved": 22478.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2298.0,
           "total": 2297.6100000000001
         }
@@ -61529,7 +61529,7 @@ var data = [
         "improved": 13523.68,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 2020.78,
           "total": 2020.79
         }
@@ -61573,7 +61573,7 @@ var data = [
         "improved": 9558.2900000000009,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 96.549999999999997,
           "total": 96.549999999999997
         }
@@ -61582,7 +61582,7 @@ var data = [
         "improved": 25556.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 764.0,
           "total": 763.64999999999998
         }
@@ -61591,7 +61591,7 @@ var data = [
         "improved": 15998.219999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 666.59000000000003,
           "total": 666.59000000000003
         }
@@ -61635,7 +61635,7 @@ var data = [
         "improved": 9989.2600000000002,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -61644,7 +61644,7 @@ var data = [
         "improved": 27191.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.28000000000000003
         }
@@ -61653,7 +61653,7 @@ var data = [
         "improved": 17202.02,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -61694,28 +61694,28 @@ var data = [
     "urban_population": 43.649999999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 61.229999999999997,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.5499999999999998,
           "total": 2.5499999999999998
         }
@@ -61726,27 +61726,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
@@ -61756,28 +61756,28 @@ var data = [
     "urban_population": 46.509999999999998,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 59.079999999999998,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.46,
           "total": 2.46
         }
@@ -61788,19 +61788,19 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
@@ -61818,28 +61818,28 @@ var data = [
     "urban_population": 47.93,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 57.530000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.3999999999999999,
           "total": 2.3999999999999999
         }
@@ -61850,19 +61850,19 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
@@ -61880,28 +61880,28 @@ var data = [
     "urban_population": 49.93,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 56.43,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.3500000000000001,
           "total": 2.3500000000000001
         }
@@ -61912,27 +61912,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2005
@@ -61942,28 +61942,28 @@ var data = [
     "urban_population": 51.280000000000001,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 55.520000000000003,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.3100000000000001,
           "total": 2.3199999999999998
         }
@@ -61974,27 +61974,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -62007,7 +62007,7 @@ var data = [
         "improved": 14808.15,
         "unimproved": {
           "open_defecation": 665.52999999999997,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1164.6900000000001,
           "total": 1830.22
         }
@@ -62016,7 +62016,7 @@ var data = [
         "improved": 16204.0,
         "unimproved": {
           "open_defecation": 1938.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1599.0,
           "total": 3536.8400000000001
         }
@@ -62025,7 +62025,7 @@ var data = [
         "improved": 1396.1099999999999,
         "unimproved": {
           "open_defecation": 1272.01,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 434.35000000000002,
           "total": 1706.3599999999999
         }
@@ -62069,7 +62069,7 @@ var data = [
         "improved": 17447.610000000001,
         "unimproved": {
           "open_defecation": 958.65999999999997,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 766.92999999999995,
           "total": 1725.5799999999999
         }
@@ -62078,7 +62078,7 @@ var data = [
         "improved": 18908.0,
         "unimproved": {
           "open_defecation": 2156.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 1030.0,
           "total": 3184.2399999999998
         }
@@ -62087,7 +62087,7 @@ var data = [
         "improved": 1459.52,
         "unimproved": {
           "open_defecation": 1196.8099999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 262.70999999999998,
           "total": 1459.53
         }
@@ -62131,7 +62131,7 @@ var data = [
         "improved": 20363.41,
         "unimproved": {
           "open_defecation": 1094.8099999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 437.92000000000002,
           "total": 1532.73
         }
@@ -62140,7 +62140,7 @@ var data = [
         "improved": 21719.0,
         "unimproved": {
           "open_defecation": 2100.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 589.0,
           "total": 2688.6900000000001
         }
@@ -62149,7 +62149,7 @@ var data = [
         "improved": 1356.24,
         "unimproved": {
           "open_defecation": 1004.62,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 150.69,
           "total": 1155.3099999999999
         }
@@ -62193,7 +62193,7 @@ var data = [
         "improved": 23194.84,
         "unimproved": {
           "open_defecation": 1233.77,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 246.75,
           "total": 1480.52
         }
@@ -62202,7 +62202,7 @@ var data = [
         "improved": 24364.0,
         "unimproved": {
           "open_defecation": 2054.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 309.0,
           "total": 2362.0500000000002
         }
@@ -62211,7 +62211,7 @@ var data = [
         "improved": 1168.8900000000001,
         "unimproved": {
           "open_defecation": 820.27999999999997,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 61.520000000000003,
           "total": 881.79999999999995
         }
@@ -62252,30 +62252,30 @@ var data = [
     "urban_population": 26276.759999999998,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -62284,27 +62284,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -62317,7 +62317,7 @@ var data = [
         "improved": 8.2899999999999991,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -62326,7 +62326,7 @@ var data = [
         "improved": 16.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.51000000000000001
         }
@@ -62335,7 +62335,7 @@ var data = [
         "improved": 8.2200000000000006,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -62379,7 +62379,7 @@ var data = [
         "improved": 9.9600000000000009,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -62388,7 +62388,7 @@ var data = [
         "improved": 18.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.46000000000000002
         }
@@ -62397,7 +62397,7 @@ var data = [
         "improved": 8.5,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -62441,7 +62441,7 @@ var data = [
         "improved": 11.75,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -62450,7 +62450,7 @@ var data = [
         "improved": 21.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.47999999999999998
         }
@@ -62459,7 +62459,7 @@ var data = [
         "improved": 8.7699999999999996,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -62503,7 +62503,7 @@ var data = [
         "improved": 13.32,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -62512,7 +62512,7 @@ var data = [
         "improved": 22.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.01
         }
@@ -62521,7 +62521,7 @@ var data = [
         "improved": 8.6999999999999993,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -62565,7 +62565,7 @@ var data = [
         "improved": 13.83,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -62574,7 +62574,7 @@ var data = [
         "improved": 23.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.20999999999999999
         }
@@ -62583,7 +62583,7 @@ var data = [
         "improved": 8.9600000000000009,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -62934,30 +62934,30 @@ var data = [
     "urban_population": 27.969999999999999,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       }
     },
@@ -62998,7 +62998,7 @@ var data = [
       "urban": {
         "improved": 18.399999999999999,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 7.9900000000000002,
           "other": 8.3300000000000001,
           "total": 16.329999999999998
@@ -63007,7 +63007,7 @@ var data = [
       "total": {
         "improved": 59.0,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 19.0,
           "other": 93.0,
           "total": 113.22
@@ -63016,7 +63016,7 @@ var data = [
       "rural": {
         "improved": 41.25,
         "unimproved": {
-          "open_defecation": NaN,
+          "open_defecation": -1.0,
           "shared": 11.0,
           "other": 85.25,
           "total": 96.239999999999995
@@ -63244,28 +63244,28 @@ var data = [
     "urban_population": 0.0,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 13.300000000000001,
         "unimproved": {
           "open_defecation": 0.55000000000000004,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.56000000000000005
         }
@@ -63276,19 +63276,19 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
@@ -63306,28 +63306,28 @@ var data = [
     "urban_population": 0.0,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
           "open_defecation": 1.0,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 13.75,
         "unimproved": {
           "open_defecation": 0.56999999999999995,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.57999999999999996
         }
@@ -63338,19 +63338,19 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
@@ -63368,28 +63368,28 @@ var data = [
     "urban_population": 0.0,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
           "open_defecation": 1.0,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 14.09,
         "unimproved": {
           "open_defecation": 0.58999999999999997,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.58999999999999997
         }
@@ -63400,19 +63400,19 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
@@ -63430,28 +63430,28 @@ var data = [
     "urban_population": 0.0,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 14.32,
         "unimproved": {
           "open_defecation": 0.59999999999999998,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.59999999999999998
         }
@@ -63462,19 +63462,19 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
@@ -63492,28 +63492,28 @@ var data = [
     "urban_population": 0.0,
     "sanitation": {
       "urban": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "total": {
-        "improved": NaN,
+        "improved": -1.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
-          "other": NaN,
-          "total": NaN
+          "open_defecation": -1.0,
+          "shared": -1.0,
+          "other": -1.0,
+          "total": -1.0
         }
       },
       "rural": {
         "improved": 14.6,
         "unimproved": {
           "open_defecation": 0.60999999999999999,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.60999999999999999
         }
@@ -63524,19 +63524,19 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
@@ -63557,7 +63557,7 @@ var data = [
         "improved": 34.200000000000003,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -63565,8 +63565,8 @@ var data = [
       "total": {
         "improved": 159.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 3.0,
           "total": 2.3300000000000001
         }
@@ -63574,8 +63574,8 @@ var data = [
       "rural": {
         "improved": 124.59,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 2.54,
           "total": 2.54
         }
@@ -63588,7 +63588,7 @@ var data = [
         "improved": {
           "other": 34.0,
           "total": 34.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 0.0
       },
@@ -63596,7 +63596,7 @@ var data = [
         "improved": {
           "other": 147.0,
           "total": 147.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 14.0
       },
@@ -63604,7 +63604,7 @@ var data = [
         "improved": {
           "other": 113.0,
           "total": 113.0,
-          "piped": NaN
+          "piped": -1.0
         },
         "unimproved": 14.0
       }
@@ -63619,7 +63619,7 @@ var data = [
         "improved": 36.159999999999997,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -63627,8 +63627,8 @@ var data = [
       "total": {
         "improved": 167.0,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.0,
           "total": 1.29
         }
@@ -63636,8 +63636,8 @@ var data = [
       "rural": {
         "improved": 130.80000000000001,
         "unimproved": {
-          "open_defecation": NaN,
-          "shared": NaN,
+          "open_defecation": -1.0,
+          "shared": -1.0,
           "other": 1.3200000000000001,
           "total": 1.3200000000000001
         }
@@ -63681,7 +63681,7 @@ var data = [
         "improved": 38.649999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -63690,7 +63690,7 @@ var data = [
         "improved": 177.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.44
         }
@@ -63699,7 +63699,7 @@ var data = [
         "improved": 137.91,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -63743,7 +63743,7 @@ var data = [
         "improved": 40.109999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -63752,7 +63752,7 @@ var data = [
         "improved": 179.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.029999999999999999
         }
@@ -63761,7 +63761,7 @@ var data = [
         "improved": 138.86000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -63805,7 +63805,7 @@ var data = [
         "improved": 41.039999999999999,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -63814,7 +63814,7 @@ var data = [
         "improved": 179.0,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": -0.13
         }
@@ -63823,7 +63823,7 @@ var data = [
         "improved": 137.83000000000001,
         "unimproved": {
           "open_defecation": 0.0,
-          "shared": NaN,
+          "shared": -1.0,
           "other": 0.0,
           "total": 0.0
         }
@@ -63834,27 +63834,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 2008
@@ -63896,27 +63896,27 @@ var data = [
     "water": {
       "urban": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "total": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       },
       "rural": {
         "improved": {
-          "other": NaN,
-          "total": NaN,
-          "piped": NaN
+          "other": -1.0,
+          "total": -1.0,
+          "piped": -1.0
         },
-        "unimproved": NaN
+        "unimproved": -1.0
       }
     },
     "year": 1990
