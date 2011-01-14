@@ -1,0 +1,50 @@
+<html>
+
+    <head>
+        <title>Visualization</title>
+
+        <script type="text/javascript" src="protovis-3.2/protovis-d3.2.js"></script>
+        <script type="text/javascript" src="data.js"></script>
+
+        <style type="text/css">
+            #fig {
+                width: 800px;
+                height: 600px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div id="fig" style="align:center">
+            <script type="text/javascript+protovis">
+                var width = 800;
+                var height = 600;
+
+                x = new pv.Scale.linear(pv.uniq(data, function(d) d.year).sort()).range(0, width);
+                y = new pv.Scale.linear(0, pv.max(data, function(d) d.water.total.improved)).range(0, height);
+
+                var vis = new pv.Panel()
+                    .width(width)
+                    .height(height)
+                    .bottom(0)
+                    .left(0);
+
+                vis.add(pv.Rule)
+                    .data(x.ticks())
+                    .text(x.tickFormat);
+
+                vis.add(pv.Layout.Stack)
+                    .layers(function() pv.nest(data)
+                        .key(function(d) d.water.total.improved.total)
+                        .entries())
+                    .values(function(d) d.values)
+                    .x(function(d) x(d.key))
+                    .y(function(d) y(d.water.total.improved.total))
+                    .layer.add(pv.Area);
+
+                vis.render();
+            </script>
+        </div>
+    </body>
+
+</html>
