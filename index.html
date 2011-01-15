@@ -157,6 +157,8 @@
 
         <div id="fig2">
             <script type="text/javascript+protovis">
+			var cur_country = '';
+			
                 function getCountries() {
                     filteredCountries = pv.flatten(countries)
                             .key("country")
@@ -195,6 +197,12 @@
                     .anchor("left").add(pv.Label)
                     .text(function(d) { return y2.tickFormat(d); })
                     .visible(function(d) { return d > 0; });
+					
+			vis.add(pv.Label)
+                    .text(function(d) { return " - " + cur_country; })
+                    .font("25px sans-serif")
+                    .left(190)
+                    .top(15);
 
                 var area2 = vis2.add(pv.Layout.Stack)
                     .layers(function() {
@@ -207,6 +215,7 @@
                     .x(function(d) { return x(d.year); })
                     .y(function(d) { return y2(d.total); })
                     .layer.add(pv.Area)
+					.event("mouseover", function(d, p) { cur_country = d.country; return vis; })
                     //.event("mouseout", function(d) { cur_cont = ''; return vis; });
 
                 vis2.add(pv.Panel)
