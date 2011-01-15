@@ -27,8 +27,8 @@
                     <strong>Attribute:</strong>
                     <select name="attribute" size="1"
                             onchange="attribute = this.options[this.selectedIndex].value; update(this);">
-                        <option value="water">Water improved(totals)</option>
-                        <option value="sanitation">Sanitation Unimproved(totals)</option>
+                        <option value="water">Water Improved (totals)</option>
+                        <option value="sanitation">Sanitation Unimproved (totals)</option>
                     </select>
             </div>
 
@@ -78,9 +78,11 @@
                         return "water_total_improved_total";
                 }
 
+                var yScaleFactor = 1.4
+
                 var x = new pv.Scale.linear(years).range(0, width);
                 var y = new pv.Scale.linear(0, pv.max(continents.filter(test_scale), function(d) { return d.total; }) *
-                        2).range(0, height);
+                        yScaleFactor).range(0, height);
 
                 var vis = new pv.Panel()
                     .width(width)
@@ -125,7 +127,7 @@
                     .textBaseline("bottom")
                     .textAlign(function() { return this.index == 0 ? "left" : (this.index == this.scene
                         .length - 1 ? "right" : "center"); })
-                    .text(function(d) { return Math.round(d.total); });;
+                    .text(function(d) { return pv.Format.number().format(d.total); });;
 
                 vis.add(pv.Rule)
                     .data(years)
@@ -143,7 +145,7 @@
                 vis.render();
 
                 function update(bla) {
-                    y.domain(0, pv.max(continents.filter(test_scale), function(d) { return d.total; }) * 2);
+                    y.domain(0, pv.max(continents.filter(test_scale), function(d) { return d.total; }) * yScaleFactor);
                     vis.render();
                 }
             </script>
