@@ -7,26 +7,27 @@
         <script type="text/javascript" src="data.js"></script>
 
         <style type="text/css">
-            #fig {
+            #fig, #fig2 {
                 width: 800px;
-                height: 600px;
+                height: 400px;
+                algin: center;
             }
         </style>
     </head>
 
     <body>
-        <div id="fig" style="align:center">
+        <div id="fig">
             <div style="text-align:right;padding-right:20;">
                     <strong>Population:</strong>
                     <select name="population" size="1"
-                            onchange="area = this.options[this.selectedIndex].value; update(this);">
+                            onchange="area = this.options[this.selectedIndex].value; update_cont();">
                         <option value="total">Total</option>
                         <option value="urban">Urban</option>
                         <option value="rural">Rural</option>
                     </select>
                     <strong>Attribute:</strong>
                     <select name="attribute" size="1"
-                            onchange="attribute = this.options[this.selectedIndex].value; update(this);">
+                            onchange="attribute = this.options[this.selectedIndex].value; update_cont();">
                         <option value="water">Water Improved (totals)</option>
                         <option value="sanitation">Sanitation Unimproved (totals)</option>
                     </select>
@@ -37,8 +38,9 @@
                 var attribute = "water";
 
                 var width = 800;
-                var height = 480;
+                var height = 300;
 
+                origConts = continents;
                 continents = pv.flatten(continents)
                     .key("continent")
                     .key("data", function(d) { return d; })
@@ -73,16 +75,16 @@
 
                 function test_scale(d) {
                     if(attribute == "sanitation")
-                        return "sanitation_total_unimproved_total";
+                        return d.data == "sanitation_total_unimproved_total";
                     else
-                        return "water_total_improved_total";
+                        return d.data == "water_total_improved_total";
                 }
 
-                var yScaleFactor = 1.4
+                var yScaleFactor = 1.4;
 
                 var x = new pv.Scale.linear(years).range(0, width);
-                var y = new pv.Scale.linear(0, pv.max(continents.filter(test_scale), function(d) { return d.total; }) *
-                        yScaleFactor).range(0, height);
+                var y1 = new pv.Scale.linear(0, pv.max(continents,
+                                                      function(d) { return d.total; }) * yScaleFactor).range(0, height);
 
                 var vis = new pv.Panel()
                     .width(width)
@@ -93,14 +95,14 @@
                     .bottom(30);
 
                 vis.add(pv.Rule)
-                    .data(function() { return y.ticks(); })
-                    .bottom(y)
+                    .data(function() { return y1.ticks(); })
+                    .bottom(y1)
                     .strokeStyle("#ccc")
                     .anchor("left").add(pv.Label)
-                    .text(function(d) { return y.tickFormat(d); })
+                    .text(function(d) { return y1.tickFormat(d); })
                     .visible(function(d) { return d > 0; });
 
-                var cur_cont = '';
+                var cur_cont = 'Europe';
 
                 var area = vis.add(pv.Layout.Stack)
                     .layers(function() {
@@ -111,11 +113,11 @@
                     })
                     .values(function(d) { return d.values; })
                     .x(function(d) { return x(d.year); })
-                    .y(function(d) { return y(d.total); })
+                    .y(function(d) { return y1(d.total); })
                     .layer.add(pv.Area)
                         .def("alpha", "0.5")
-                    .event("mouseover", function(d, p) { cur_cont = d.continent; return vis; })
-                    .event("mouseout", function(d) { cur_cont = ''; return vis; });
+                    .event("mouseover", function(d, p) { cur_cont = d.continent; update_ctry(); return vis; })
+                    //.event("mouseout", function(d) { cur_cont = ''; return vis; });
 
                 vis.add(pv.Panel)
                     .extend(area.parent)
@@ -144,9 +146,100 @@
 
                 vis.render();
 
-                function update(bla) {
-                    y.domain(0, pv.max(continents.filter(test_scale), function(d) { return d.total; }) * yScaleFactor);
+                function update_cont() {
+                    y1.domain(0, pv.max(continents, function(d) { return d.total; }) * yScaleFactor);
                     vis.render();
+
+                    update_ctry();
+                }
+            </script>
+        </div>
+
+        <div id="fig2">
+            <script type="text/javascript+protovis">
+                function getCountries() {
+                    filteredCountries = pv.flatten(countries)
+                            .key("country")
+                            .key("data", function(d) { return d; })
+                            .array().filter(function(d) { return d.data.continent == cur_cont; });
+
+                    filteredCountries = pv.nest(filteredCountries).key(function(d) {return d.country}).
+                            rollup(function(d) {return d[0].data});
+
+                    return pv.flatten(filteredCountries)
+                            .key("country")
+                            .key("data", function(d) { return d; })
+                            .key("year", function(i) { return years[i] })
+                            .key("total")
+                            .array();
+                }
+
+                var y2ScaleFactor = 8;
+
+                var y2 = new pv.Scale.linear(0, pv.max(getCountries().filter(test_scale),
+                                                      function(d) { return d.total; }) * y2ScaleFactor)
+                        .range(0, height);
+
+                var vis2 = new pv.Panel()
+                    .width(width)
+                    .height(height)
+                    .top(9.5)
+                    .left(70)
+                    .right(20)
+                    .bottom(30);
+
+                vis2.add(pv.Rule)
+                    .data(function() { return y2.ticks(); })
+                    .bottom(y2)
+                    .strokeStyle("#ccc")
+                    .anchor("left").add(pv.Label)
+                    .text(function(d) { return y2.tickFormat(d); })
+                    .visible(function(d) { return d > 0; });
+
+                var area2 = vis2.add(pv.Layout.Stack)
+                    .layers(function() {
+                        return pv.nest(getCountries().filter(test_data))
+                            .key(function(d) { return d.country; })
+                            .sortKeys(function(a, b) { return pv.reverseOrder(a.substring(1), b.substring(1)); })
+                            .entries();
+                    })
+                    .values(function(d) { return d.values; })
+                    .x(function(d) { return x(d.year); })
+                    .y(function(d) { return y2(d.total); })
+                    .layer.add(pv.Area)
+                    //.event("mouseout", function(d) { cur_cont = ''; return vis; });
+
+                vis2.add(pv.Panel)
+                    .extend(area2.parent)
+                .add(pv.Area)
+                    .extend(area2)
+                    .fillStyle(null)
+                .anchor("bottom").add(pv.Label)
+                    .textStyle("#ddd")
+                    .textBaseline("bottom")
+                    .textAlign(function() { return this.index == 0 ? "left" : (this.index == this.scene
+                        .length - 1 ? "right" : "center"); })
+                    .text(function(d) { return pv.Format.number().format(d.total); });;
+
+                vis2.add(pv.Rule)
+                    .data(years)
+                    .left(x)
+                    .bottom(0)
+                    .height(5)
+                    .anchor("bottom").add(pv.Label);
+/*
+                vis2.add(pv.Label)
+                    .text(function(d) { return cur_cont; })
+                    .font("25px sans-serif")
+                    .left(0)
+                    .top(15);
+
+  */             vis2.render();
+
+                function update_ctry() {
+                    y2.domain(0, pv.max(getCountries().filter(test_scale), function(d) { return d.total; }) * y2ScaleFactor);
+
+                    vis2.render();
                 }
             </script>
         </div>
