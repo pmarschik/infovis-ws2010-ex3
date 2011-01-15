@@ -35,14 +35,28 @@
                 var width = 800;
                 var height = 480;
 
-                totalsOfContinent = pv.nest(data)
-                    .key(function(d) d.continent).map();
-                    //.rollup(function(v) pv.sum(v, function(d) d.water.total.improved.total));
+                continents = pv.flatten(continents)
+                    .key("continent")
+                    .key("data", function(d) d)
+                    .key("year", function(i) years[i])
+                    .key("total")
+                    .array();
 
-                max = pv.max(data, function(d) d.water.total.improved.total);
+                continents = continents.filter(function(d) d.data == "water_total_improved_total")
 
-                x = new pv.Scale.linear(pv.range(1990, 2008, 5)).range(0, width);
-                y = new pv.Scale.linear(0, max).range(0, height);
+                var sumByYear = pv.nest(continents)
+                    .key(function(d) d.year)
+                    .rollup(function(v) pv.sum(v, function(d) d.total));
+                var sumByContinent = pv.nest(continents)
+                    .key(function(d) d.data + d.continent)
+                    .rollup(function(v) pv.sum(v, function(d) d.total));
+
+                continents.forEach(function(d) d.percent = 100 * d.total / sumByYear[d.year]);
+//debugger;
+                var x = new pv.Scale.linear(years).range(0, width);
+                var y = new pv.Scale.linear(0, 100).range(0, height);
+                var color = pv.Scale.ordinal(1, 2).range("#33f", "#f33");
+                var alpha = pv.Scale.linear(pv.values(sumByContinent)).range(.4, .8);
 
                 var vis = new pv.Panel()
                     .width(width)
@@ -53,16 +67,19 @@
                     .bottom(30);
 
                 vis.add(pv.Layout.Stack)
-                    .layers(function() pv.nest(data)
+                    .layers(pv.nest(continents)
                         .key(function(d) d.continent)
+                        .sortKeys(function(a, b) pv.reverseOrder(a.substring(1), b.substring(1)))
                         .entries())
                     .values(function(d) d.values)
                     .x(function(d) x(d.year))
-                    .y(function(d) { return (d === undefined) ? -1 : d.water.total.improved.total })
-                    .layer.add(pv.Area);
+                    .y(function(d) y(d.percent))
+                    .layer.add(pv.Area)
+               //         .def("alpha", function(d) alpha(sumByContinent[d.key]))
+                 //       .fillStyle(function(d) color(d.data).alpha(this.alpha()));
 
                 vis.add(pv.Rule)
-                    .data(pv.range(1990, 2008, 5))
+                    .data(years)
                     .left(x)
                     .bottom(5)
                     .height(5)
