@@ -15,93 +15,65 @@
     </head>
 
     <body>
-	<script type"text/javascript">
-				/* Interaction state. */
-			
-			function querySt(ji) {
-hu = window.location.search.substring(1);
-gy = hu.split("&");
-for (i=0;i<gy.length;i++) {
-ft = gy[i].split("=");
-if (ft[0] == ji) {
-return ft[1];
-}
-}
-}
-
-			var area = "total";
-			var attribute = querySt("attribute");
-	</script>
-
         <div id="fig" style="align:center">
-        <div style="text-align:right;padding-right:20;">
-			<form action="#" method="GET">
-            <strong>Population:</strong>			
-            <select name="population" size="1">
-                <option value = "total">Total</option>
-                <option value = "urban">Urban</option>
-                <option value = "rural">Rural</option>
-            </select>
-            <strong>Attribute:</strong>
-            <select name="attribute" size="1">
-                <option value = "water">Water improved(totals)</option>
-                <option value = "sanitation">Sanitation Unimproved(totals)</option>
-            </select>
-			<input type="submit" name="Go" id="submit_btn" value="Go">
-			</form>
-        </div>
+            <div style="text-align:right;padding-right:20;">
+                    <strong>Population:</strong>
+                    <select name="population" size="1"
+                            onchange="area = this.options[this.selectedIndex].value; update(this);">
+                        <option value="total">Total</option>
+                        <option value="urban">Urban</option>
+                        <option value="rural">Rural</option>
+                    </select>
+                    <strong>Attribute:</strong>
+                    <select name="attribute" size="1"
+                            onchange="attribute = this.options[this.selectedIndex].value; update(this);">
+                        <option value="water">Water improved(totals)</option>
+                        <option value="sanitation">Sanitation Unimproved(totals)</option>
+                    </select>
+            </div>
 
             <script type="text/javascript+protovis">
-
-
+                var area = "total";
+                var attribute = "water";
 
                 var width = 800;
                 var height = 480;
 
                 continents = pv.flatten(continents)
                     .key("continent")
-                    .key("data", function(d) d)
-                    .key("year", function(i) years[i])
+                    .key("data", function(d) { return d; })
+                    .key("year", function(i) { return years[i] })
                     .key("total")
                     .array();
 
-				function attributeSelection() {
-				if(attribute == "sanitation")
-				{
-					if(area=="urban")
-						return "sanitation_urban_unimproved_total";
-					if(area=="rural")
-						return "sanitation_rural_unimproved_total";
-					else
-						return "sanitation_total_unimproved_total";					
-				}
-			    else
-				{
-					if(area=="urban")
-						return "water_urban_improved_total";
-					if(area=="rural")
-						return "water_rural_improved_total";
-					else
-						return "water_total_improved_total";
-				}
-			}
+                function attributeSelection() {
+                    if(attribute == "sanitation")
+                    {
+                        if(area=="urban")
+                            return "sanitation_urban_unimproved_total";
+                        if(area=="rural")
+                            return "sanitation_rural_unimproved_total";
+                        else
+                            return "sanitation_total_unimproved_total";
+                    }
+                    else
+                    {
+                        if(area=="urban")
+                            return "water_urban_improved_total";
+                        if(area=="rural")
+                            return "water_rural_improved_total";
+                        else
+                            return "water_total_improved_total";
+                    }
+                }
 
-
-                continents = continents.filter(function(d) d.data == attributeSelection())
-
-                var sumByYear = pv.nest(continents)
-                    .key(function(d) d.year)
-                    .rollup(function(v) pv.sum(v, function(d) d.total));
-                var sumByContinent = pv.nest(continents)
-                    .key(function(d) d.data + d.continent)
-                    .rollup(function(v) pv.sum(v, function(d) d.total));
-
-                continents.forEach(function(d) d.percent = 100 * d.total / sumByYear[d.year]);
-
-                max = pv.max(continents, function(d) d.total) * 2;
+                function test(d) {
+                    return d.data == attributeSelection();
+                }
 //debugger;
                 var x = new pv.Scale.linear(years).range(0, width);
-                var y = new pv.Scale.linear(0, max).range(0, height);
+                var y = new pv.Scale.linear(0, pv.max(continents.filter(test), function(d) { return d.total; }) * 2)
+                    .range(0, height);
 
                 var vis = new pv.Panel()
                     .width(width)
@@ -112,23 +84,25 @@ return ft[1];
                     .bottom(30);
 
                 vis.add(pv.Rule)
-                    .data(y.ticks())
+                    .data(function() { return y.ticks(); })
                     .bottom(y)
-                    .strokeStyle(function(y) y ? "#ccc" : "#000")
+                    .strokeStyle("#ccc")
                     .anchor("left").add(pv.Label)
-                    .text(function(d) y.tickFormat(d))
-                    .visible(function(d) d > 0);
+                    .text(function(d) { return y.tickFormat(d); })
+                    .visible(function(d) { return d > 0; });
 
                 var cur_cont = '';
 
                 var area = vis.add(pv.Layout.Stack)
-                    .layers(pv.nest(continents)
-                        .key(function(d) d.continent)
-                        .sortKeys(function(a, b) pv.reverseOrder(a.substring(1), b.substring(1)))
-                        .entries())
-                    .values(function(d) d.values)
-                    .x(function(d) x(d.year))
-                    .y(function(d) y(d.total))
+                    .layers(function() {
+                        return pv.nest(continents.filter(test))
+                            .key(function(d) { return d.continent; })
+                            .sortKeys(function(a, b) { return pv.reverseOrder(a.substring(1), b.substring(1)); })
+                            .entries();
+                    })
+                    .values(function(d) { return d.values; })
+                    .x(function(d) { return x(d.year); })
+                    .y(function(d) { return y(d.total); })
                     .layer.add(pv.Area)
                     .event("mouseover", function(d) { cur_cont = d.continent; return vis; })
                     .event("mouseout", function(d) { cur_cont = ''; return vis; })
@@ -141,11 +115,17 @@ return ft[1];
                     .anchor("bottom").add(pv.Label);
 
                 vis.add(pv.Label)
-                    .text(function(d) cur_cont).font("25px sans-serif")
+                    .text(function(d) { return cur_cont; })
+                    .font("25px sans-serif")
                     .left(0)
                     .top(15);
 
                 vis.render();
+
+                function update(bla) {
+                    y.domain(0, pv.max(continents.filter(test), function(d) { return d.total; }) * 2);
+                    vis.render();
+                }
             </script>
         </div>
     </body>
