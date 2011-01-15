@@ -52,11 +52,11 @@
                     .rollup(function(v) pv.sum(v, function(d) d.total));
 
                 continents.forEach(function(d) d.percent = 100 * d.total / sumByYear[d.year]);
+
+                max = pv.max(continents, function(d) d.total) * 2;
 //debugger;
                 var x = new pv.Scale.linear(years).range(0, width);
-                var y = new pv.Scale.linear(0, 100).range(0, height);
-                var color = pv.Scale.ordinal(1, 2).range("#33f", "#f33");
-                var alpha = pv.Scale.linear(pv.values(sumByContinent)).range(.4, .8);
+                var y = new pv.Scale.linear(0, max).range(0, height);
 
                 var vis = new pv.Panel()
                     .width(width)
@@ -66,17 +66,26 @@
                     .right(20)
                     .bottom(30);
 
-                vis.add(pv.Layout.Stack)
+                vis.add(pv.Rule)
+                    .data(function() y.ticks())
+                    .bottom(y)
+                    .strokeStyle(function(y) y ? "#ccc" : "#000")
+                    .anchor("left").add(pv.Label)
+                    .text(function(d) y.tickFormat(d) + "");
+
+                var cur_cont = '';
+
+                var area = vis.add(pv.Layout.Stack)
                     .layers(pv.nest(continents)
                         .key(function(d) d.continent)
                         .sortKeys(function(a, b) pv.reverseOrder(a.substring(1), b.substring(1)))
                         .entries())
                     .values(function(d) d.values)
                     .x(function(d) x(d.year))
-                    .y(function(d) y(d.percent))
+                    .y(function(d) y(d.total))
                     .layer.add(pv.Area)
-               //         .def("alpha", function(d) alpha(sumByContinent[d.key]))
-                 //       .fillStyle(function(d) color(d.data).alpha(this.alpha()));
+                    .event("mouseover", function(d) { cur_cont = d.continent; return vis; })
+                    .event("mouseout", function(d) { cur_cont = ''; return vis; })
 
                 vis.add(pv.Rule)
                     .data(years)
@@ -84,6 +93,11 @@
                     .bottom(5)
                     .height(5)
                     .anchor("bottom").add(pv.Label);
+
+                vis.add(pv.Label)
+                    .text(function(d) cur_cont)
+                    .left(0)
+                    .top(2);
 
                 vis.render();
             </script>
