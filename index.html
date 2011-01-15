@@ -15,28 +15,43 @@
     </head>
 
     <body>
+	<script type"text/javascript">
+				/* Interaction state. */
+			
+			function querySt(ji) {
+hu = window.location.search.substring(1);
+gy = hu.split("&");
+for (i=0;i<gy.length;i++) {
+ft = gy[i].split("=");
+if (ft[0] == ji) {
+return ft[1];
+}
+}
+}
+
+			var area = "total";
+			var attribute = querySt("attribute");
+	</script>
 
         <div id="fig" style="align:center">
         <div style="text-align:right;padding-right:20;">
-			<form>
-            <strong>Population:</strong>
-            <select name="population" size="1" ONCHANGE="update(area = this.options[this.selectedIndex].value);">
+			<form action="#" method="GET">
+            <strong>Population:</strong>			
+            <select name="population" size="1">
                 <option value = "total">Total</option>
                 <option value = "urban">Urban</option>
                 <option value = "rural">Rural</option>
             </select>
             <strong>Attribute:</strong>
-            <select name="attribute" size="1" ONCHANGE="update(attribute = this.options[this.selectedIndex].value);">
+            <select name="attribute" size="1">
                 <option value = "water">Water improved(totals)</option>
                 <option value = "sanitation">Sanitation Unimproved(totals)</option>
             </select>
+			<input type="submit" name="Go" id="submit_btn" value="Go">
 			</form>
         </div>
 
             <script type="text/javascript+protovis">
-			/* Interaction state. */
-			var area = "total";
-			var attribute = "water";
 
 
 
@@ -51,7 +66,16 @@
                     .array();
 
 				function attributeSelection() {
-				if(attribute == "water")
+				if(attribute == "sanitation")
+				{
+					if(area=="urban")
+						return "sanitation_urban_unimproved_total";
+					if(area=="rural")
+						return "sanitation_rural_unimproved_total";
+					else
+						return "sanitation_total_unimproved_total";					
+				}
+			    else
 				{
 					if(area=="urban")
 						return "water_urban_improved_total";
@@ -59,15 +83,6 @@
 						return "water_rural_improved_total";
 					else
 						return "water_total_improved_total";
-				}
-				else
-				{
-					if(area=="urban")
-						return "sanitation_urban_unimproved_total";
-					if(area=="rural")
-						return "sanitation_rural_unimproved_total";
-					else
-						return "sanitation_total_unimproved_total";
 				}
 			}
 
