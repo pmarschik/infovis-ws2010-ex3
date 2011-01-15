@@ -19,19 +19,25 @@
         <div id="fig" style="align:center">
         <div style="text-align:right;padding-right:20;">
             <strong>Population:</strong>
-            <select name="population" size="1">
-                <option>Total</option>
-                <option>Urban</option>
-                <option>Rural</option>
+            <select name="population" size="1" ONCHANGE="area = this.options[this.selectedIndex].value;">
+                <option value = "total">Total</option>
+                <option value = "urban">Urban</option>
+                <option value = "rural">Rural</option>
             </select>
             <strong>Attribute:</strong>
-            <select name="attribute" size="1">
-                <option>Water improved(totals)</option>
-                <option>Sanitation Unimproved(totals)</option>
+            <select name="attribute" size="1" ONCHANGE="attribute = this.options[this.selectedIndex].value;">
+                <option value = "water">Water improved(totals)</option>
+                <option value = "sanitation">Sanitation Unimproved(totals)</option>
             </select>
         </div>
 
             <script type="text/javascript+protovis">
+			/* Interaction state. */
+			var area = 0;
+			var attribute = "water";
+			
+
+			
                 var width = 800;
                 var height = 480;
 
