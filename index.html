@@ -19,7 +19,7 @@
         <div id="fig" style="align:center">
         <div style="text-align:right;padding-right:20;">
 			<form>
-            <strong>Population:</strong>			
+            <strong>Population:</strong>
             <select name="population" size="1" ONCHANGE="update(area = this.options[this.selectedIndex].value);">
                 <option value = "total">Total</option>
                 <option value = "urban">Urban</option>
@@ -37,9 +37,9 @@
 			/* Interaction state. */
 			var area = "total";
 			var attribute = "water";
-			
 
-			
+
+
                 var width = 800;
                 var height = 480;
 
@@ -49,7 +49,7 @@
                     .key("year", function(i) years[i])
                     .key("total")
                     .array();
-				
+
 				function attributeSelection() {
 				if(attribute == "water")
 				{
@@ -60,14 +60,14 @@
 					else
 						return "water_total_improved_total";
 				}
-				else 
+				else
 				{
 					if(area=="urban")
 						return "sanitation_urban_unimproved_total";
 					if(area=="rural")
 						return "sanitation_rural_unimproved_total";
 					else
-						return "sanitation_total_unimproved_total";					
+						return "sanitation_total_unimproved_total";
 				}
 			}
 
@@ -92,16 +92,17 @@
                     .width(width)
                     .height(height)
                     .top(9.5)
-                    .left(39.5)
+                    .left(70)
                     .right(20)
                     .bottom(30);
 
                 vis.add(pv.Rule)
-                    .data(function() y.ticks())
+                    .data(y.ticks())
                     .bottom(y)
                     .strokeStyle(function(y) y ? "#ccc" : "#000")
                     .anchor("left").add(pv.Label)
-                    .text(function(d) y.tickFormat(d) + "");
+                    .text(function(d) y.tickFormat(d))
+                    .visible(function(d) d > 0);
 
                 var cur_cont = '';
 
@@ -120,7 +121,7 @@
                 vis.add(pv.Rule)
                     .data(years)
                     .left(x)
-                    .bottom(5)
+                    .bottom(0)
                     .height(5)
                     .anchor("bottom").add(pv.Label);
 
