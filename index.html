@@ -104,8 +104,27 @@
                     .x(function(d) { return x(d.year); })
                     .y(function(d) { return y(d.total); })
                     .layer.add(pv.Area)
-                    .event("mouseover", function(d) { cur_cont = d.continent; return vis; })
-                    .event("mouseout", function(d) { cur_cont = ''; return vis; })
+                        .def("alpha", "0.5")
+                    .event("mouseover", function(d, p) { cur_cont = d.continent; return vis; })
+                    .event("mouseout", function(d) { cur_cont = ''; return vis; });
+
+                vis.add(pv.Panel)
+                    .extend(area.parent)
+                .add(pv.Area)
+                    .extend(area)
+                    .fillStyle(null)
+                .anchor("bottom").add(pv.Label)
+                    //.def("max", function(d) { return pv.max.index(d.values, function(d) { return d.total; }); })
+                    //.visible(function() { return this.index == this.max() })
+                    //.font(function(d) { return Math.round(5 + Math.sqrt(y(d.total))) + "px sans-serif"; })
+                    //.textMargin(6)
+                    //.textStyle(function(d) { return "rgba(0, 0, 0, " + (Math.sqrt(y(d.percent)) / 7) + ")"; })
+                    //.textAlign(function() { return this.index < 5 ? "left" : "right"; })
+                    .textStyle("#ddd")
+                    .textBaseline("bottom")
+                    .textAlign(function() { return this.index == 0 ? "left" : (this.index == this.scene
+                        .length - 1 ? "right" : "center"); })
+                    .text(function(d) { return Math.round(d.total); });;
 
                 vis.add(pv.Rule)
                     .data(years)
