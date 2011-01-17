@@ -116,7 +116,7 @@
                     .y(function(d) { return y1(d.total); })
                     .layer.add(pv.Area)
                         .def("alpha", "0.5")
-                    .event("mouseover", function(d, p) { cur_cont = d.continent; update_ctry(); return vis; })
+                    .event("mouseover", function(d, p) { cur_cont = d.continent; cur_country = ''; update_ctry(); return vis; })
                     //.event("mouseout", function(d) { cur_cont = ''; return vis; });
 
                 vis.add(pv.Panel)
@@ -158,7 +158,7 @@
         <div id="fig2">
             <script type="text/javascript+protovis">
 			var cur_country = '';
-			
+
                 function getCountries() {
                     filteredCountries = pv.flatten(countries)
                             .key("country")
@@ -178,7 +178,7 @@
 
                 var y2ScaleFactor = 8;
 
-                var y2 = new pv.Scale.linear(0, pv.max(getCountries().filter(test_scale),
+                var y2 = new pv.Scale.linear(0, pv.max(getCountries().filter(test_data),
                                                       function(d) { return d.total; }) * y2ScaleFactor)
                         .range(0, height);
 
@@ -197,12 +197,6 @@
                     .anchor("left").add(pv.Label)
                     .text(function(d) { return y2.tickFormat(d); })
                     .visible(function(d) { return d > 0; });
-					
-			vis.add(pv.Label)
-                    .text(function(d) { return " - " + cur_country; })
-                    .font("25px sans-serif")
-                    .left(190)
-                    .top(15);
 
                 var area2 = vis2.add(pv.Layout.Stack)
                     .layers(function() {
@@ -215,7 +209,8 @@
                     .x(function(d) { return x(d.year); })
                     .y(function(d) { return y2(d.total); })
                     .layer.add(pv.Area)
-					.event("mouseover", function(d, p) { cur_country = d.country; return vis; })
+                        .event("mouseover", function(d, p) { cur_country = d.country; update_ctrylbl(); return vis; })
+                        .event("mouseout", function(d) { cur_country=''; update_ctrylbl(); return vis; });
                     //.event("mouseout", function(d) { cur_cont = ''; return vis; });
 
                 vis2.add(pv.Panel)
@@ -230,24 +225,28 @@
                         .length - 1 ? "right" : "center"); })
                     .text(function(d) { return pv.Format.number().format(d.total); });;
 
-                vis2.add(pv.Rule)
+                lbl = vis2.add(pv.Rule)
                     .data(years)
                     .left(x)
                     .bottom(0)
                     .height(5)
                     .anchor("bottom").add(pv.Label);
-/*
+
                 vis2.add(pv.Label)
-                    .text(function(d) { return cur_cont; })
+                    .text(function(d) { return cur_country == '' ? '' : cur_country; })
                     .font("25px sans-serif")
                     .left(0)
                     .top(15);
 
-  */             vis2.render();
+                vis2.render();
 
                 function update_ctry() {
-                    y2.domain(0, pv.max(getCountries().filter(test_scale), function(d) { return d.total; }) * y2ScaleFactor);
+                    y2.domain(0, pv.max(getCountries().filter(test_data), function(d) { return d.total; }) * y2ScaleFactor);
 
+                    vis2.render();
+                }
+
+                function update_ctrylbl() {
                     vis2.render();
                 }
             </script>
