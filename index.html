@@ -39,6 +39,8 @@
 
                 var width = 800;
                 var height = 300;
+				
+				var cur_country = '';
 
                 origConts = continents;
                 continents = pv.flatten(continents)
@@ -116,7 +118,7 @@
                     .y(function(d) { return y1(d.total); })
                     .layer.add(pv.Area)
                         .def("alpha", "0.5")
-                    .event("mouseover", function(d, p) { cur_cont = d.continent; update_ctry(); return vis; })
+                    .event("mouseover", function(d, p) { cur_cont = d.continent; cur_country = ''; update_ctry(); return vis; })
                     //.event("mouseout", function(d) { cur_cont = ''; return vis; });
 
                 vis.add(pv.Panel)
@@ -157,7 +159,7 @@
 
         <div id="fig2">
             <script type="text/javascript+protovis">
-			var cur_country = '';
+			
 			
                 function getCountries() {
                     filteredCountries = pv.flatten(countries)
