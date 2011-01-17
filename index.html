@@ -40,6 +40,8 @@
                 var width = 800;
                 var height = 300;
 
+                var cur_country = '';
+
                 origConts = continents;
                 continents = pv.flatten(continents)
                     .key("continent")
@@ -157,8 +159,6 @@
 
         <div id="fig2">
             <script type="text/javascript+protovis">
-			var cur_country = '';
-
                 function getCountries() {
                     filteredCountries = pv.flatten(countries)
                             .key("country")
