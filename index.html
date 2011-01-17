@@ -96,6 +96,10 @@
                     .right(20)
                     .bottom(30);
 
+                vis.add(pv.Bar)
+                    .fillStyle("white")
+                    .event("click", function(d) { cont_fixed = false; cur_cont=''; update_ctry(); return vis; })
+
                 vis.add(pv.Rule)
                     .data(function() { return y1.ticks(); })
                     .bottom(y1)
@@ -104,7 +108,8 @@
                     .text(function(d) { return y1.tickFormat(d); })
                     .visible(function(d) { return d > 0; });
 
-                var cur_cont = 'Europe';
+                var cur_cont = '';
+                var cont_fixed = false;
 
                 var area = vis.add(pv.Layout.Stack)
                     .layers(function() {
@@ -117,8 +122,10 @@
                     .x(function(d) { return x(d.year); })
                     .y(function(d) { return y1(d.total); })
                     .layer.add(pv.Area)
-                        .def("alpha", "0.5")
-                    .event("mouseover", function(d, p) { cur_cont = d.continent; cur_country = ''; update_ctry(); return vis; })
+                        .strokeStyle(function(d,p,a,b) { return cur_cont == d.continent ? "#000" : null})
+                        .lineWidth(3)
+                    .event("mouseover", function(d, p) { if(!cont_fixed) { cur_cont = d.continent; cur_country = ''; } update_ctry(); return vis; })
+                    .event("click", function(d,p) { cont_fixed = true; cur_cont = d.continent; cur_country = ''; update_ctry(); return vis; });
                     //.event("mouseout", function(d) { cur_cont = ''; return vis; });
 
                 vis.add(pv.Panel)
