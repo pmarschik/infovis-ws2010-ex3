@@ -12,10 +12,34 @@
                 height: 400px;
                 algin: center;
             }
+			
+            #description {
+                width: 800px;
+                height: 80px;
+                algin: center;
+				padding:15px;
+				font-family:Verdana
+            }
+			
+			#description2 {
+                width: 800px;
+                height: 80px;
+                algin: center;
+				padding:0px 15px 15px 15px;
+				font-family:Verdana
+            }
+
         </style>
     </head>
 
     <body>
+		
+	    <div id="description">
+		This graph shows the attribut development for the continents. <br> 
+		The user is able to move the mouse over single continentes to display the name of that continent. <br>
+		It's also possible to select a continent by clicking on it.		
+		</div>
+		
         <div id="fig">
             <div style="text-align:right;padding-right:20;">
                     <strong>Population:</strong>
@@ -179,7 +203,10 @@
                 }
             </script>
         </div>
-
+		<div id="description2">
+		If a continent is selected this chart compares the development of the countries of the selected continent. <br>
+		If the user is moving the mouse over the area of a country, the actual name of the country is shown as label in the left upper corner of the chart.
+		</div>
         <div id="fig2">
             <script type="text/javascript+protovis">
                 function getCountries() {
