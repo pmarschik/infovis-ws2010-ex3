@@ -111,6 +111,8 @@
                 var cur_cont = '';
                 var cont_fixed = false;
 
+                var conts = pv.uniq(continents, function(d) {return d.continent});
+
                 var area = vis.add(pv.Layout.Stack)
                     .layers(function() {
                         return pv.nest(continents.filter(test_data))
@@ -122,8 +124,23 @@
                     .x(function(d) { return x(d.year); })
                     .y(function(d) { return y1(d.total); })
                     .layer.add(pv.Area)
-                        .strokeStyle(function(d,p,a,b) { return cur_cont == d.continent ? "#000" : null})
-                        .lineWidth(3)
+                        .fillStyle(function(d) {
+                                a=-1;
+                                for(i=0;i<conts.length;i++) {
+                                    if(conts[i]==d.continent) {
+                                        a=i;
+                                        break;
+                                    }
+                                }
+
+                                console.log(x);
+
+                                if(a<0) return null;
+
+                                color =  pv.Colors.category10().range()[a % 10];
+
+                                return color.alpha(d.continent == cur_cont ? 0.9 : 0.7); })
+                        .lineWidth(1)
                     .event("mouseover", function(d, p) { if(!cont_fixed) { cur_cont = d.continent; cur_country = ''; } update_ctry(); return vis; })
                     .event("click", function(d,p) { cont_fixed = true; cur_cont = d.continent; cur_country = ''; update_ctry(); return vis; });
                     //.event("mouseout", function(d) { cur_cont = ''; return vis; });
@@ -134,11 +151,12 @@
                     .extend(area)
                     .fillStyle(null)
                 .anchor("bottom").add(pv.Label)
-                    .textStyle("#ddd")
+                    .textStyle("#000")
                     .textBaseline("bottom")
                     .textAlign(function() { return this.index == 0 ? "left" : (this.index == this.scene
                         .length - 1 ? "right" : "center"); })
-                    .text(function(d) { return pv.Format.number().format(d.total); });;
+                    .text(function(d) { return pv.Format.number().format(d.total); })
+                    .visible(function(d) { return d.continent == cur_cont; });
 
                 vis.add(pv.Rule)
                     .data(years)
@@ -215,8 +233,24 @@
                     .values(function(d) { return d.values; })
                     .x(function(d) { return x(d.year); })
                     .y(function(d) { return y2(d.total); })
-                    .layer.add(pv.Area)
-                        .event("mouseover", function(d, p) { cur_country = d.country; update_ctrylbl(); return vis; })
+                    .layer.add(pv.Area).events("all")
+                            .fillStyle(function(d) {
+                                a=-1;
+                                for(i=0;i<ctrylst.length;i++) {
+                                    if(ctrylst[i]==d.country) {
+                                        a=i;
+                                        break;
+                                    }
+                                }
+
+                                console.log(x);
+
+                                if(a<0) return null;
+
+                                color =  pv.Colors.category20().range()[a % 20];
+
+                                return color.alpha(d.country == cur_country ? 0.9 : 0.7); })
+                        .event("mouseover", function(d, p) {cur_country = d.country; update_ctrylbl(); return vis; })
                         .event("mouseout", function(d) { cur_country=''; update_ctrylbl(); return vis; });
                     //.event("mouseout", function(d) { cur_cont = ''; return vis; });
 
@@ -226,11 +260,12 @@
                     .extend(area2)
                     .fillStyle(null)
                 .anchor("bottom").add(pv.Label)
-                    .textStyle("#ddd")
+                    .textStyle("#000")
                     .textBaseline("bottom")
                     .textAlign(function() { return this.index == 0 ? "left" : (this.index == this.scene
                         .length - 1 ? "right" : "center"); })
-                    .text(function(d) { return pv.Format.number().format(d.total); });;
+                    .text(function(d) { return pv.Format.number().format(d.total); })
+                    .visible(function(d) { return d.country == cur_country; });
 
                 lbl = vis2.add(pv.Rule)
                     .data(years)
@@ -247,8 +282,13 @@
 
                 vis2.render();
 
+                ctrylst = [];
+
                 function update_ctry() {
-                    y2.domain(0, pv.max(getCountries().filter(test_data), function(d) { return d.total; }) * y2ScaleFactor);
+                    ctrys = getCountries();
+                    ctrylst = pv.uniq(ctrys, function(d) { return d.country; });
+
+                    y2.domain(0, pv.max(ctrys.filter(test_data), function(d) { return d.total; }) * y2ScaleFactor);
 
                     vis2.render();
                 }
