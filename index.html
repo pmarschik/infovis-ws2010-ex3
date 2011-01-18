@@ -40,6 +40,14 @@
         </style>
     </head>
 
+	<div style="text-align:center; padding:20px; border:thin solid blue; margin:25px">
+		<h1><span style="font-weight:bold; color:blue; font-size:130%"> Interactive Visualization - exercise 3</span></h1>
+		<ul>
+		<p>Vienna University of Technologie - course: Information Visualization WS 2010/11 </p>
+		<p>Group 5: Alili Jasin, Bachhuber Ben, Marschik Patrick</p>
+		</ul>
+	</div>
+	
     <body>
         <div id="description">
         This graph shows the attribut development for the continents. <br>
@@ -200,6 +208,12 @@
                     .left(0)
                     .top(15);
 
+                vis.add(pv.Label)
+				    .right(300)
+					.bottom(-30)
+					.textStyle("#444")
+				    .text("Continent - All values have to be multiplicated with 1000.");
+
                 vis.render();
 
                 function update_cont() {
@@ -310,6 +324,12 @@
                     .left(0)
                     .top(15);
 
+				vis2.add(pv.Label)
+				    .right(300)
+					.bottom(-30)
+					.textStyle("#444")
+				    .text(" Country - All values have to be multiplicated with 1000.");
+                
                 vis2.render();
 
                 ctrylst = [];
